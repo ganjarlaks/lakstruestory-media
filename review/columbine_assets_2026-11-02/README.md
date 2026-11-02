@@ -5,3 +5,4 @@ Clips (public domain US govt WHTV/NARA unless noted):
 Commission report PDF pages 1, 6, 12, 18, 19, 85 (170 dpi). Pages 6 name attackers lower on the page: crop above y 300/792 pt. Source PDF https://www.policinginstitute.org/wp-content/uploads/2018/07/Columbine-Governors-Commission-Report.pdf (188 pp).
 shots/: 1280x720 page captures (E4 CBS 911 tapes, E11 CBS report draws fire, E12 CSMonitor, E13 OJP abstract, E15 ASU, E18 memorial, E8 Jeffco). They contain nav bars/cookie banners: crop to the article text.
 NOT obtained: C-SPAN CS1-CS3 (archive.org download returns 0 bytes), E2 columbia.edu (403), E14 oodaloop (403), E16 txst (404). Use alternates or drop.
+- CL1_clinton_remarks_full.mp4: the full 9:26 Clinton remarks (same Wikimedia source), added 3 Nov 02:10 JKT. Use for extra real-audio spans.
