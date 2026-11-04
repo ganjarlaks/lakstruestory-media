@@ -4,3 +4,6 @@ Bed alone (first 60 s of the music track, LUFS): cut 3 -30.2, final -32.1 (-1.94
 1080p master: the picture was built at 720p from 480p-class sources, so it is a clean Lanczos upscale to 1920x1080 with captions rendered at 1080p; no extra sharpening, no claim of true 1080p detail. H.264 + AAC, 77.9 MB, 0 decode errors over the full file.
 Thumbnail: Gandhi/Apollo/MLK layout (A TRUE STORY label, white then yellow Poppins Bold title, black left gradient, B/W real photo frame from the Charlie Rose 1993 interview on the right).
 Publish pack: L06_mandela_publish_pack.md (proposal only).
+
+## Calm-bed revision (owner Thu 5 Nov 00:48 JKT: calmer backsound, thumbnail approved)
+New bed: Chopin Nocturne Op. 9 no. 2 then Op. 27 no. 2 (6 s crossfade, 5 kHz low-pass, levelled and gently compressed), performer Aaron Dunn, Musopen "Complete Chopin Collection", CC0 1.0, https://archive.org/details/musopen-chopin. Replaces Op. 9 no. 1 and Op. 72 no. 1. Bed alone, first 60 s of the music track: -32.1 LUFS (same level and basis as before). Loudest 10 s of the bed is 2.7 dB above its average (limit 6 dB); music peak 0.23 (0.48 before). Final mix -16.2 LUFS, peak 0.89, 0 decode errors on the 720p, the 1080p and both Shorts. Picture, voice, cards, closing and chapter times unchanged. Shorts rebuilt with the same bed (A 29.2 s, B 27.8 s).
