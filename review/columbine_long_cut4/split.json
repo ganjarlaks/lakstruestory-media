@@ -1,0 +1,47 @@
+{
+ "total_s": 509.0,
+ "split": {
+  "real moving footage": [
+   378.8,
+   "74.4%"
+  ],
+  "chapter/title/closing cards": [
+   44.3,
+   "8.7%"
+  ],
+  "document / page crop / article capture": [
+   56.7,
+   "11.1%"
+  ],
+  "own text card": [
+   29.2,
+   "5.7%"
+  ]
+ },
+ "real_footage_s": 378.8,
+ "real_footage_pct": 74.4,
+ "footage_by_source": {
+  "C1": 26.2,
+  "C2": 13.5,
+  "C3": 9.8,
+  "C4": 12.6,
+  "CL1": 106.2,
+  "CL2": 6.0,
+  "N01": 9.3,
+  "N02": 24.5,
+  "N03": 12.8,
+  "N04": 3.7,
+  "N05": 17.6,
+  "N06": 10.3,
+  "N07": 15.8,
+  "N08": 29.5,
+  "N10": 23.7,
+  "N11": 14.9,
+  "N12": 37.5,
+  "PD": 5.0
+ },
+ "tv_broadcast_s": 261.7,
+ "clinton_nara_whtv_s": 117.2,
+ "real_audio_s": 141.9,
+ "silent_broadcast_broll_s": 236.9
+}
