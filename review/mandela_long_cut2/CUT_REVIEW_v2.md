@@ -1,6 +1,6 @@
 # Mandela LONG: CUT_REVIEW v2 (4 Nov 2026, review copy 720p)
 
-Title (owner-confirmed): Mandela: 27 Years In Prison, Then One Long Walk Out. Slot: Sat 7 Nov 2026 08:00 JKT. Nothing scheduled, nothing posted, 0 Higgsfield credits.
+Title (owner-confirmed): Mandela : Out from the prison. Slot: Sat 7 Nov 2026 08:00 JKT. Nothing scheduled, nothing posted, 0 Higgsfield credits.
 Owner decision driving this cut (21:42 JKT): cut to 8 minutes, fewer text cards, more real footage and video, TV broadcast footage is fine, more sourcing approved.
 
 WATCH (720p, 8:30.0, 42.5 MiB, 0 decode errors): https://github.com/ganjarlaks/lakstruestory-media/blob/main/review/mandela_long_cut2/mandela_long_cut2_review_720p.mp4
