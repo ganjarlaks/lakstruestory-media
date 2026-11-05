@@ -1,16 +1,16 @@
 # Publish pack: Mandela long + Short A + Short B (PROPOSAL ONLY, owner decides; nothing scheduled, uploaded or posted)
-Updated 5 Nov 2026 00:48+ JKT (owner: calmer backsound; thumbnail approved). Chapter times unchanged. Prepared 5 Nov 2026 JKT by the video-editor run. Every item needs the owner's explicit yes (title, description, hashtags, time) before any upload.
+Updated 5 Nov 2026 JKT: owner changed the title (5 Nov 12:01 JKT) to "Mandela : Walk Out of Prison"; opener card, Short cards, thumbnail rebuilt, audio/footage/timing/captions unchanged (calm bed, owner 00:48 JKT). Chapter times unchanged. Prepared 5 Nov 2026 JKT by the video-editor run. Every item needs the owner's explicit yes (title, description, hashtags, time) before any upload.
 
 ## Files
-- LONG 1080p master 8:35, calm bed (77.9 MB, 0 decode errors): https://raw.githubusercontent.com/ganjarlaks/lakstruestory-media/main/videos/laks_true_story_mandela_LONG_final_calm_1080p_MASTER_08m35.mp4
-- LONG 720p review of the final (44.7 MB): https://raw.githubusercontent.com/ganjarlaks/lakstruestory-media/main/videos/laks_true_story_mandela_LONG_final_calm_720p_REVIEW_08m35.mp4
-- Thumbnail 1280x720 PNG: https://raw.githubusercontent.com/ganjarlaks/lakstruestory-media/main/thumbnails/LTS_mandela_long_thumb_v1.png
-- SHORT A 29.2 s: https://raw.githubusercontent.com/ganjarlaks/lakstruestory-media/main/videos/laks_true_story_mandela_SHORT_A_v5_calm_1080x1920_DRAFT.mp4
-- SHORT B 27.8 s: https://raw.githubusercontent.com/ganjarlaks/lakstruestory-media/main/videos/laks_true_story_mandela_SHORT_B_v5_calm_1080x1920_DRAFT.mp4
+- LONG 1080p master 8:35, calm bed (77.9 MB, 0 decode errors): https://raw.githubusercontent.com/ganjarlaks/lakstruestory-media/main/videos/laks_true_story_mandela_LONG_v2_walkout_calm_1080p_MASTER_08m35.mp4
+- LONG 720p review of the final (44.7 MB): https://raw.githubusercontent.com/ganjarlaks/lakstruestory-media/main/videos/laks_true_story_mandela_LONG_v2_walkout_calm_720p_REVIEW_08m35.mp4
+- Thumbnail 1280x720 PNG (v2, new title; same Gandhi/Apollo/MLK layout, B/W Charlie Rose 30 Sep 1993 frame): https://raw.githubusercontent.com/ganjarlaks/lakstruestory-media/main/thumbnails/LTS_mandela_long_thumb_v2_walkout.png
+- SHORT A 29.2 s: https://raw.githubusercontent.com/ganjarlaks/lakstruestory-media/main/videos/laks_true_story_mandela_SHORT_A_v2_walkout_calm_1080x1920_DRAFT.mp4
+- SHORT B 27.8 s: https://raw.githubusercontent.com/ganjarlaks/lakstruestory-media/main/videos/laks_true_story_mandela_SHORT_B_v2_walkout_calm_1080x1920_DRAFT.mp4
 - Captions (English, draft): https://raw.githubusercontent.com/ganjarlaks/lakstruestory-media/main/review/mandela_long_final/mandela_long_final_captions_en_DRAFT.srt
 
-## Title (owner, exact, also the thumbnail text and the Shorts' cards)
-Mandela : Out from the prison
+## Title (owner, exact, 5 Nov 12:01 JKT; also the opener card, the thumbnail text and the Shorts' cards; previous title "Mandela : Out from the prison" is retired)
+Mandela : Walk Out of Prison
 
 ## Long description (proposal)
 A TRUE STORY. On 11 February 1990, Nelson Mandela walked out of Victor Verster Prison near Paarl after 27 years. This film follows what put him there, what he refused, and what he said when he got out: from Sharpeville in 1960 and the 1964 life sentence, through the prison years and the offer he turned down in 1985, to the day of the release and the road to the 1994 election. Pictures are archive background footage from 1950 to 1993 and do not always show the exact event narrated; each shot is labelled on screen.
@@ -23,7 +23,7 @@ Chapters
 6:01 Chapter 4: From Freedom To The Presidency
 8:18 Closing and references
 
-Credits and sources: Nelson Mandela Foundation, prison chronology; Nobel Prize, 1993 Presentation Speech and Mandela biography; Nobel Lecture, Oslo, 10 Dec 1993; History.com, 10 May 1994. Footage, short excerpts for commentary and education, attributed on screen: BBC News, 12 Feb 1990; Global Vision / PBS, "Nelson Mandela: Free At Last" (1990); PBS Frontline, "Apartheid's Last Stand" (1993); Charlie Rose, 30 Sep 1993; Nobel Prize ceremony video, Oslo 1993. Music: Frederic Chopin, Nocturne Op. 9 no. 2 and Nocturne Op. 27 no. 2, performed by Aaron Dunn, Musopen "The Complete Chopin Collection", CC0 1.0 public domain dedication (https://archive.org/details/musopen-chopin; files "Nocturne Op. 9 no. 2 in E flat major.mp3" and "NocturneOp27No2.mp3").
+Credits and sources: Nelson Mandela Foundation, prison chronology; Nobel Prize, 1993 Presentation Speech and Mandela biography; Nobel Lecture, Oslo, 10 Dec 1993; History.com, 10 May 1994. Footage, short excerpts for commentary and education, attributed on screen: BBC News, 12 Feb 1990; Global Vision / PBS, "Nelson Mandela: Free At Last" (1990); PBS Frontline, "Apartheid's Last Stand" (1993); Charlie Rose, 30 Sep 1993; Nobel Prize ceremony video, Oslo 1993. Music (calm bed, confirmed against build_mandela_long_v4.py music_bed: o9n2.mp3 then o27n2.mp3, 6 s crossfade; the earlier Op. 9 no. 1 / Op. 72 no. 1 bed is no longer used): Frederic Chopin, Nocturne Op. 9 no. 2 and Nocturne Op. 27 no. 2, performed by Aaron Dunn, Musopen "The Complete Chopin Collection", CC0 1.0 public domain dedication (https://archive.org/details/musopen-chopin; files "Nocturne Op. 9 no. 2 in E flat major.mp3" and "NocturneOp27No2.mp3").
 AI voice disclosure: the narration is an AI-generated voice (voice clone, Fraser). Script and edit by Laks True Story. Contains real archive recordings, labelled on screen.
 In memory of Nelson Mandela, 1918 to 2013.
 
@@ -31,13 +31,13 @@ In memory of Nelson Mandela, 1918 to 2013.
 #Mandela #NelsonMandela #SouthAfrica #Apartheid #History #Freedom #1990 #Documentary #TrueStory #lakstruestory
 
 ## SHORT A (angle: the man who refused; the 1964 "prepared to die" line, the 1985 offer, then the 1961 versus 1990 contrast)
-Title: Mandela : Out from the prison
+Title: Mandela : Walk Out of Prison
 Description: In 1964 he said freedom was an ideal he was prepared to die for. In 1985 he was offered his freedom if he renounced violence. A True Story. Full video at our channel. Background pictures from PBS, 1989 to 1992. AI-generated voice. In memory of Nelson Mandela, 1918 to 2013.
 Hashtags: #Mandela #NelsonMandela #SouthAfrica #Apartheid #History #TrueStory #lakstruestory #Shorts
 Slot (as given by the coordinator): Sat 7 Nov 2026 08:00 JKT, YouTube Shorts + TikTok (no Instagram). NOTE: the long is also slotted Sat 7 Nov 08:00 JKT; two uploads at the same minute on one channel is the owner's call, flagged for a decision.
 
 ## SHORT B (angle: release day; the wait at Victor Verster, a 71-year-old few had seen, raised fists)
-Title: Mandela : Out from the prison
+Title: Mandela : Walk Out of Prison
 Description: He wanted to walk out of Victor Verster. He was due out at 3 pm and was not free until after four. A True Story. Full video at our channel. Background pictures from PBS, 1990. AI-generated voice. In memory of Nelson Mandela, 1918 to 2013.
 Hashtags: #Mandela #NelsonMandela #SouthAfrica #1990 #History #TrueStory #lakstruestory #Shorts
 Slot: Sat 7 Nov 2026 23:00 JKT, YouTube Shorts only.
