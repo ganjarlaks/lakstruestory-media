@@ -1,0 +1,593 @@
+1
+00:00:00,231 --> 00:00:04,518
+The night before Challenger launched,
+its engineers said it was too cold to fly.
+
+2
+00:00:06,291 --> 00:00:07,285
+They were overruled.
+
+3
+00:00:07,738 --> 00:00:09,798
+This is the story of mission 51-L.
+
+4
+00:00:17,531 --> 00:00:20,409
+Challenger was the second
+space shuttle to enter service,
+
+5
+00:00:20,680 --> 00:00:23,439
+and it first flew in April 1983.
+
+6
+00:00:25,211 --> 00:00:28,751
+By January 1986 it had
+completed nine missions,
+
+7
+00:00:28,962 --> 00:00:31,378
+and mission 51-L was its tenth.
+
+8
+00:00:33,331 --> 00:00:36,318
+NASA had promised that the shuttle
+would make spaceflight routine,
+
+9
+00:00:36,338 --> 00:00:41,299
+and in 1985 it was planning
+24 flights a year by 1990.
+
+10
+00:00:42,991 --> 00:00:44,704
+The system was already strained.
+
+11
+00:00:45,356 --> 00:00:47,591
+Nine missions flew in 1985,
+
+12
+00:00:47,641 --> 00:00:49,605
+and the Rogers
+Commission later said even
+
+13
+00:00:49,625 --> 00:00:51,379
+that modest rate had stretched it.
+
+14
+00:00:53,110 --> 00:00:55,945
+Mission 51-L would
+also carry a teacher.
+
+15
+00:00:56,636 --> 00:00:58,268
+In July 1985,
+
+16
+00:00:58,418 --> 00:01:01,543
+Vice President George Bush
+announced that Christa McAuliffe,
+
+17
+00:01:01,563 --> 00:01:02,795
+of Concord, New Hampshire,
+
+18
+00:01:02,865 --> 00:01:05,820
+had been chosen from more
+than 11,000 applicants.
+
+19
+00:01:07,491 --> 00:01:12,838
+She trained with NASA, including
+weightless flights on a KC-135 aircraft.
+
+20
+00:01:14,691 --> 00:01:18,238
+She was to teach lessons from orbit,
+to classrooms across the country.
+
+21
+00:01:20,172 --> 00:01:23,899
+Another teacher, Barbara Morgan,
+trained beside her as her backup.
+
+22
+00:01:25,431 --> 00:01:28,446
+The crew of seven also included
+commander Dick Scobee,
+
+23
+00:01:28,737 --> 00:01:31,412
+pilot Michael Smith, Ellison Onizuka,
+
+24
+00:01:31,643 --> 00:01:35,019
+Judith Resnik, Ronald
+McNair, and Gregory Jarvis.
+
+25
+00:01:36,811 --> 00:01:39,927
+The launch was first planned
+for the 22nd of January,
+
+26
+00:01:40,058 --> 00:01:41,371
+and it slipped for days.
+
+27
+00:01:41,802 --> 00:01:44,919
+On the 27th, it was scrubbed
+because of high crosswinds.
+
+28
+00:01:49,771 --> 00:01:53,542
+The forecast for that night called for
+temperatures in the low twenties,
+
+29
+00:01:53,562 --> 00:01:56,039
+perhaps as low as 18
+degrees Fahrenheit.
+
+30
+00:01:57,670 --> 00:02:01,569
+The solid rocket boosters were
+built by Morton Thiokol, in Utah.
+
+31
+00:02:02,100 --> 00:02:03,714
+Each was assembled from segments,
+
+32
+00:02:03,944 --> 00:02:06,059
+joined by seals made
+of rubber O-rings.
+
+33
+00:02:07,870 --> 00:02:12,466
+Thiokol engineer Roger Boisjoly had
+already warned about those joints.
+
+34
+00:02:13,157 --> 00:02:17,994
+In a memo in July 1985, he wrote
+that the result of a failure would be,
+
+35
+00:02:18,064 --> 00:02:22,059
+quote, a catastrophe of the
+highest order, loss of human life.
+
+36
+00:02:24,051 --> 00:02:28,640
+At 8:45 that evening, engineers
+and managers at Thiokol,
+
+37
+00:02:28,660 --> 00:02:30,093
+at Marshall Space Flight Center,
+
+38
+00:02:30,424 --> 00:02:33,380
+and at Kennedy Space Center
+joined a teleconference.
+
+39
+00:02:34,930 --> 00:02:38,947
+Thiokol's engineers showed charts
+of O-ring damage on earlier flights.
+
+40
+00:02:39,439 --> 00:02:43,035
+Their recommendation was not to
+launch below 53 degrees Fahrenheit,
+
+41
+00:02:43,346 --> 00:02:45,419
+the temperature of the
+coldest launch before.
+
+42
+00:02:47,311 --> 00:02:49,388
+NASA's Marshall
+managers pushed back.
+
+43
+00:02:49,940 --> 00:02:52,439
+One of them, George Hardy,
+said he was appalled.
+
+44
+00:02:54,211 --> 00:02:57,471
+Larry Mulloy later testified that
+he may have said something like:
+
+45
+00:02:57,983 --> 00:03:00,019
+when do you want me
+to launch, next April?
+
+46
+00:03:01,871 --> 00:03:05,291
+Thiokol asked for a few minutes
+off the line to talk privately.
+
+47
+00:03:05,823 --> 00:03:07,678
+The break lasted about 30 minutes.
+
+48
+00:03:09,671 --> 00:03:11,424
+Boisjoly later testified
+
+49
+00:03:11,555 --> 00:03:14,802
+that a senior manager told Thiokol's
+vice president of engineering
+
+50
+00:03:14,822 --> 00:03:18,299
+to take off his engineering hat
+and put on his management hat.
+
+51
+00:03:20,011 --> 00:03:23,638
+Boisjoly said that no engineer
+spoke in favor of launching.
+
+52
+00:03:25,351 --> 00:03:28,819
+When the teleconference
+resumed, at about 11 p.m.,
+
+53
+00:03:28,839 --> 00:03:31,275
+Thiokol's management
+reversed its position,
+
+54
+00:03:31,426 --> 00:03:32,679
+and recommended the launch.
+
+55
+00:03:37,511 --> 00:03:42,178
+On the morning of the 28th, ice hung
+from the launch tower at pad 39B.
+
+56
+00:03:43,971 --> 00:03:47,021
+The temperature at launch
+was 36 degrees Fahrenheit,
+
+57
+00:03:47,041 --> 00:03:49,499
+15 degrees colder than
+any previous launch.
+
+58
+00:03:51,292 --> 00:03:54,259
+Challenger lifted off at
+11:38 in the morning.
+
+59
+00:03:55,831 --> 00:03:57,465
+Less than one second later,
+
+60
+00:03:57,836 --> 00:03:59,902
+cameras recorded a
+puff of gray smoke
+
+61
+00:03:59,922 --> 00:04:02,599
+at the aft joint of the right
+solid rocket booster.
+
+62
+00:04:04,491 --> 00:04:08,478
+Investigators later concluded that
+the seal in that joint had failed.
+
+63
+00:04:10,312 --> 00:04:12,338
+For almost a minute,
+the shuttle climbed.
+
+64
+00:04:13,871 --> 00:04:17,229
+At about 59 seconds, a flame
+appeared at the same joint.
+
+65
+00:04:17,881 --> 00:04:20,819
+Within two seconds, it was
+striking the external tank.
+
+66
+00:04:22,711 --> 00:04:25,551
+At 73 seconds,
+Challenger broke apart.
+
+67
+00:04:26,063 --> 00:04:27,899
+All seven crew members were lost.
+
+68
+00:04:29,571 --> 00:04:30,283
+That evening,
+
+69
+00:04:30,373 --> 00:04:33,252
+President Reagan postponed
+his State of the Union address,
+
+70
+00:04:33,423 --> 00:04:35,559
+and spoke to the nation
+from the Oval Office.
+
+71
+00:04:37,172 --> 00:04:37,997
+He spoke directly
+
+72
+00:04:38,017 --> 00:04:39,958
+to the schoolchildren
+who had been watching.
+
+73
+00:04:41,660 --> 00:04:44,000
+And I want to say something to the schoolchildren of America
+
+74
+00:04:44,000 --> 00:04:46,720
+who were watching the live coverage of the shuttle's takeoff.
+
+75
+00:04:47,760 --> 00:04:51,860
+I know it's hard to understand, but sometimes painful things like this happen.
+
+76
+00:04:52,680 --> 00:04:55,460
+It's all part of the process of exploration and discovery.
+
+77
+00:05:00,271 --> 00:05:04,573
+On the 31st of January, Reagan spoke
+at a memorial service in Houston,
+
+78
+00:05:04,704 --> 00:05:06,599
+and read the name of
+each crew member.
+
+79
+00:05:08,300 --> 00:05:09,880
+We remember Christa McAuliffe,
+
+80
+00:05:10,980 --> 00:05:13,320
+who captured the imagination of the entire nation,
+
+81
+00:05:14,420 --> 00:05:18,280
+inspiring us with her pluck, her restless spirit of discovery,
+
+82
+00:05:19,260 --> 00:05:22,980
+a teacher not just to her students but to an entire people,
+
+83
+00:05:25,060 --> 00:05:29,480
+instilling us all with the excitement of this journey we ride into the future.
+
+84
+00:05:31,351 --> 00:05:33,729
+On the 3rd of February,
+he named a commission,
+
+85
+00:05:33,920 --> 00:05:36,919
+led by William Rogers, a
+former Secretary of State.
+
+86
+00:05:38,591 --> 00:05:41,730
+Its members included Neil
+Armstrong, Sally Ride,
+
+87
+00:05:41,861 --> 00:05:44,779
+and the Nobel Prize winning
+physicist Richard Feynman.
+
+88
+00:05:46,371 --> 00:05:48,805
+At a public hearing on
+the 11th of February,
+
+89
+00:05:49,176 --> 00:05:51,931
+Feynman reported what
+happened when he put a piece
+
+90
+00:05:51,981 --> 00:05:54,356
+of the booster seal
+rubber into ice water:
+
+91
+00:05:54,887 --> 00:05:56,139
+it did not spring back.
+
+92
+00:05:57,831 --> 00:06:00,066
+The Commission's
+report, delivered in June,
+
+93
+00:06:00,317 --> 00:06:02,712
+said the cause was the
+failure of the pressure seal
+
+94
+00:06:02,782 --> 00:06:05,639
+in the aft field joint of the
+right solid rocket motor.
+
+95
+00:06:07,511 --> 00:06:09,527
+It called the joint a faulty design,
+
+96
+00:06:09,798 --> 00:06:13,739
+unacceptably sensitive to a number
+of factors, including temperature.
+
+97
+00:06:15,711 --> 00:06:16,493
+It also found
+
+98
+00:06:16,513 --> 00:06:19,228
+that Thiokol's management
+had reversed its position
+
+99
+00:06:19,338 --> 00:06:20,470
+at Marshall's urging,
+
+100
+00:06:20,601 --> 00:06:22,514
+contrary to its engineers' views,
+
+101
+00:06:22,945 --> 00:06:25,200
+in order to accommodate
+a major customer.
+
+102
+00:06:26,831 --> 00:06:27,762
+In his own appendix,
+
+103
+00:06:27,793 --> 00:06:29,717
+Feynman wrote that
+estimates of the chance
+
+104
+00:06:29,737 --> 00:06:32,332
+of failure ranged from about 1 in 100,
+
+105
+00:06:32,582 --> 00:06:36,280
+from working engineers, to 1 in
+100,000, from management.
+
+106
+00:06:37,791 --> 00:06:41,908
+He ended with a line that became
+famous: for a successful technology,
+
+107
+00:06:42,299 --> 00:06:45,295
+reality must take precedence
+over public relations,
+
+108
+00:06:45,666 --> 00:06:47,379
+for nature cannot be fooled.
+
+109
+00:06:49,240 --> 00:06:51,740
+Was this an accident that did not have to happen?
+
+110
+00:06:52,720 --> 00:06:53,640
+Yes, it was.
+
+111
+00:06:53,880 --> 00:06:58,640
+It was an accident that had many, many warnings
+
+112
+00:06:58,640 --> 00:07:02,940
+that there was something wrong and that it might sooner or later go off,
+
+113
+00:07:03,620 --> 00:07:05,660
+and the warnings were disregarded.
+
+114
+00:07:07,391 --> 00:07:08,514
+On the first anniversary,
+
+115
+00:07:08,534 --> 00:07:09,738
+Reagan spoke
+
+116
+00:07:09,758 --> 00:07:13,539
+to NASA employees about the lessons
+Christa McAuliffe had hoped to teach.
+
+117
+00:07:15,420 --> 00:07:18,400
+Well, she never got to give those lessons in space science,
+
+118
+00:07:19,080 --> 00:07:22,720
+but she and the others did teach America's children something nevertheless,
+
+119
+00:07:23,420 --> 00:07:25,620
+something precious, something enduring,
+
+120
+00:07:26,360 --> 00:07:29,620
+something perhaps more valuable than any other lesson they will ever learn.
+
+121
+00:07:31,250 --> 00:07:33,806
+The shuttle was
+grounded for 32 months.
+
+122
+00:07:34,277 --> 00:07:38,196
+Discovery flew again on
+the 29th of September 1988,
+
+123
+00:07:38,286 --> 00:07:39,839
+with redesigned boosters.
+
+124
+00:07:41,611 --> 00:07:44,229
+Roger Boisjoly left Morton Thiokol,
+
+125
+00:07:44,299 --> 00:07:47,258
+and spent the rest of his career
+speaking about engineering ethics.
+
+126
+00:07:50,091 --> 00:07:53,000
+The engineers said not to
+launch below 53 degrees,
+
+127
+00:07:53,020 --> 00:07:55,659
+and that same night the
+warning was reversed.
+
+128
+00:07:56,951 --> 00:07:59,309
+When the people closest
+to the data say stop,
+
+129
+00:07:59,942 --> 00:08:01,918
+who decides whether anyone listens?
