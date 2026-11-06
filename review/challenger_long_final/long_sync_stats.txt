@@ -1,1 +1,4 @@
-per-line forced alignment (CTC) vs independent Whisper small.en word starts, 822 words, 47 long lines: mean 0.124 s, median 0.103 s, 90th percentile 0.261 s, max 0.68 s. Whisper base.en run over the whole final narration track (tools/proof_ch.py) matched only 544 of 869 words in sequence (sequence-matching failures on numbers and names), median difference on those 0.17 s; its max 141 s is a mis-match, not a timing error. See long_sync_proof.jpg (24 frames at word starts/middles/ends).
+Challenger long v2 caption sync (6 Nov 2026, narration extended)
+Captions built from word times of the final narration (faster-whisper small.en transcript, CTC forced alignment per line, mapped to display words): 145 caption units, 1,048 aligned words.
+Per-line check, forced-alignment start vs Whisper small.en word start (1,029 words matched): mean 0.122 s, median 0.101 s, 90th percentile 0.241 s, max 0.758 s.
+Whole-track Whisper base.en cross-check (proof sheet): matched only 581 of 1,048 words in sequence (mean 1.34 s, max 133 s are sequence mismatches, not timing errors); the sheet long_sync_proof.jpg shows 8 sentences with the caption on screen at start, middle and end.

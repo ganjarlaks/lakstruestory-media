@@ -10,132 +10,148 @@ Style: Cap,Poppins,76,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,1
 
 [Events]
 Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
-Dialogue: 0,0:00:00.23,0:00:04.52,Cap,,0,0,0,,The night before Challenger launched,\Nits engineers said it was too cold to fly.
-Dialogue: 0,0:00:06.29,0:00:07.29,Cap,,0,0,0,,They were overruled.
-Dialogue: 0,0:00:07.74,0:00:09.80,Cap,,0,0,0,,This is the story of mission 51-L.
-Dialogue: 0,0:00:17.53,0:00:20.41,Cap,,0,0,0,,Challenger was the second\Nspace shuttle to enter service,
-Dialogue: 0,0:00:20.68,0:00:23.44,Cap,,0,0,0,,and it first flew in April 1983.
-Dialogue: 0,0:00:25.21,0:00:28.75,Cap,,0,0,0,,By January 1986 it had\Ncompleted nine missions,
-Dialogue: 0,0:00:28.96,0:00:31.38,Cap,,0,0,0,,and mission 51-L was its tenth.
-Dialogue: 0,0:00:33.33,0:00:36.32,Cap,,0,0,0,,NASA had promised that the shuttle\Nwould make spaceflight routine,
-Dialogue: 0,0:00:36.34,0:00:41.30,Cap,,0,0,0,,and in 1985 it was planning\N24 flights a year by 1990.
-Dialogue: 0,0:00:42.99,0:00:44.70,Cap,,0,0,0,,The system was already strained.
-Dialogue: 0,0:00:45.36,0:00:47.59,Cap,,0,0,0,,Nine missions flew in 1985,
-Dialogue: 0,0:00:47.64,0:00:49.61,Cap,,0,0,0,,and the Rogers\NCommission later said even
-Dialogue: 0,0:00:49.63,0:00:51.38,Cap,,0,0,0,,that modest rate had stretched it.
-Dialogue: 0,0:00:53.11,0:00:55.94,Cap,,0,0,0,,Mission 51-L would\Nalso carry a teacher.
-Dialogue: 0,0:00:56.64,0:00:58.27,Cap,,0,0,0,,In July 1985,
-Dialogue: 0,0:00:58.42,0:01:01.54,Cap,,0,0,0,,Vice President George Bush\Nannounced that Christa McAuliffe,
-Dialogue: 0,0:01:01.56,0:01:02.79,Cap,,0,0,0,,of Concord, New Hampshire,
-Dialogue: 0,0:01:02.87,0:01:05.82,Cap,,0,0,0,,had been chosen from more\Nthan 11,000 applicants.
-Dialogue: 0,0:01:07.49,0:01:12.84,Cap,,0,0,0,,She trained with NASA, including\Nweightless flights on a KC-135 aircraft.
-Dialogue: 0,0:01:14.69,0:01:18.24,Cap,,0,0,0,,She was to teach lessons from orbit,\Nto classrooms across the country.
-Dialogue: 0,0:01:20.17,0:01:23.90,Cap,,0,0,0,,Another teacher, Barbara Morgan,\Ntrained beside her as her backup.
-Dialogue: 0,0:01:25.43,0:01:28.45,Cap,,0,0,0,,The crew of seven also included\Ncommander Dick Scobee,
-Dialogue: 0,0:01:28.74,0:01:31.41,Cap,,0,0,0,,pilot Michael Smith, Ellison Onizuka,
-Dialogue: 0,0:01:31.64,0:01:35.02,Cap,,0,0,0,,Judith Resnik, Ronald\NMcNair, and Gregory Jarvis.
-Dialogue: 0,0:01:36.81,0:01:39.93,Cap,,0,0,0,,The launch was first planned\Nfor the 22nd of January,
-Dialogue: 0,0:01:40.06,0:01:41.37,Cap,,0,0,0,,and it slipped for days.
-Dialogue: 0,0:01:41.80,0:01:44.92,Cap,,0,0,0,,On the 27th, it was scrubbed\Nbecause of high crosswinds.
-Dialogue: 0,0:01:49.77,0:01:53.54,Cap,,0,0,0,,The forecast for that night called for\Ntemperatures in the low twenties,
-Dialogue: 0,0:01:53.56,0:01:56.04,Cap,,0,0,0,,perhaps as low as 18\Ndegrees Fahrenheit.
-Dialogue: 0,0:01:57.67,0:02:01.57,Cap,,0,0,0,,The solid rocket boosters were\Nbuilt by Morton Thiokol, in Utah.
-Dialogue: 0,0:02:02.10,0:02:03.71,Cap,,0,0,0,,Each was assembled from segments,
-Dialogue: 0,0:02:03.94,0:02:06.06,Cap,,0,0,0,,joined by seals made\Nof rubber O-rings.
-Dialogue: 0,0:02:07.87,0:02:12.47,Cap,,0,0,0,,Thiokol engineer Roger Boisjoly had\Nalready warned about those joints.
-Dialogue: 0,0:02:13.16,0:02:17.99,Cap,,0,0,0,,In a memo in July 1985, he wrote\Nthat the result of a failure would be,
-Dialogue: 0,0:02:18.06,0:02:22.06,Cap,,0,0,0,,quote, a catastrophe of the\Nhighest order, loss of human life.
-Dialogue: 0,0:02:24.05,0:02:28.64,Cap,,0,0,0,,At 8:45 that evening, engineers\Nand managers at Thiokol,
-Dialogue: 0,0:02:28.66,0:02:30.09,Cap,,0,0,0,,at Marshall Space Flight Center,
-Dialogue: 0,0:02:30.42,0:02:33.38,Cap,,0,0,0,,and at Kennedy Space Center\Njoined a teleconference.
-Dialogue: 0,0:02:34.93,0:02:38.95,Cap,,0,0,0,,Thiokol's engineers showed charts\Nof O-ring damage on earlier flights.
-Dialogue: 0,0:02:39.44,0:02:43.03,Cap,,0,0,0,,Their recommendation was not to\Nlaunch below 53 degrees Fahrenheit,
-Dialogue: 0,0:02:43.35,0:02:45.42,Cap,,0,0,0,,the temperature of the\Ncoldest launch before.
-Dialogue: 0,0:02:47.31,0:02:49.39,Cap,,0,0,0,,NASA's Marshall\Nmanagers pushed back.
-Dialogue: 0,0:02:49.94,0:02:52.44,Cap,,0,0,0,,One of them, George Hardy,\Nsaid he was appalled.
-Dialogue: 0,0:02:54.21,0:02:57.47,Cap,,0,0,0,,Larry Mulloy later testified that\Nhe may have said something like:
-Dialogue: 0,0:02:57.98,0:03:00.02,Cap,,0,0,0,,when do you want me\Nto launch, next April?
-Dialogue: 0,0:03:01.87,0:03:05.29,Cap,,0,0,0,,Thiokol asked for a few minutes\Noff the line to talk privately.
-Dialogue: 0,0:03:05.82,0:03:07.68,Cap,,0,0,0,,The break lasted about 30 minutes.
-Dialogue: 0,0:03:09.67,0:03:11.42,Cap,,0,0,0,,Boisjoly later testified
-Dialogue: 0,0:03:11.55,0:03:14.80,Cap,,0,0,0,,that a senior manager told Thiokol's\Nvice president of engineering
-Dialogue: 0,0:03:14.82,0:03:18.30,Cap,,0,0,0,,to take off his engineering hat\Nand put on his management hat.
-Dialogue: 0,0:03:20.01,0:03:23.64,Cap,,0,0,0,,Boisjoly said that no engineer\Nspoke in favor of launching.
-Dialogue: 0,0:03:25.35,0:03:28.82,Cap,,0,0,0,,When the teleconference\Nresumed, at about 11 p.m.,
-Dialogue: 0,0:03:28.84,0:03:31.28,Cap,,0,0,0,,Thiokol's management\Nreversed its position,
-Dialogue: 0,0:03:31.43,0:03:32.68,Cap,,0,0,0,,and recommended the launch.
-Dialogue: 0,0:03:37.51,0:03:42.18,Cap,,0,0,0,,On the morning of the 28th, ice hung\Nfrom the launch tower at pad 39B.
-Dialogue: 0,0:03:43.97,0:03:47.02,Cap,,0,0,0,,The temperature at launch\Nwas 36 degrees Fahrenheit,
-Dialogue: 0,0:03:47.04,0:03:49.50,Cap,,0,0,0,,15 degrees colder than\Nany previous launch.
-Dialogue: 0,0:03:51.29,0:03:54.26,Cap,,0,0,0,,Challenger lifted off at\N11:38 in the morning.
-Dialogue: 0,0:03:55.83,0:03:57.46,Cap,,0,0,0,,Less than one second later,
-Dialogue: 0,0:03:57.84,0:03:59.90,Cap,,0,0,0,,cameras recorded a\Npuff of gray smoke
-Dialogue: 0,0:03:59.92,0:04:02.60,Cap,,0,0,0,,at the aft joint of the right\Nsolid rocket booster.
-Dialogue: 0,0:04:04.49,0:04:08.48,Cap,,0,0,0,,Investigators later concluded that\Nthe seal in that joint had failed.
-Dialogue: 0,0:04:10.31,0:04:12.34,Cap,,0,0,0,,For almost a minute,\Nthe shuttle climbed.
-Dialogue: 0,0:04:13.87,0:04:17.23,Cap,,0,0,0,,At about 59 seconds, a flame\Nappeared at the same joint.
-Dialogue: 0,0:04:17.88,0:04:20.82,Cap,,0,0,0,,Within two seconds, it was\Nstriking the external tank.
-Dialogue: 0,0:04:22.71,0:04:25.55,Cap,,0,0,0,,At 73 seconds,\NChallenger broke apart.
-Dialogue: 0,0:04:26.06,0:04:27.90,Cap,,0,0,0,,All seven crew members were lost.
-Dialogue: 0,0:04:29.57,0:04:30.28,Cap,,0,0,0,,That evening,
-Dialogue: 0,0:04:30.37,0:04:33.25,Cap,,0,0,0,,President Reagan postponed\Nhis State of the Union address,
-Dialogue: 0,0:04:33.42,0:04:35.56,Cap,,0,0,0,,and spoke to the nation\Nfrom the Oval Office.
-Dialogue: 0,0:04:37.17,0:04:38.00,Cap,,0,0,0,,He spoke directly
-Dialogue: 0,0:04:38.02,0:04:39.96,Cap,,0,0,0,,to the schoolchildren\Nwho had been watching.
-Dialogue: 0,0:04:41.66,0:04:44.00,Cap,,0,0,0,,And I want to say something to the schoolchildren of America
-Dialogue: 0,0:04:44.00,0:04:46.72,Cap,,0,0,0,,who were watching the live coverage of the shuttle's takeoff.
-Dialogue: 0,0:04:47.76,0:04:51.86,Cap,,0,0,0,,I know it's hard to understand, but sometimes painful things like this happen.
-Dialogue: 0,0:04:52.68,0:04:55.46,Cap,,0,0,0,,It's all part of the process of exploration and discovery.
-Dialogue: 0,0:05:00.27,0:05:04.57,Cap,,0,0,0,,On the 31st of January, Reagan spoke\Nat a memorial service in Houston,
-Dialogue: 0,0:05:04.70,0:05:06.60,Cap,,0,0,0,,and read the name of\Neach crew member.
-Dialogue: 0,0:05:08.30,0:05:09.88,Cap,,0,0,0,,We remember Christa McAuliffe,
-Dialogue: 0,0:05:10.98,0:05:13.32,Cap,,0,0,0,,who captured the imagination of the entire nation,
-Dialogue: 0,0:05:14.42,0:05:18.28,Cap,,0,0,0,,inspiring us with her pluck, her restless spirit of discovery,
-Dialogue: 0,0:05:19.26,0:05:22.98,Cap,,0,0,0,,a teacher not just to her students but to an entire people,
-Dialogue: 0,0:05:25.06,0:05:29.48,Cap,,0,0,0,,instilling us all with the excitement of this journey we ride into the future.
-Dialogue: 0,0:05:31.35,0:05:33.73,Cap,,0,0,0,,On the 3rd of February,\Nhe named a commission,
-Dialogue: 0,0:05:33.92,0:05:36.92,Cap,,0,0,0,,led by William Rogers, a\Nformer Secretary of State.
-Dialogue: 0,0:05:38.59,0:05:41.73,Cap,,0,0,0,,Its members included Neil\NArmstrong, Sally Ride,
-Dialogue: 0,0:05:41.86,0:05:44.78,Cap,,0,0,0,,and the Nobel Prize winning\Nphysicist Richard Feynman.
-Dialogue: 0,0:05:46.37,0:05:48.81,Cap,,0,0,0,,At a public hearing on\Nthe 11th of February,
-Dialogue: 0,0:05:49.18,0:05:51.93,Cap,,0,0,0,,Feynman reported what\Nhappened when he put a piece
-Dialogue: 0,0:05:51.98,0:05:54.36,Cap,,0,0,0,,of the booster seal\Nrubber into ice water:
-Dialogue: 0,0:05:54.89,0:05:56.14,Cap,,0,0,0,,it did not spring back.
-Dialogue: 0,0:05:57.83,0:06:00.07,Cap,,0,0,0,,The Commission's\Nreport, delivered in June,
-Dialogue: 0,0:06:00.32,0:06:02.71,Cap,,0,0,0,,said the cause was the\Nfailure of the pressure seal
-Dialogue: 0,0:06:02.78,0:06:05.64,Cap,,0,0,0,,in the aft field joint of the\Nright solid rocket motor.
-Dialogue: 0,0:06:07.51,0:06:09.53,Cap,,0,0,0,,It called the joint a faulty design,
-Dialogue: 0,0:06:09.80,0:06:13.74,Cap,,0,0,0,,unacceptably sensitive to a number\Nof factors, including temperature.
-Dialogue: 0,0:06:15.71,0:06:16.49,Cap,,0,0,0,,It also found
-Dialogue: 0,0:06:16.51,0:06:19.23,Cap,,0,0,0,,that Thiokol's management\Nhad reversed its position
-Dialogue: 0,0:06:19.34,0:06:20.47,Cap,,0,0,0,,at Marshall's urging,
-Dialogue: 0,0:06:20.60,0:06:22.51,Cap,,0,0,0,,contrary to its engineers' views,
-Dialogue: 0,0:06:22.95,0:06:25.20,Cap,,0,0,0,,in order to accommodate\Na major customer.
-Dialogue: 0,0:06:26.83,0:06:27.76,Cap,,0,0,0,,In his own appendix,
-Dialogue: 0,0:06:27.79,0:06:29.72,Cap,,0,0,0,,Feynman wrote that\Nestimates of the chance
-Dialogue: 0,0:06:29.74,0:06:32.33,Cap,,0,0,0,,of failure ranged from about 1 in 100,
-Dialogue: 0,0:06:32.58,0:06:36.28,Cap,,0,0,0,,from working engineers, to 1 in\N100,000, from management.
-Dialogue: 0,0:06:37.79,0:06:41.91,Cap,,0,0,0,,He ended with a line that became\Nfamous: for a successful technology,
-Dialogue: 0,0:06:42.30,0:06:45.30,Cap,,0,0,0,,reality must take precedence\Nover public relations,
-Dialogue: 0,0:06:45.67,0:06:47.38,Cap,,0,0,0,,for nature cannot be fooled.
-Dialogue: 0,0:06:49.24,0:06:51.74,Cap,,0,0,0,,Was this an accident that did not have to happen?
-Dialogue: 0,0:06:52.72,0:06:53.64,Cap,,0,0,0,,Yes, it was.
-Dialogue: 0,0:06:53.88,0:06:58.64,Cap,,0,0,0,,It was an accident that had many, many warnings
-Dialogue: 0,0:06:58.64,0:07:02.94,Cap,,0,0,0,,that there was something wrong and that it might sooner or later go off,
-Dialogue: 0,0:07:03.62,0:07:05.66,Cap,,0,0,0,,and the warnings were disregarded.
-Dialogue: 0,0:07:07.39,0:07:08.51,Cap,,0,0,0,,On the first anniversary,
-Dialogue: 0,0:07:08.53,0:07:09.74,Cap,,0,0,0,,Reagan spoke
-Dialogue: 0,0:07:09.76,0:07:13.54,Cap,,0,0,0,,to NASA employees about the lessons\NChrista McAuliffe had hoped to teach.
-Dialogue: 0,0:07:15.42,0:07:18.40,Cap,,0,0,0,,Well, she never got to give those lessons in space science,
-Dialogue: 0,0:07:19.08,0:07:22.72,Cap,,0,0,0,,but she and the others did teach America's children something nevertheless,
-Dialogue: 0,0:07:23.42,0:07:25.62,Cap,,0,0,0,,something precious, something enduring,
-Dialogue: 0,0:07:26.36,0:07:29.62,Cap,,0,0,0,,something perhaps more valuable than any other lesson they will ever learn.
-Dialogue: 0,0:07:31.25,0:07:33.81,Cap,,0,0,0,,The shuttle was\Ngrounded for 32 months.
-Dialogue: 0,0:07:34.28,0:07:38.20,Cap,,0,0,0,,Discovery flew again on\Nthe 29th of September 1988,
-Dialogue: 0,0:07:38.29,0:07:39.84,Cap,,0,0,0,,with redesigned boosters.
-Dialogue: 0,0:07:41.61,0:07:44.23,Cap,,0,0,0,,Roger Boisjoly left Morton Thiokol,
-Dialogue: 0,0:07:44.30,0:07:47.26,Cap,,0,0,0,,and spent the rest of his career\Nspeaking about engineering ethics.
-Dialogue: 0,0:07:50.09,0:07:53.00,Cap,,0,0,0,,The engineers said not to\Nlaunch below 53 degrees,
-Dialogue: 0,0:07:53.02,0:07:55.66,Cap,,0,0,0,,and that same night the\Nwarning was reversed.
-Dialogue: 0,0:07:56.95,0:07:59.31,Cap,,0,0,0,,When the people closest\Nto the data say stop,
-Dialogue: 0,0:07:59.94,0:08:01.92,Cap,,0,0,0,,who decides whether anyone listens?
+Dialogue: 0,0:00:00.21,0:00:04.20,Cap,,0,0,0,,The night before Challenger launched,\Nits engineers said it was too cold to fly.
+Dialogue: 0,0:00:05.24,0:00:06.21,Cap,,0,0,0,,They were overruled.
+Dialogue: 0,0:00:06.91,0:00:09.17,Cap,,0,0,0,,This is the story of mission 51-L.
+Dialogue: 0,0:00:16.31,0:00:19.23,Cap,,0,0,0,,Challenger was the second\Nspace shuttle to enter service,
+Dialogue: 0,0:00:19.74,0:00:22.62,Cap,,0,0,0,,and it first flew in April 1983.
+Dialogue: 0,0:00:23.86,0:00:27.30,Cap,,0,0,0,,On that first mission, the crew\Nlaunched a communications satellite,
+Dialogue: 0,0:00:27.49,0:00:29.99,Cap,,0,0,0,,and made the first spacewalk\Nof the shuttle program.
+Dialogue: 0,0:00:31.13,0:00:34.83,Cap,,0,0,0,,By January 1986 it had\Ncompleted nine missions,
+Dialogue: 0,0:00:35.28,0:00:37.94,Cap,,0,0,0,,and mission 51-L was its tenth.
+Dialogue: 0,0:00:39.04,0:00:42.36,Cap,,0,0,0,,NASA had promised that the shuttle\Nwould make spaceflight routine,
+Dialogue: 0,0:00:42.55,0:00:47.17,Cap,,0,0,0,,and in 1985 it was planning\N24 flights a year by 1990.
+Dialogue: 0,0:00:48.17,0:00:51.00,Cap,,0,0,0,,Mission 51-L would\Nalso carry a teacher.
+Dialogue: 0,0:00:51.60,0:00:53.45,Cap,,0,0,0,,In July 1985,
+Dialogue: 0,0:00:53.52,0:00:56.73,Cap,,0,0,0,,Vice President George Bush\Nannounced that Christa McAuliffe,
+Dialogue: 0,0:00:56.82,0:00:58.18,Cap,,0,0,0,,of Concord, New Hampshire,
+Dialogue: 0,0:00:58.41,0:01:01.28,Cap,,0,0,0,,had been chosen from more\Nthan 11,000 applicants.
+Dialogue: 0,0:01:02.32,0:01:06.89,Cap,,0,0,0,,She trained with NASA, including\Nweightless flights on a KC-135 aircraft.
+Dialogue: 0,0:01:08.17,0:01:11.74,Cap,,0,0,0,,She was to teach lessons from orbit,\Nto classrooms across the country.
+Dialogue: 0,0:01:12.94,0:01:16.29,Cap,,0,0,0,,Another teacher, Barbara Morgan,\Ntrained beside her as her backup.
+Dialogue: 0,0:01:17.43,0:01:20.31,Cap,,0,0,0,,The crew of seven also included\Ncommander Dick Scobee,
+Dialogue: 0,0:01:20.72,0:01:23.53,Cap,,0,0,0,,pilot Michael Smith, Ellison Onizuka,
+Dialogue: 0,0:01:23.84,0:01:27.42,Cap,,0,0,0,,Judith Resnik, Ronald\NMcNair, and Gregory Jarvis.
+Dialogue: 0,0:01:28.80,0:01:31.60,Cap,,0,0,0,,The launch was planned\Nfor the 22nd of January.
+Dialogue: 0,0:01:32.17,0:01:33.96,Cap,,0,0,0,,It was postponed three times,
+Dialogue: 0,0:01:34.11,0:01:37.33,Cap,,0,0,0,,and then scrubbed on the 27th\Nbecause of high crosswinds.
+Dialogue: 0,0:01:41.65,0:01:45.54,Cap,,0,0,0,,The forecast for that night called for\Ntemperatures in the low twenties,
+Dialogue: 0,0:01:45.56,0:01:48.02,Cap,,0,0,0,,perhaps as low as 18\Ndegrees Fahrenheit.
+Dialogue: 0,0:01:49.16,0:01:53.28,Cap,,0,0,0,,The solid rocket boosters were\Nbuilt by Morton Thiokol, in Utah.
+Dialogue: 0,0:01:53.83,0:01:55.52,Cap,,0,0,0,,Each was assembled from segments,
+Dialogue: 0,0:01:55.75,0:01:58.09,Cap,,0,0,0,,joined by seals made\Nof rubber O-rings.
+Dialogue: 0,0:01:59.43,0:02:03.87,Cap,,0,0,0,,Thiokol engineer Roger Boisjoly had\Nalready warned about those joints.
+Dialogue: 0,0:02:04.44,0:02:08.49,Cap,,0,0,0,,In a memo in July 1985, he wrote\Nthat the result of a failure would be,
+Dialogue: 0,0:02:08.62,0:02:12.70,Cap,,0,0,0,,quote, a catastrophe of the\Nhighest order, loss of human life.
+Dialogue: 0,0:02:13.90,0:02:18.74,Cap,,0,0,0,,In January 1985, a shuttle launched\Nwith its O-rings at 53 degrees,
+Dialogue: 0,0:02:19.01,0:02:20.34,Cap,,0,0,0,,the coldest to that date.
+Dialogue: 0,0:02:20.93,0:02:23.53,Cap,,0,0,0,,Afterward, erosion was\Nfound in both boosters.
+Dialogue: 0,0:02:24.75,0:02:28.66,Cap,,0,0,0,,At 8:45 that evening, engineers\Nand managers at Thiokol,
+Dialogue: 0,0:02:28.68,0:02:30.17,Cap,,0,0,0,,at Marshall Space Flight Center,
+Dialogue: 0,0:02:30.30,0:02:32.84,Cap,,0,0,0,,and at Kennedy Space Center\Njoined a teleconference.
+Dialogue: 0,0:02:33.88,0:02:37.70,Cap,,0,0,0,,Thiokol's engineers showed charts\Nof O-ring damage on earlier flights.
+Dialogue: 0,0:02:38.37,0:02:42.01,Cap,,0,0,0,,Their recommendation was not to\Nlaunch below 53 degrees Fahrenheit.
+Dialogue: 0,0:02:43.23,0:02:45.27,Cap,,0,0,0,,NASA's Marshall\Nmanagers pushed back.
+Dialogue: 0,0:02:45.94,0:02:48.50,Cap,,0,0,0,,One of them, George Hardy,\Nsaid he was appalled.
+Dialogue: 0,0:02:49.80,0:02:53.28,Cap,,0,0,0,,Larry Mulloy later testified that\Nhe may have said something like:
+Dialogue: 0,0:02:53.73,0:02:55.85,Cap,,0,0,0,,when do you want me\Nto launch, next April?
+Dialogue: 0,0:02:57.11,0:03:00.35,Cap,,0,0,0,,Thiokol asked for a few minutes\Noff the line to talk privately.
+Dialogue: 0,0:03:00.78,0:03:02.92,Cap,,0,0,0,,The break lasted about 30 minutes.
+Dialogue: 0,0:03:04.06,0:03:05.56,Cap,,0,0,0,,Boisjoly later testified
+Dialogue: 0,0:03:05.58,0:03:09.32,Cap,,0,0,0,,that a senior manager told Thiokol's\Nvice president of engineering
+Dialogue: 0,0:03:09.37,0:03:12.57,Cap,,0,0,0,,to take off his engineering hat\Nand put on his management hat.
+Dialogue: 0,0:03:13.63,0:03:17.26,Cap,,0,0,0,,Boisjoly said that no engineer\Nspoke in favor of launching.
+Dialogue: 0,0:03:18.24,0:03:21.19,Cap,,0,0,0,,When the teleconference\Nresumed, at about 11 p.m.,
+Dialogue: 0,0:03:21.21,0:03:24.23,Cap,,0,0,0,,Thiokol's management\Nreversed its position,
+Dialogue: 0,0:03:24.40,0:03:25.61,Cap,,0,0,0,,and recommended the launch.
+Dialogue: 0,0:03:29.69,0:03:34.38,Cap,,0,0,0,,On the morning of the 28th, ice hung\Nfrom the launch tower at pad 39B.
+Dialogue: 0,0:03:35.82,0:03:37.45,Cap,,0,0,0,,Rockwell, which built the orbiter,
+Dialogue: 0,0:03:37.67,0:03:40.28,Cap,,0,0,0,,told NASA that the ice was\Nan unknown condition,
+Dialogue: 0,0:03:40.43,0:03:42.65,Cap,,0,0,0,,and that it could not\Nassure it was safe to fly.
+Dialogue: 0,0:03:43.85,0:03:46.75,Cap,,0,0,0,,The temperature at launch\Nwas 36 degrees Fahrenheit,
+Dialogue: 0,0:03:47.12,0:03:49.68,Cap,,0,0,0,,15 degrees colder than\Nany previous launch.
+Dialogue: 0,0:03:51.08,0:03:53.83,Cap,,0,0,0,,Challenger lifted off at\N11:38 in the morning.
+Dialogue: 0,0:03:54.83,0:03:56.40,Cap,,0,0,0,,Less than one second later,
+Dialogue: 0,0:03:56.54,0:03:58.72,Cap,,0,0,0,,cameras recorded a\Npuff of gray smoke
+Dialogue: 0,0:03:58.74,0:04:01.38,Cap,,0,0,0,,at the aft joint of the right\Nsolid rocket booster.
+Dialogue: 0,0:04:02.72,0:04:06.55,Cap,,0,0,0,,Investigators later concluded that\Nthe seal in that joint had failed.
+Dialogue: 0,0:04:07.49,0:04:09.72,Cap,,0,0,0,,For almost a minute,\Nthe shuttle climbed.
+Dialogue: 0,0:04:11.10,0:04:14.52,Cap,,0,0,0,,At about 59 seconds, a flame\Nappeared at the same joint.
+Dialogue: 0,0:04:15.07,0:04:18.09,Cap,,0,0,0,,Within two seconds, it was\Nstriking the external tank.
+Dialogue: 0,0:04:19.37,0:04:22.33,Cap,,0,0,0,,At 73 seconds,\NChallenger broke apart.
+Dialogue: 0,0:04:23.06,0:04:24.80,Cap,,0,0,0,,All seven crew members were lost.
+Dialogue: 0,0:04:25.86,0:04:26.58,Cap,,0,0,0,,That evening,
+Dialogue: 0,0:04:26.60,0:04:29.44,Cap,,0,0,0,,President Reagan postponed\Nhis State of the Union address,
+Dialogue: 0,0:04:29.63,0:04:31.71,Cap,,0,0,0,,and spoke to the nation\Nfrom the Oval Office.
+Dialogue: 0,0:04:32.71,0:04:33.70,Cap,,0,0,0,,He spoke directly
+Dialogue: 0,0:04:33.72,0:04:35.74,Cap,,0,0,0,,to the schoolchildren\Nwho had been watching.
+Dialogue: 0,0:04:36.93,0:04:39.27,Cap,,0,0,0,,And I want to say something to the schoolchildren of America
+Dialogue: 0,0:04:39.27,0:04:41.99,Cap,,0,0,0,,who were watching the live coverage of the shuttle's takeoff.
+Dialogue: 0,0:04:43.03,0:04:47.13,Cap,,0,0,0,,I know it's hard to understand, but sometimes painful things like this happen.
+Dialogue: 0,0:04:51.31,0:04:55.47,Cap,,0,0,0,,On the 31st of January, Reagan spoke\Nat a memorial service in Houston,
+Dialogue: 0,0:04:55.76,0:04:57.50,Cap,,0,0,0,,and read the name of\Neach crew member.
+Dialogue: 0,0:04:58.89,0:05:00.47,Cap,,0,0,0,,We remember Christa McAuliffe,
+Dialogue: 0,0:05:01.57,0:05:03.91,Cap,,0,0,0,,who captured the imagination of the entire nation,
+Dialogue: 0,0:05:05.01,0:05:08.87,Cap,,0,0,0,,inspiring us with her pluck, her restless spirit of discovery,
+Dialogue: 0,0:05:10.09,0:05:12.37,Cap,,0,0,0,,On the 3rd of February,\Nhe named a commission,
+Dialogue: 0,0:05:12.50,0:05:15.24,Cap,,0,0,0,,led by William Rogers, a\Nformer Secretary of State.
+Dialogue: 0,0:05:16.30,0:05:19.18,Cap,,0,0,0,,Its members included Neil\NArmstrong, Sally Ride,
+Dialogue: 0,0:05:19.41,0:05:22.11,Cap,,0,0,0,,and the Nobel Prize winning\Nphysicist Richard Feynman.
+Dialogue: 0,0:05:23.27,0:05:25.69,Cap,,0,0,0,,At a public hearing on\Nthe 11th of February,
+Dialogue: 0,0:05:26.06,0:05:28.50,Cap,,0,0,0,,Feynman reported what\Nhappened when he put a piece
+Dialogue: 0,0:05:28.52,0:05:30.78,Cap,,0,0,0,,of the booster seal\Nrubber into ice water:
+Dialogue: 0,0:05:31.21,0:05:32.48,Cap,,0,0,0,,it did not spring back.
+Dialogue: 0,0:05:33.96,0:05:36.20,Cap,,0,0,0,,The Commission's\Nreport, delivered in June,
+Dialogue: 0,0:05:36.41,0:05:38.69,Cap,,0,0,0,,said the cause was the\Nfailure of the pressure seal
+Dialogue: 0,0:05:38.71,0:05:42.05,Cap,,0,0,0,,in the aft field joint of the\Nright solid rocket motor.
+Dialogue: 0,0:05:43.19,0:05:46.73,Cap,,0,0,0,,The Commission found a serious\Nflaw in the decision making process.
+Dialogue: 0,0:05:47.34,0:05:50.69,Cap,,0,0,0,,Had the engineers' doubts been\Nclearly stated and emphasized,
+Dialogue: 0,0:05:50.84,0:05:53.88,Cap,,0,0,0,,it said, the launch might not\Nhave occurred when it did.
+Dialogue: 0,0:05:55.16,0:05:56.90,Cap,,0,0,0,,At Marshall, a launch constraint
+Dialogue: 0,0:05:56.92,0:05:59.80,Cap,,0,0,0,,on the booster joints had been\Nwaived six times in a row.
+Dialogue: 0,0:06:00.39,0:06:02.60,Cap,,0,0,0,,The Commission found\Nthat the senior managers,
+Dialogue: 0,0:06:02.77,0:06:05.73,Cap,,0,0,0,,Jesse Moore and Arnold\NAldrich, did not know.
+Dialogue: 0,0:06:06.87,0:06:08.95,Cap,,0,0,0,,It called the joint a faulty design,
+Dialogue: 0,0:06:09.32,0:06:13.28,Cap,,0,0,0,,unacceptably sensitive to a number\Nof factors, including temperature.
+Dialogue: 0,0:06:14.72,0:06:15.71,Cap,,0,0,0,,It also found
+Dialogue: 0,0:06:15.82,0:06:18.93,Cap,,0,0,0,,that Thiokol's management\Nhad reversed its position
+Dialogue: 0,0:06:18.95,0:06:20.10,Cap,,0,0,0,,at Marshall's urging,
+Dialogue: 0,0:06:20.33,0:06:22.40,Cap,,0,0,0,,contrary to its engineers' views,
+Dialogue: 0,0:06:22.87,0:06:25.41,Cap,,0,0,0,,in order to accommodate\Na major customer.
+Dialogue: 0,0:06:26.69,0:06:30.29,Cap,,0,0,0,,On the ice, the Commission found\Nthe decision to launch questionable,
+Dialogue: 0,0:06:30.52,0:06:33.06,Cap,,0,0,0,,because NASA appeared to\Nbe requiring a contractor
+Dialogue: 0,0:06:33.08,0:06:35.04,Cap,,0,0,0,,to prove it was not safe to launch,
+Dialogue: 0,0:06:35.31,0:06:36.86,Cap,,0,0,0,,rather than proving that it was.
+Dialogue: 0,0:06:38.16,0:06:41.38,Cap,,0,0,0,,Its first recommendation was that\Nthe faulty joint must be changed,
+Dialogue: 0,0:06:41.87,0:06:45.06,Cap,,0,0,0,,and that no design option should\Nbe ruled out because of schedule,
+Dialogue: 0,0:06:45.19,0:06:47.77,Cap,,0,0,0,,cost, or reliance on existing hardware.
+Dialogue: 0,0:06:49.05,0:06:50.00,Cap,,0,0,0,,In his own appendix,
+Dialogue: 0,0:06:50.39,0:06:52.46,Cap,,0,0,0,,Feynman wrote that\Nestimates of the chance
+Dialogue: 0,0:06:52.48,0:06:55.33,Cap,,0,0,0,,of failure ranged from about 1 in 100,
+Dialogue: 0,0:06:55.66,0:06:59.88,Cap,,0,0,0,,from working engineers, to 1 in\N100,000, from management.
+Dialogue: 0,0:07:00.90,0:07:02.48,Cap,,0,0,0,,Feynman noted that odds of 1
+Dialogue: 0,0:07:02.50,0:07:05.45,Cap,,0,0,0,,in 100,000 would mean\Nlaunching a shuttle every day
+Dialogue: 0,0:07:05.47,0:07:07.24,Cap,,0,0,0,,for 300 years to lose one,
+Dialogue: 0,0:07:07.73,0:07:09.68,Cap,,0,0,0,,and asked what lay\Nbehind management's,
+Dialogue: 0,0:07:09.84,0:07:12.45,Cap,,0,0,0,,quote, fantastic faith\Nin the machinery.
+Dialogue: 0,0:07:13.49,0:07:17.67,Cap,,0,0,0,,He ended with a line that became\Nfamous: for a successful technology,
+Dialogue: 0,0:07:18.04,0:07:20.82,Cap,,0,0,0,,reality must take precedence\Nover public relations,
+Dialogue: 0,0:07:20.97,0:07:22.56,Cap,,0,0,0,,for nature cannot be fooled.
+Dialogue: 0,0:07:23.95,0:07:26.45,Cap,,0,0,0,,Was this an accident that did not have to happen?
+Dialogue: 0,0:07:27.43,0:07:28.35,Cap,,0,0,0,,Yes, it was.
+Dialogue: 0,0:07:28.59,0:07:33.35,Cap,,0,0,0,,It was an accident that had many, many warnings
+Dialogue: 0,0:07:33.35,0:07:37.65,Cap,,0,0,0,,that there was something wrong and that it might sooner or later go off,
+Dialogue: 0,0:07:38.33,0:07:40.37,Cap,,0,0,0,,and the warnings were disregarded.
+Dialogue: 0,0:07:41.63,0:07:42.92,Cap,,0,0,0,,On the first anniversary,
+Dialogue: 0,0:07:43.36,0:07:44.08,Cap,,0,0,0,,Reagan spoke
+Dialogue: 0,0:07:44.10,0:07:47.84,Cap,,0,0,0,,to NASA employees about the lessons\NChrista McAuliffe had hoped to teach.
+Dialogue: 0,0:07:49.11,0:07:52.09,Cap,,0,0,0,,Well, she never got to give those lessons in space science,
+Dialogue: 0,0:07:52.77,0:07:56.41,Cap,,0,0,0,,but she and the others did teach America's children something nevertheless,
+Dialogue: 0,0:07:57.11,0:07:59.31,Cap,,0,0,0,,something precious, something enduring,
+Dialogue: 0,0:08:00.33,0:08:02.65,Cap,,0,0,0,,The shuttle was\Ngrounded for 32 months.
+Dialogue: 0,0:08:03.24,0:08:07.24,Cap,,0,0,0,,Discovery flew again on\Nthe 29th of September 1988,
+Dialogue: 0,0:08:07.33,0:08:08.80,Cap,,0,0,0,,with redesigned boosters.
+Dialogue: 0,0:08:10.94,0:08:13.90,Cap,,0,0,0,,The engineers said not to\Nlaunch below 53 degrees,
+Dialogue: 0,0:08:14.09,0:08:16.27,Cap,,0,0,0,,and that same night the\Nwarning was reversed.
+Dialogue: 0,0:08:17.46,0:08:20.00,Cap,,0,0,0,,When the people closest\Nto the data say stop,
+Dialogue: 0,0:08:20.51,0:08:22.49,Cap,,0,0,0,,who decides whether anyone listens?
