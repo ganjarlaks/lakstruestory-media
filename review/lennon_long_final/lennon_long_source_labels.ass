@@ -1,0 +1,57 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Lab,Poppins,34,&H00E6E6E6,&H0000FFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,3,1,7,48,48,40,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 1,0:00:03.30,0:00:07.80,Lab,,0,0,0,,New York from the air, with the Double Fantasy sleeve (UK TV tribute, Dec 1980)
+Dialogue: 1,0:00:12.70,0:00:17.20,Lab,,0,0,0,,A New York street at night, 8-9 Dec 1980 (WGN Chicago)
+Dialogue: 1,0:00:18.78,0:00:23.28,Lab,,0,0,0,,Lennon in a recording studio, 1970s (archive)
+Dialogue: 1,0:00:27.22,0:00:31.72,Lab,,0,0,0,,Beatles at the Cavern Club, Liverpool, early 1960s (archive TV film)
+Dialogue: 1,0:00:41.70,0:00:46.20,Lab,,0,0,0,,Lennon in a recording studio, 1960s (archive)
+Dialogue: 1,0:00:53.30,0:00:56.56,Lab,,0,0,0,,Beatles on stage, 1960s (archive)
+Dialogue: 1,0:00:56.86,0:01:00.56,Lab,,0,0,0,,Beatles on a TV stage, 1960s (archive)
+Dialogue: 1,0:01:00.86,0:01:04.52,Lab,,0,0,0,,Beatles, 1964 (archive film)
+Dialogue: 1,0:01:04.82,0:01:09.32,Lab,,0,0,0,,Audio: RKO Radio interview, 8 Dec 1980. Picture: archive footage
+Dialogue: 1,0:01:29.82,0:01:34.32,Lab,,0,0,0,,Beatles on BBC Top of the Pops, December 1964 (archive)
+Dialogue: 1,0:01:36.34,0:01:40.84,Lab,,0,0,0,,Audio: RKO Radio interview, 8 Dec 1980. Picture: archive footage
+Dialogue: 1,0:01:52.66,0:01:57.16,Lab,,0,0,0,,Beatles rooftop concert, London, January 1969 (Let It Be film)
+Dialogue: 1,0:02:15.74,0:02:20.24,Lab,,0,0,0,,Lennon and Ono, bed-in for peace, 1969 (archive)
+Dialogue: 1,0:02:24.21,0:02:28.71,Lab,,0,0,0,,John Lennon, BBC Radio 1 interview, 6 Dec 1980 (heard in a UK TV tribute)
+Dialogue: 1,0:02:41.26,0:02:45.76,Lab,,0,0,0,,Andy Peebles, BBC Radio 1 (UK TV tribute, Dec 1980)
+Dialogue: 1,0:02:47.22,0:02:51.72,Lab,,0,0,0,,Lennon and Ono, bed-in for peace, 1969 (archive)
+Dialogue: 1,0:03:07.34,0:03:11.84,Lab,,0,0,0,,Lennon and Ono in bed, 1969 (archive)
+Dialogue: 1,0:03:14.30,0:03:18.80,Lab,,0,0,0,,Audio: RKO Radio interview, 8 Dec 1980. Picture: archive footage
+Dialogue: 1,0:03:42.78,0:03:47.20,Lab,,0,0,0,,Lennon, c. 1969 (archive)
+Dialogue: 1,0:03:47.50,0:03:52.00,Lab,,0,0,0,,Lennon and Ono, 1969 (archive)
+Dialogue: 1,0:04:02.62,0:04:07.12,Lab,,0,0,0,,Crowd outside the Dakota, night of 8-9 Dec 1980 (WBBM Chicago)
+Dialogue: 1,0:04:09.78,0:04:14.28,Lab,,0,0,0,,Lennon in a recording studio, 1970s (archive)
+Dialogue: 1,0:04:39.38,0:04:42.92,Lab,,0,0,0,,Lennon singing in headphones, 1970s (archive)
+Dialogue: 1,0:04:46.22,0:04:50.72,Lab,,0,0,0,,Crowd on Central Park West, 9 Dec 1980 (WBBM Chicago)
+Dialogue: 1,0:04:54.38,0:04:58.88,Lab,,0,0,0,,Mourners, New York, 9 Dec 1980 (WBBM Chicago)
+Dialogue: 1,0:05:31.26,0:05:34.40,Lab,,0,0,0,,Crowd on Central Park West, 9 Dec 1980 (WBBM Chicago)
+Dialogue: 1,0:05:34.70,0:05:37.88,Lab,,0,0,0,,Mourners, New York, 9 Dec 1980 (WBBM Chicago)
+Dialogue: 1,0:05:38.17,0:05:42.67,Lab,,0,0,0,,George Martin, the Beatles' producer (UK TV tribute, Dec 1980)
+Dialogue: 1,0:05:47.90,0:05:52.40,Lab,,0,0,0,,Mourners, New York, 9 Dec 1980 (WBBM Chicago)
+Dialogue: 1,0:05:59.70,0:06:03.36,Lab,,0,0,0,,Flowers and mourners, New York, Dec 1980 (UK TV report)
+Dialogue: 1,0:06:03.66,0:06:08.16,Lab,,0,0,0,,Flowers left by mourners, New York, Dec 1980 (UK TV report)
+Dialogue: 1,0:06:10.86,0:06:15.36,Lab,,0,0,0,,Liverpool, St George's Hall vigil, 14 Dec 1980 (ITN)
+Dialogue: 1,0:06:16.94,0:06:21.44,Lab,,0,0,0,,Liverpool vigil, 14 Dec 1980 (ITN)
+Dialogue: 1,0:06:22.26,0:06:26.76,Lab,,0,0,0,,Balboa Park, San Diego, vigil, Dec 1980 (KFMB)
+Dialogue: 1,0:06:39.06,0:06:43.56,Lab,,0,0,0,,Reporter outside Tower Records, Point Loma, San Diego, Dec 1980 (KFMB)
+Dialogue: 1,0:06:49.06,0:06:52.80,Lab,,0,0,0,,Customers at Tower Records, San Diego, Dec 1980 (KFMB)
+Dialogue: 1,0:06:56.14,0:07:00.64,Lab,,0,0,0,,Lennon singing in headphones, 1970s (archive)
+Dialogue: 1,0:07:03.22,0:07:07.72,Lab,,0,0,0,,Archive film from a UK TV tribute programme
+Dialogue: 1,0:07:12.46,0:07:16.96,Lab,,0,0,0,,Beatles rooftop concert, London, January 1969
+Dialogue: 1,0:07:22.70,0:07:27.20,Lab,,0,0,0,,Beatles rooftop concert, London, January 1969 (Let It Be film)
+Dialogue: 1,0:07:28.30,0:07:32.80,Lab,,0,0,0,,Beatles rooftop concert, London, January 1969
+Dialogue: 1,0:07:39.26,0:07:43.76,Lab,,0,0,0,,Archive film from a UK TV tribute programme
+Dialogue: 1,0:07:49.50,0:07:54.00,Lab,,0,0,0,,Audio: RKO Radio interview, 8 Dec 1980. Picture: archive footage
+Dialogue: 1,0:07:55.34,0:07:58.84,Lab,,0,0,0,,Beatles rooftop concert, London, January 1969 (Let It Be film)
+Dialogue: 1,0:07:59.14,0:08:01.92,Lab,,0,0,0,,Archive film from a UK TV tribute programme
