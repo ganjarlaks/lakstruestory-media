@@ -1,0 +1,71 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Lab,Poppins,32,&H00E6E6E6,&H0000FFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,3,1,7,48,48,40,1
+Style: Film,Poppins,36,&H0000E6FF,&H0000FFFF,&H00000000,&HC0000000,1,0,0,0,100,100,0,0,3,10,0,7,40,40,36,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 1,0:00:05.15,0:00:10.86,Lab,,0,0,0,,San Francisco Bay and Alcatraz, 1967 (TV show Discovery, via Periscope Film)
+Dialogue: 1,0:00:11.11,0:00:16.82,Lab,,0,0,0,,Alcatraz Island seen from a boat, c. 1938 (Prelinger Archives)
+Dialogue: 1,0:00:17.07,0:00:23.86,Lab,,0,0,0,,Inside the empty cell house, after the prison closed (American Archive of Public Broadcasting film, undated)
+Dialogue: 1,0:00:24.11,0:00:31.18,Lab,,0,0,0,,Alcatraz as filmed in 1986, empty (documentary Alcatraz, David Watts Productions)
+Dialogue: 1,0:00:31.43,0:00:34.82,Lab,,0,0,0,,Alcatraz Island seen from a boat, c. 1938 (Prelinger Archives)
+Dialogue: 1,0:00:40.07,0:00:49.50,Lab,,0,0,0,,Alcatraz Island seen from a boat, c. 1938 (Prelinger Archives)
+Dialogue: 1,0:00:49.75,0:00:56.34,Lab,,0,0,0,,San Francisco Bay and Alcatraz, 1967 (TV show Discovery, via Periscope Film)
+Dialogue: 1,0:00:56.59,0:01:14.14,Lab,,0,0,0,,Archival film of the prison, undated (in the 1986 documentary Alcatraz, David Watts Productions)
+Dialogue: 1,0:01:14.39,0:01:22.14,Lab,,0,0,0,,San Francisco Bay and Alcatraz, 1967 (TV show Discovery, via Periscope Film)
+Dialogue: 1,0:01:22.39,0:01:28.14,Lab,,0,0,0,,Evening Star, Washington, 13 Jun 1962, p. A-5 (Library of Congress)
+Dialogue: 1,0:01:28.39,0:01:33.62,Lab,,0,0,0,,Boats and ferries on San Francisco Bay, c. 1938 (Prelinger Archives)
+Dialogue: 1,0:01:33.87,0:01:38.86,Lab,,0,0,0,,Evening Star, Washington, 12 Jun 1962, p. A-1 (Library of Congress)
+Dialogue: 1,0:01:39.11,0:02:00.02,Lab,,0,0,0,,Archival film of the prison, undated (in the 1986 documentary Alcatraz, David Watts Productions)
+Dialogue: 1,0:02:00.27,0:02:05.54,Lab,,0,0,0,,Sunday Star, Washington, 17 Jun 1962, p. A-11 (Library of Congress)
+Dialogue: 1,0:02:05.79,0:02:10.54,Lab,,0,0,0,,Archival film of the prison, undated (in the 1986 documentary Alcatraz, David Watts Productions)
+Dialogue: 1,0:02:10.79,0:02:18.54,Lab,,0,0,0,,Boats and ferries on San Francisco Bay, c. 1938 (Prelinger Archives)
+Dialogue: 1,0:02:23.79,0:02:36.78,Lab,,0,0,0,,Inside the empty cell house, after the prison closed (American Archive of Public Broadcasting film, undated)
+Dialogue: 1,0:02:37.03,0:02:42.30,Lab,,0,0,0,,Archival film of the prison, undated (in the 1986 documentary Alcatraz, David Watts Productions)
+Dialogue: 1,0:02:42.55,0:02:54.74,Lab,,0,0,0,,Inside the empty cell house, after the prison closed (American Archive of Public Broadcasting film, undated)
+Dialogue: 1,0:02:54.99,0:03:02.74,Lab,,0,0,0,,Inside Alcatraz as filmed in 1986, empty (documentary Alcatraz, David Watts Productions)
+Dialogue: 1,0:03:02.99,0:03:21.26,Lab,,0,0,0,,Inside the empty cell house, after the prison closed (American Archive of Public Broadcasting film, undated)
+Dialogue: 1,0:03:21.51,0:03:25.66,Lab,,0,0,0,,Boats and ferries on San Francisco Bay, c. 1938 (Prelinger Archives)
+Dialogue: 1,0:03:25.91,0:03:30.02,Lab,,0,0,0,,San Francisco Bay and Alcatraz, 1967 (TV show Discovery, via Periscope Film)
+Dialogue: 1,0:03:30.27,0:03:34.94,Lab,,0,0,0,,Boats and ferries on San Francisco Bay, c. 1938 (Prelinger Archives)
+Dialogue: 1,0:03:35.19,0:03:39.90,Lab,,0,0,0,,San Francisco Bay and Alcatraz, 1967 (TV show Discovery, via Periscope Film)
+Dialogue: 1,0:03:40.15,0:03:49.42,Lab,,0,0,0,,Archival film of the prison, undated (in the 1986 documentary Alcatraz, David Watts Productions)
+Dialogue: 1,0:03:49.67,0:04:30.70,Film,,0,0,0,,Film: Escape From Alcatraz (1979), dramatization, not the real event
+Dialogue: 1,0:04:35.95,0:04:51.46,Lab,,0,0,0,,Archival film of the prison, undated (in the 1986 documentary Alcatraz, David Watts Productions)
+Dialogue: 1,0:04:51.71,0:04:55.90,Lab,,0,0,0,,Evening Star, Washington, 12 Jun 1962, p. A-1 (Library of Congress)
+Dialogue: 1,0:04:56.15,0:04:59.94,Lab,,0,0,0,,Alcatraz Island seen from a boat, c. 1938 (Prelinger Archives)
+Dialogue: 1,0:05:00.19,0:05:07.66,Lab,,0,0,0,,Alcatraz as filmed in 1986, empty (documentary Alcatraz, David Watts Productions)
+Dialogue: 1,0:05:07.91,0:05:11.66,Lab,,0,0,0,,Boats and ferries on San Francisco Bay, c. 1938 (Prelinger Archives)
+Dialogue: 1,0:05:11.91,0:05:15.66,Lab,,0,0,0,,San Francisco Bay and Alcatraz, 1967 (TV show Discovery, via Periscope Film)
+Dialogue: 1,0:05:15.91,0:05:19.98,Lab,,0,0,0,,Boats and ferries on San Francisco Bay, c. 1938 (Prelinger Archives)
+Dialogue: 1,0:05:20.23,0:05:35.18,Lab,,0,0,0,,San Francisco Bay and Alcatraz, 1967 (TV show Discovery, via Periscope Film)
+Dialogue: 1,0:05:35.43,0:05:39.62,Lab,,0,0,0,,Alcatraz Island seen from a boat, c. 1938 (Prelinger Archives)
+Dialogue: 1,0:05:39.87,0:05:43.74,Lab,,0,0,0,,San Francisco Bay and Alcatraz, 1967 (TV show Discovery, via Periscope Film)
+Dialogue: 1,0:05:43.99,0:05:51.90,Lab,,0,0,0,,Alcatraz Island seen from a boat, c. 1938 (Prelinger Archives)
+Dialogue: 1,0:05:52.15,0:05:55.90,Lab,,0,0,0,,San Francisco Bay and Alcatraz, 1967 (TV show Discovery, via Periscope Film)
+Dialogue: 1,0:05:56.15,0:06:02.26,Lab,,0,0,0,,Evening Star, Washington, 13 Jun 1962, p. A-5 (Library of Congress)
+Dialogue: 1,0:06:02.51,0:06:15.78,Lab,,0,0,0,,Archival film of the prison, undated (in the 1986 documentary Alcatraz, David Watts Productions)
+Dialogue: 1,0:06:21.03,0:06:25.86,Lab,,0,0,0,,Alcatraz as filmed in 1986, empty (documentary Alcatraz, David Watts Productions)
+Dialogue: 1,0:06:26.11,0:06:33.82,Lab,,0,0,0,,San Francisco Bay and Alcatraz, 1967 (TV show Discovery, via Periscope Film)
+Dialogue: 1,0:06:34.07,0:06:37.82,Lab,,0,0,0,,Alcatraz Island seen from a boat, c. 1938 (Prelinger Archives)
+Dialogue: 1,0:06:38.07,0:06:48.42,Lab,,0,0,0,,Inside Alcatraz as filmed in 1986, empty (documentary Alcatraz, David Watts Productions)
+Dialogue: 1,0:06:48.67,0:07:18.22,Lab,,0,0,0,,Inside the empty cell house, after the prison closed (American Archive of Public Broadcasting film, undated)
+Dialogue: 1,0:07:18.47,0:07:24.10,Lab,,0,0,0,,Inside Alcatraz as filmed in 1986, empty (documentary Alcatraz, David Watts Productions)
+Dialogue: 1,0:07:24.35,0:07:27.78,Lab,,0,0,0,,Alcatraz as filmed in 1986, empty (documentary Alcatraz, David Watts Productions)
+Dialogue: 1,0:07:28.03,0:07:31.46,Lab,,0,0,0,,Inside Alcatraz as filmed in 1986, empty (documentary Alcatraz, David Watts Productions)
+Dialogue: 1,0:07:31.71,0:07:38.38,Lab,,0,0,0,,Inside the empty cell house, after the prison closed (American Archive of Public Broadcasting film, undated)
+Dialogue: 1,0:07:38.63,0:07:41.50,Lab,,0,0,0,,Alcatraz as filmed in 1986, empty (documentary Alcatraz, David Watts Productions)
+Dialogue: 1,0:07:41.75,0:07:44.62,Lab,,0,0,0,,Inside the empty cell house, after the prison closed (American Archive of Public Broadcasting film, undated)
+Dialogue: 1,0:07:44.87,0:07:48.62,Lab,,0,0,0,,San Francisco Bay and Alcatraz, 1967 (TV show Discovery, via Periscope Film)
+Dialogue: 1,0:07:48.87,0:07:52.62,Lab,,0,0,0,,Alcatraz Island seen from a boat, c. 1938 (Prelinger Archives)
+Dialogue: 1,0:07:52.87,0:07:56.54,Lab,,0,0,0,,San Francisco Bay and Alcatraz, 1967 (TV show Discovery, via Periscope Film)
+Dialogue: 1,0:07:56.79,0:08:00.46,Lab,,0,0,0,,Alcatraz Island seen from a boat, c. 1938 (Prelinger Archives)
+Dialogue: 1,0:08:00.71,0:08:04.38,Lab,,0,0,0,,Alcatraz as filmed in 1986, empty (documentary Alcatraz, David Watts Productions)
+Dialogue: 1,0:08:04.63,0:08:09.90,Lab,,0,0,0,,Alcatraz Island seen from a boat, c. 1938 (Prelinger Archives)
