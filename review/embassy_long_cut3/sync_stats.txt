@@ -1,1 +1,0 @@
-matched 1137 of 1210 words (per line, in order); Whisper(base.en) start minus forced start: median -0.142 s, mean -0.186, abs(dev from median) p90 0.252, p95 0.408, max 2.100; within 0.2 s of forced: 66.3%; lines with median offset beyond 0.25 s: ['2.5']

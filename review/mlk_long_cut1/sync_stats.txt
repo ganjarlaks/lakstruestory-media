@@ -1,1 +1,0 @@
-matched 1165 of 1203 words; Whisper start minus forced start: median -0.145 s, mean -0.174, abs(dev from median) p90 0.204, p95 0.292, max 0.825; within 0.2 s of forced: 68.1%
