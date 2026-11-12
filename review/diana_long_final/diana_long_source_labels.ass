@@ -1,0 +1,43 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Lab,Poppins,34,&H00E6E6E6,&H0000FFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,3,1,7,48,48,40,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 1,0:00:03.30,0:00:07.80,Lab,,0,0,0,,NBC News, 30-31 Aug 1997: archive film of Diana, shown inside a bulletin
+Dialogue: 1,0:00:39.06,0:00:43.52,Lab,,0,0,0,,ITN News, 5 Sep 1997: flowers outside the royal palaces
+Dialogue: 1,0:00:46.82,0:00:51.32,Lab,,0,0,0,,BBC television, 31 Aug 1997 (as carried by NBC): the national anthem over the Union Flag
+Dialogue: 1,0:00:52.44,0:00:56.94,Lab,,0,0,0,,BBC One, 31 Aug 1997: the news interrupts a film (BBC bulletin via archive.org)
+Dialogue: 1,0:01:18.94,0:01:23.44,Lab,,0,0,0,,BBC television, 31 Aug 1997 (as carried by NBC): the national anthem over the Union Flag
+Dialogue: 1,0:01:25.45,0:01:29.95,Lab,,0,0,0,,NBC News, 30 Aug 1997 (US evening): wire bulletin read on air
+Dialogue: 1,0:01:36.26,0:01:40.76,Lab,,0,0,0,,ITN News, 31 Aug 1997: Balmoral
+Dialogue: 1,0:01:46.56,0:01:51.06,Lab,,0,0,0,,ITN News, 31 Aug 1997: Prime Minister Tony Blair
+Dialogue: 1,0:02:00.18,0:02:04.68,Lab,,0,0,0,,ITN News, 31 Aug 1997: RAF Northolt
+Dialogue: 1,0:02:24.26,0:02:28.76,Lab,,0,0,0,,ITN News, 31 Aug 1997: Earl Spencer's statement
+Dialogue: 1,0:02:54.78,0:02:59.28,Lab,,0,0,0,,ITN News, 31 Aug 1997: crowds outside Buckingham Palace
+Dialogue: 1,0:03:11.36,0:03:15.86,Lab,,0,0,0,,ITN News, 31 Aug 1997: Nicholas Owen at Kensington Gardens
+Dialogue: 1,0:03:27.06,0:03:31.56,Lab,,0,0,0,,ITN News, 31 Aug 1997: flowers
+Dialogue: 1,0:03:33.62,0:03:38.12,Lab,,0,0,0,,ITN News, 5 Sep 1997: flowers outside the royal palaces
+Dialogue: 1,0:04:11.10,0:04:15.60,Lab,,0,0,0,,ITN News, 31 Aug 1997: Buckingham Palace gates and flowers
+Dialogue: 1,0:04:17.46,0:04:21.96,Lab,,0,0,0,,The Queen's broadcast, 5 Sep 1997 (AAPB / PBS NewsHour archive)
+Dialogue: 1,0:04:35.66,0:04:40.16,Lab,,0,0,0,,ITN News, 31 Aug 1997: Buckingham Palace gates and flowers
+Dialogue: 1,0:04:41.24,0:04:45.74,Lab,,0,0,0,,The Queen's broadcast, 5 Sep 1997 (AAPB / PBS NewsHour archive)
+Dialogue: 1,0:04:58.34,0:05:02.36,Lab,,0,0,0,,ITN News, 31 Aug 1997: Buckingham Palace gates and flowers
+Dialogue: 1,0:05:02.66,0:05:06.72,Lab,,0,0,0,,ITN News, 5 Sep 1997: flowers outside the royal palaces
+Dialogue: 1,0:05:07.00,0:05:11.50,Lab,,0,0,0,,The Queen's broadcast, 5 Sep 1997 (AAPB / PBS NewsHour archive)
+Dialogue: 1,0:05:42.70,0:05:47.20,Lab,,0,0,0,,ITV funeral coverage, 6 Sep 1997: Kensington Palace
+Dialogue: 1,0:05:53.30,0:05:57.80,Lab,,0,0,0,,ITV funeral coverage, 6 Sep 1997: the cortege
+Dialogue: 1,0:06:08.88,0:06:13.38,Lab,,0,0,0,,ITV funeral coverage, 6 Sep 1997: the route, in silence
+Dialogue: 1,0:06:29.10,0:06:33.60,Lab,,0,0,0,,ITV funeral coverage, 6 Sep 1997: the cortege
+Dialogue: 1,0:06:35.22,0:06:39.72,Lab,,0,0,0,,CBS News funeral coverage, 6 Sep 1997: Westminster Abbey
+Dialogue: 1,0:06:42.28,0:06:46.78,Lab,,0,0,0,,CBS News funeral coverage, 6 Sep 1997: Earl Spencer's eulogy
+Dialogue: 1,0:07:10.78,0:07:15.28,Lab,,0,0,0,,ITV funeral coverage, 6 Sep 1997: the cortege
+Dialogue: 1,0:07:20.32,0:07:24.82,Lab,,0,0,0,,CBS News, 6 Sep 1997: statement from Hillary Clinton read on air
+Dialogue: 1,0:07:47.22,0:07:51.72,Lab,,0,0,0,,ITN News, 5 Sep 1997: Althorp, the Spencer family home
+Dialogue: 1,0:07:58.46,0:08:02.96,Lab,,0,0,0,,ITV funeral coverage, 6 Sep 1997: the route
