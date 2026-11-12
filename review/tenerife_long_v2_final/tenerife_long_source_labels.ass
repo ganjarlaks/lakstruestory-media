@@ -1,0 +1,60 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Lab,Poppins,32,&H00E6E6E6,&H0000FFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,3,1,7,48,48,40,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 1,0:00:04.63,0:00:32.54,Lab,,0,0,0,,Los Rodeos after the collision, AP newsfilm, 28 Mar 1977
+Dialogue: 1,0:00:36.79,0:00:42.30,Lab,,0,0,0,,Anchor with a map of the Canary Islands, ABC Evening News, 28 Mar 1977
+Dialogue: 1,0:00:42.55,0:00:47.42,Lab,,0,0,0,,Los Rodeos after the collision, AP newsfilm, 28 Mar 1977
+Dialogue: 1,0:00:47.67,0:00:54.18,Lab,,0,0,0,,KLM offices, Amsterdam, AP newsfilm, 30 Mar 1977
+Dialogue: 1,0:00:54.43,0:01:00.22,Lab,,0,0,0,,Anchor on the investigation, NBC Nightly News, 29 Mar 1977
+Dialogue: 1,0:01:00.47,0:01:09.58,Lab,,0,0,0,,Pan Am ticket area and a Pan Am 747, Los Angeles, NBC Nightly News, 28 Mar 1977 (not the crash aircraft)
+Dialogue: 1,0:01:09.85,0:01:19.32,Lab,,0,0,0,,KLM spokesman, Amsterdam, AP newsfilm, 28 Mar 1977 (original sound)
+Dialogue: 1,0:01:19.59,0:01:24.70,Lab,,0,0,0,,Anchor with a map of the Canary Islands, NBC Nightly News, 28 Mar 1977
+Dialogue: 1,0:01:24.95,0:01:35.94,Lab,,0,0,0,,Los Rodeos after the collision, AP newsfilm, 28 Mar 1977
+Dialogue: 1,0:01:36.15,0:01:47.50,Lab,,0,0,0,,TV model of the runway layout, NBC Nightly News, 28 Mar 1977
+Dialogue: 1,0:01:47.75,0:02:10.62,Lab,,0,0,0,,TV model of the runway layout, ABC Evening News, 28 Mar 1977
+Dialogue: 1,0:02:14.87,0:02:29.82,Lab,,0,0,0,,TV model of the runway layout, NBC Nightly News, 28 Mar 1977
+Dialogue: 1,0:02:30.07,0:02:38.86,Lab,,0,0,0,,TV model of the runway layout, ABC Evening News, 28 Mar 1977
+Dialogue: 1,0:02:39.11,0:02:48.54,Lab,,0,0,0,,Wreckage at Los Rodeos, ABC Evening News, 28 Mar 1977 (Spanish TV film)
+Dialogue: 1,0:02:48.79,0:02:53.02,Lab,,0,0,0,,Fire crews at the wreckage, ABC Evening News, 28 Mar 1977 (Spanish TV film)
+Dialogue: 1,0:02:53.27,0:03:04.94,Lab,,0,0,0,,TV model of the runway layout, ABC Evening News, 28 Mar 1977
+Dialogue: 1,0:03:05.19,0:03:25.66,Lab,,0,0,0,,Anchor on the investigation, NBC Nightly News, 29 Mar 1977
+Dialogue: 1,0:03:25.91,0:03:37.02,Lab,,0,0,0,,Anchor with a map of the Canary Islands, ABC Evening News, 28 Mar 1977
+Dialogue: 1,0:03:37.27,0:03:57.58,Lab,,0,0,0,,Air traffic control, Chicago O'Hare, 1970s film (not Tenerife)
+Dialogue: 1,0:03:57.83,0:04:06.38,Lab,,0,0,0,,TV model of the runway layout, NBC Nightly News, 28 Mar 1977
+Dialogue: 1,0:04:06.65,0:04:28.14,Lab,,0,0,0,,KLM spokesman, Amsterdam, AP newsfilm, 28 Mar 1977 (original sound)
+Dialogue: 1,0:04:32.39,0:04:39.90,Lab,,0,0,0,,Anchor with a map of the Canary Islands, NBC Nightly News, 28 Mar 1977
+Dialogue: 1,0:04:40.15,0:04:48.98,Lab,,0,0,0,,TV model of the runway layout, ABC Evening News, 28 Mar 1977
+Dialogue: 1,0:04:49.23,0:05:04.26,Lab,,0,0,0,,Wreckage at Los Rodeos, NBC Nightly News, 28 Mar 1977
+Dialogue: 1,0:05:04.51,0:05:10.46,Lab,,0,0,0,,Wreckage at Los Rodeos, NBC Nightly News, 29 Mar 1977
+Dialogue: 1,0:05:10.71,0:05:14.74,Lab,,0,0,0,,Wreckage at Los Rodeos, ABC Evening News, 28 Mar 1977 (Spanish TV film)
+Dialogue: 1,0:05:14.99,0:05:28.60,Lab,,0,0,0,,Anchor, ABC Evening News, 28 Mar 1977 (early count) (original sound)
+Dialogue: 1,0:05:28.87,0:05:38.06,Lab,,0,0,0,,Wreckage at Los Rodeos, ABC Evening News, 28 Mar 1977 (Spanish TV film)
+Dialogue: 1,0:05:38.33,0:05:54.94,Lab,,0,0,0,,Survivor's voice over Spanish TV film of the fire, ABC Evening News, 28 Mar 1977 (original sound)
+Dialogue: 1,0:05:55.19,0:06:04.82,Lab,,0,0,0,,Wreckage at Los Rodeos, ABC Evening News, 28 Mar 1977 (Spanish TV film)
+Dialogue: 1,0:06:05.07,0:06:16.26,Lab,,0,0,0,,Survivors arrive at Kelly Air Force Base, San Antonio, AP newsfilm, 1977
+Dialogue: 1,0:06:20.51,0:06:27.70,Lab,,0,0,0,,Wreckage at Los Rodeos, NBC Nightly News, 29 Mar 1977
+Dialogue: 1,0:06:27.95,0:06:41.94,Lab,,0,0,0,,Spanish joint accident report, 1978, conclusions (FAA-hosted scan)
+Dialogue: 1,0:06:42.19,0:06:53.02,Lab,,0,0,0,,Spanish joint accident report, 1978, analysis (FAA-hosted scan)
+Dialogue: 1,0:06:53.27,0:06:58.22,Lab,,0,0,0,,An airliner over Badhoevedorp, Netherlands, NBC Nightly News, 29 Mar 1977 (not the crash aircraft)
+Dialogue: 1,0:06:58.47,0:07:03.38,Lab,,0,0,0,,KLM spokesman, Amsterdam, AP newsfilm, 30 Mar 1977
+Dialogue: 1,0:07:03.63,0:07:08.78,Lab,,0,0,0,,Wreckage at Los Rodeos, NBC Nightly News, 28 Mar 1977
+Dialogue: 1,0:07:09.03,0:07:17.88,Lab,,0,0,0,,Reporter at Los Rodeos, NBC Nightly News, 28 Mar 1977 (original sound)
+Dialogue: 1,0:07:18.15,0:07:27.66,Lab,,0,0,0,,Spanish joint accident report, 1978, recommendations (FAA-hosted scan)
+Dialogue: 1,0:07:27.91,0:07:35.34,Lab,,0,0,0,,Air traffic control, Chicago O'Hare, 1970s film (not Tenerife)
+Dialogue: 1,0:07:35.59,0:07:39.82,Lab,,0,0,0,,Inside a KLM 747 cockpit, Dutch newsreel, Feb 1971 (not Tenerife)
+Dialogue: 1,0:07:40.07,0:07:44.30,Lab,,0,0,0,,Air traffic control, Chicago O'Hare, 1970s film (not Tenerife)
+Dialogue: 1,0:07:44.55,0:07:48.94,Lab,,0,0,0,,KLM spokesman, Amsterdam, AP newsfilm, 30 Mar 1977
+Dialogue: 1,0:07:49.19,0:07:54.38,Lab,,0,0,0,,Memorial service for the victims, AP newsfilm, March 1977
+Dialogue: 1,0:07:54.63,0:07:59.74,Lab,,0,0,0,,Memorial service for the KLM victims, AP newsfilm, March 1977
+Dialogue: 1,0:07:59.99,0:08:03.98,Lab,,0,0,0,,Memorial service for the victims, AP newsfilm, March 1977
+Dialogue: 1,0:08:04.23,0:08:08.14,Lab,,0,0,0,,Memorial service for the KLM victims, AP newsfilm, March 1977
+Dialogue: 1,0:08:08.39,0:08:18.06,Lab,,0,0,0,,Wreckage at Los Rodeos, ABC Evening News, 28 Mar 1977 (Spanish TV film)

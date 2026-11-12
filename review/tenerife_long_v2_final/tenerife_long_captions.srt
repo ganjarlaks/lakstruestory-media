@@ -1,0 +1,642 @@
+1
+00:00:04,771 --> 00:00:08,428
+On the afternoon of 27 March 1977,
+
+2
+00:00:08,919 --> 00:00:14,180
+two Boeing 747s collided on a runway
+on the Spanish island of Tenerife.
+
+3
+00:00:15,611 --> 00:00:17,465
+Five hundred and
+eighty-three people died.
+
+4
+00:00:18,036 --> 00:00:21,213
+It is still the deadliest
+accident in aviation history,
+
+5
+00:00:21,404 --> 00:00:23,519
+and neither aircraft was
+supposed to be there.
+
+6
+00:00:25,151 --> 00:00:27,608
+This is how a bomb,
+a bank of low cloud,
+
+7
+00:00:27,799 --> 00:00:31,299
+and one half-heard radio call put
+them on the same strip of concrete.
+
+8
+00:00:36,891 --> 00:00:41,229
+Los Rodeos was a small regional
+airport in the north of Tenerife,
+
+9
+00:00:41,440 --> 00:00:43,313
+in Spain's Canary Islands.
+
+10
+00:00:43,764 --> 00:00:46,239
+It had one runway and a
+modest parking apron.
+
+11
+00:00:47,770 --> 00:00:54,151
+That morning a KLM Boeing 747,
+flight 4805, left Amsterdam,
+
+12
+00:00:54,502 --> 00:00:58,979
+bound for Las Palmas, on the
+neighboring island of Gran Canaria.
+
+13
+00:01:00,591 --> 00:01:05,993
+A Pan Am 747, flight 1736, had flown
+from Los Angeles to New York,
+
+14
+00:01:06,224 --> 00:01:08,339
+and then set out for
+the same destination.
+
+15
+00:01:10,020 --> 00:01:11,860
+During the flight we received word
+
+16
+00:01:11,880 --> 00:01:13,880
+that a bomb explosion
+had taken place
+
+17
+00:01:13,900 --> 00:01:15,940
+in the departure hall of the aircraft
+
+18
+00:01:15,960 --> 00:01:19,150
+and consequently the
+airport was closed down.
+
+19
+00:01:19,630 --> 00:01:21,635
+Because of the threat
+of a second explosion,
+
+20
+00:01:21,655 --> 00:01:24,731
+the terminal was evacuated
+and the airport was closed.
+
+21
+00:01:25,422 --> 00:01:28,919
+Many arriving flights were
+sent to Los Rodeos instead.
+
+22
+00:01:30,391 --> 00:01:32,328
+Its parking area filled with airliners.
+
+23
+00:01:32,901 --> 00:01:34,859
+KLM and Pan Am were among them.
+
+24
+00:01:36,250 --> 00:01:39,847
+When Las Palmas reopened, the
+Pan Am crew was ready to go.
+
+25
+00:01:40,418 --> 00:01:41,791
+But the KLM jet,
+
+26
+00:01:41,941 --> 00:01:45,197
+which had let its passengers leave
+the aircraft during the delay,
+
+27
+00:01:45,388 --> 00:01:46,500
+was blocking the way.
+
+28
+00:01:47,830 --> 00:01:50,785
+The KLM crew used the wait to refuel,
+
+29
+00:01:50,976 --> 00:01:53,691
+taking on fifty-five thousand
+five hundred liters.
+
+30
+00:01:54,382 --> 00:01:56,406
+Investigators believed
+the captain wanted
+
+31
+00:01:56,426 --> 00:01:58,659
+to avoid a second
+delay at Las Palmas.
+
+32
+00:02:00,150 --> 00:02:04,649
+The main apron was jammed, so the
+jets could not use the parallel taxiway.
+
+33
+00:02:05,061 --> 00:02:09,259
+To reach the end of the runway, they
+had to taxi along the runway itself.
+
+34
+00:02:14,971 --> 00:02:18,933
+The controllers told the KLM to
+taxi to the far end of the runway,
+
+35
+00:02:19,284 --> 00:02:20,699
+turn around, and wait.
+
+36
+00:02:22,271 --> 00:02:26,092
+Behind it, the Pan Am was told to
+follow along the same runway,
+
+37
+00:02:26,423 --> 00:02:28,499
+and to leave it by the
+third exit on the left.
+
+38
+00:02:30,171 --> 00:02:34,271
+On the Pan Am cockpit recording, the
+crew can be heard counting the exits.
+
+39
+00:02:34,882 --> 00:02:37,679
+One of them says he thought
+the controller had said first.
+
+40
+00:02:39,251 --> 00:02:41,746
+Meanwhile, low cloud was rolling in.
+
+41
+00:02:42,137 --> 00:02:45,225
+Runway visibility fell from
+two or three kilometers
+
+42
+00:02:45,245 --> 00:02:47,239
+to three hundred meters
+in twelve minutes.
+
+43
+00:02:48,872 --> 00:02:51,798
+At times the tower could
+not see either aircraft.
+
+44
+00:02:53,391 --> 00:02:56,025
+At the end of the runway,
+the KLM first officer said,
+
+45
+00:02:56,677 --> 00:02:59,391
+"Wait a minute, we don't
+have an A T C clearance."
+
+46
+00:02:59,822 --> 00:03:02,156
+The captain answered,
+"No, I know that.
+
+47
+00:03:02,407 --> 00:03:03,539
+Go ahead, ask."
+
+48
+00:03:05,230 --> 00:03:09,027
+The tower then read out the route the
+aircraft would fly after departure.
+
+49
+00:03:09,478 --> 00:03:11,291
+That is not permission to take off.
+
+50
+00:03:11,782 --> 00:03:15,839
+The KLM crew read it back, and
+added: "We're now at take off."
+
+51
+00:03:17,491 --> 00:03:19,065
+The brakes were already off.
+
+52
+00:03:19,496 --> 00:03:21,110
+The controller said, "Okay."
+
+53
+00:03:21,582 --> 00:03:23,527
+Then: "Stand by for take off.
+
+54
+00:03:23,547 --> 00:03:24,359
+I will call you."
+
+55
+00:03:26,031 --> 00:03:28,505
+At that same moment,
+the Pan Am crew radioed:
+
+56
+00:03:28,856 --> 00:03:30,850
+"We are still taxiing down the runway."
+
+57
+00:03:31,581 --> 00:03:33,314
+The two transmissions overlapped,
+
+58
+00:03:33,425 --> 00:03:35,899
+and a shrill whistle
+filled the KLM cockpit.
+
+59
+00:03:37,311 --> 00:03:40,569
+The tower then asked Pan Am to
+report when the runway was clear.
+
+60
+00:03:41,001 --> 00:03:43,959
+Pan Am answered, "Okay,
+we'll report when we're clear."
+
+61
+00:03:45,590 --> 00:03:49,558
+In the KLM cockpit, the flight engineer
+asked, "Is he not clear then?"
+
+62
+00:03:49,578 --> 00:03:53,033
+And again: "Is he not clear,
+that Pan American?"
+
+63
+00:03:53,544 --> 00:03:56,259
+The captain answered,
+emphatically, "Oh, yes."
+
+64
+00:03:57,830 --> 00:04:01,480
+The report says the captain's great
+prestige may have kept the others
+
+65
+00:04:01,500 --> 00:04:02,713
+from objecting again.
+
+66
+00:04:03,024 --> 00:04:05,440
+The impact came about
+thirteen seconds later.
+
+67
+00:04:06,820 --> 00:04:11,080
+As far as our information
+goes, and I must stress this,
+
+68
+00:04:11,100 --> 00:04:14,410
+that the information has
+been rather fragmentary.
+
+69
+00:04:15,040 --> 00:04:18,460
+Our aircraft departed and just about
+
+70
+00:04:18,480 --> 00:04:23,690
+on rotation or just after
+collided with the Penn M 747.
+
+71
+00:04:24,620 --> 00:04:27,950
+And the result of that, as you
+can well guess, is disastrous.
+
+72
+00:04:32,451 --> 00:04:35,680
+The Pan Am crew saw the
+KLM jet coming at them out
+
+73
+00:04:35,700 --> 00:04:38,538
+of the fog about nine and a
+half seconds before impact.
+
+74
+00:04:40,451 --> 00:04:42,326
+The captain pushed
+the throttles forward,
+
+75
+00:04:42,436 --> 00:04:44,932
+and his first officer called out, "Get off!
+
+76
+00:04:45,143 --> 00:04:45,674
+Get off!"
+
+77
+00:04:46,426 --> 00:04:47,639
+It was not enough time.
+
+78
+00:04:49,311 --> 00:04:53,149
+The two aircraft collided at about six
+minutes past five in the afternoon.
+
+79
+00:04:53,581 --> 00:04:57,279
+Within minutes, the fog had thinned
+to about a kilometer of visibility.
+
+80
+00:04:58,751 --> 00:05:03,239
+All two hundred and forty-eight
+people aboard the KLM aircraft died.
+
+81
+00:05:04,651 --> 00:05:05,906
+On the Pan Am aircraft,
+
+82
+00:05:06,077 --> 00:05:09,198
+three hundred and thirty-five
+died, and sixty-one survived.
+
+83
+00:05:10,832 --> 00:05:13,658
+American television was still
+counting that Monday evening.
+
+84
+00:05:15,160 --> 00:05:17,290
+It was the worst disaster
+in aviation history.
+
+85
+00:05:17,720 --> 00:05:19,950
+There are at least 578 dead,
+
+86
+00:05:20,280 --> 00:05:23,900
+all of the 248 aboard the
+Dutch KLM plane taking off,
+
+87
+00:05:23,920 --> 00:05:28,410
+and at least 330 of the 396
+aboard a Pan -American plane.
+
+88
+00:05:28,891 --> 00:05:31,286
+Fire crews and rescuers
+went to the wreckage.
+
+89
+00:05:31,817 --> 00:05:34,825
+The pictures here are newsreels
+and television reports
+
+90
+00:05:34,845 --> 00:05:36,899
+from the hours and
+days that followed.
+
+91
+00:05:38,500 --> 00:05:42,790
+I sat on the part of the wing,
+almost falling backwards,
+
+92
+00:05:43,400 --> 00:05:48,410
+but anyway I caught myself and so
+I had to jump landing on my feet,
+
+93
+00:05:48,440 --> 00:05:49,130
+which I did.
+
+94
+00:05:49,180 --> 00:05:51,430
+I'm afraid I landed on
+somebody's back.
+
+95
+00:05:52,300 --> 00:05:54,750
+I hope and pray that they were safe.
+
+96
+00:05:55,311 --> 00:05:58,267
+No film of the collision
+itself is known to exist.
+
+97
+00:05:58,899 --> 00:06:01,705
+Where the pictures here are from
+another place or another year,
+
+98
+00:06:01,725 --> 00:06:03,759
+the label on the screen says so.
+
+99
+00:06:05,110 --> 00:06:08,807
+Pan Am's first officer, Robert
+Bragg, was among the survivors.
+
+100
+00:06:09,399 --> 00:06:12,635
+The United States later gave him
+its President's Award for heroism,
+
+101
+00:06:12,745 --> 00:06:14,979
+for helping fellow crew
+members and passengers.
+
+102
+00:06:20,631 --> 00:06:24,051
+Spain's accident board named
+the KLM captain's actions
+
+103
+00:06:24,302 --> 00:06:26,439
+as the fundamental
+cause of the disaster.
+
+104
+00:06:28,070 --> 00:06:29,282
+It listed four faults.
+
+105
+00:06:29,693 --> 00:06:31,125
+He took off without clearance.
+
+106
+00:06:31,696 --> 00:06:33,539
+He did not obey the order to stand by.
+
+107
+00:06:33,559 --> 00:06:37,004
+He did not stop when Pan Am
+reported it was still on the runway.
+
+108
+00:06:37,024 --> 00:06:40,619
+And he answered the flight
+engineer's question with a firm yes.
+
+109
+00:06:42,250 --> 00:06:44,966
+The board also listed factors
+that may have contributed:
+
+110
+00:06:45,136 --> 00:06:46,188
+the worsening weather,
+
+111
+00:06:46,399 --> 00:06:48,693
+strict new Dutch limits
+on crew duty time,
+
+112
+00:06:48,904 --> 00:06:51,719
+and the two radio transmissions
+made at the same time.
+
+113
+00:06:53,331 --> 00:06:55,846
+The Dutch authorities disagreed
+with parts of the finding.
+
+114
+00:06:56,337 --> 00:06:58,632
+They said the captain had
+taken off prematurely,
+
+115
+00:06:58,842 --> 00:07:02,039
+but called it a misunderstanding
+between the aircraft and the tower.
+
+116
+00:07:03,651 --> 00:07:07,578
+In fact, the argument over blame
+had begun on the first day.
+
+117
+00:07:09,200 --> 00:07:13,470
+KLM experts from Holland said
+air traffic controllers had goofed,
+
+118
+00:07:13,760 --> 00:07:15,540
+with the result that
+the two planes were
+
+119
+00:07:15,560 --> 00:07:17,710
+on the same runway at the same time.
+
+120
+00:07:18,211 --> 00:07:20,245
+The Spanish report called for exact,
+
+121
+00:07:20,355 --> 00:07:22,691
+standard, unequivocal
+radio language,
+
+122
+00:07:22,861 --> 00:07:26,439
+and for avoiding the words "take
+off" in an air traffic clearance.
+
+123
+00:07:27,971 --> 00:07:29,194
+Today, pilots
+
+124
+00:07:29,214 --> 00:07:33,588
+and controllers say "take off" only
+when an aircraft is actually cleared
+
+125
+00:07:33,608 --> 00:07:34,099
+to go.
+
+126
+00:07:35,691 --> 00:07:37,295
+Cockpit training changed as well.
+
+127
+00:07:37,315 --> 00:07:39,641
+Airlines began teaching crews
+
+128
+00:07:39,661 --> 00:07:41,575
+to speak up when
+something seems wrong,
+
+129
+00:07:41,806 --> 00:07:43,279
+even to a respected captain.
+
+130
+00:07:44,591 --> 00:07:47,899
+KLM later accepted
+responsibility for the accident.
+
+131
+00:07:49,311 --> 00:07:51,906
+In 2007, on the thirtieth anniversary,
+
+132
+00:07:52,257 --> 00:07:55,333
+the first official international
+memorial service was held,
+
+133
+00:07:55,664 --> 00:07:58,419
+with relatives from the
+Netherlands and the United States.
+
+134
+00:08:00,131 --> 00:08:02,848
+On a mountainside above
+the city stands a monument:
+
+135
+00:08:03,279 --> 00:08:06,979
+a spiral staircase to the sky,
+whose steps stop suddenly.
+
+136
+00:08:08,471 --> 00:08:12,899
+Fog, a bomb, and a half-heard
+call killed 583 people.
+
+137
+00:08:14,512 --> 00:08:16,777
+One captain's mistake, or everyone's?

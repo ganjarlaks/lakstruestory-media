@@ -1,0 +1,997 @@
+{
+"names": [
+"seg/000.mp4",
+"seg/001_0.mp4",
+"seg/001_1.mp4",
+"seg/001_2.mp4",
+"seg/002_0.mp4",
+"seg/002_1.mp4",
+"seg/003_0.mp4",
+"seg/003_1.mp4",
+"seg/004.mp4",
+"seg/005_0.mp4",
+"seg/005_1.mp4",
+"seg/006_0.mp4",
+"seg/006_1.mp4",
+"seg/007_0.mp4",
+"seg/007_1.mp4",
+"seg/008.mp4",
+"seg/009_0.mp4",
+"seg/009_1.mp4",
+"seg/010_0.mp4",
+"seg/011_0.mp4",
+"seg/012_0.mp4",
+"seg/013_0.mp4",
+"seg/014.mp4",
+"seg/015_0.mp4",
+"seg/016_0.mp4",
+"seg/017_0.mp4",
+"seg/018_0.mp4",
+"seg/019_0.mp4",
+"seg/020_0.mp4",
+"seg/021_0.mp4",
+"seg/022_0.mp4",
+"seg/023_0.mp4",
+"seg/024_0.mp4",
+"seg/025_0.mp4",
+"seg/026_0.mp4",
+"seg/027.mp4",
+"seg/028.mp4",
+"seg/029_0.mp4",
+"seg/030_0.mp4",
+"seg/031_0.mp4",
+"seg/031_1.mp4",
+"seg/032_0.mp4",
+"seg/033_0.mp4",
+"seg/034_0.mp4",
+"seg/035.mp4",
+"seg/036_0.mp4",
+"seg/037.mp4",
+"seg/038_0.mp4",
+"seg/038_1.mp4",
+"seg/039_0.mp4",
+"seg/039_1.mp4",
+"seg/040.mp4",
+"seg/041_0.mp4",
+"seg/042_0.mp4",
+"seg/043_0.mp4",
+"seg/044_0.mp4",
+"seg/044_1.mp4",
+"seg/045_0.mp4",
+"seg/046.mp4",
+"seg/047_0.mp4",
+"seg/048_0.mp4",
+"seg/049_0.mp4",
+"seg/049_1.mp4",
+"seg/050_0.mp4",
+"seg/051_0.mp4",
+"seg/051_1.mp4",
+"seg/052_0.mp4",
+"seg/052_1.mp4",
+"seg/053_0.mp4",
+"seg/054_0.mp4",
+"seg/055.mp4"
+],
+"tot": {
+"site": 152.51999999999998,
+"cov": 252.96,
+"era": 37.2,
+"still": 35.08,
+"cards": 25.52
+},
+"os_seconds": 67.77999999999999,
+"log": [
+[
+"C1",
+"AP_DEV",
+0.0,
+4.2,
+"site",
+"Los Rodeos after the collision, AP newsfilm, 28 Mar 1977"
+],
+[
+"C1",
+"AP_DEV",
+27.5,
+3.36,
+"site",
+"Los Rodeos after the collision, AP newsfilm, 28 Mar 1977"
+],
+[
+"C1",
+"AP_DEV",
+37.8,
+3.32,
+"site",
+"Los Rodeos after the collision, AP newsfilm, 28 Mar 1977"
+],
+[
+"C2",
+"AP_DEV",
+20.9,
+4.8,
+"site",
+"Los Rodeos after the collision, AP newsfilm, 28 Mar 1977"
+],
+[
+"C2",
+"AP_DEV",
+5.4,
+4.8,
+"site",
+"Los Rodeos after the collision, AP newsfilm, 28 Mar 1977"
+],
+[
+"C3",
+"AP_DEV",
+10.35,
+3.84,
+"site",
+"Los Rodeos after the collision, AP newsfilm, 28 Mar 1977"
+],
+[
+"C3",
+"AP_DEV",
+14.34,
+3.84,
+"site",
+"Los Rodeos after the collision, AP newsfilm, 28 Mar 1977"
+],
+[
+"1.1",
+"ABC",
+66.0,
+5.76,
+"cov",
+"Anchor with a map of the Canary Islands, ABC Evening News, 28 Mar 1977"
+],
+[
+"1.1",
+"AP_DEV",
+55.0,
+5.12,
+"site",
+"Los Rodeos after the collision, AP newsfilm, 28 Mar 1977"
+],
+[
+"1.2",
+"AP_KLMNL",
+0.0,
+6.76,
+"cov",
+"KLM offices, Amsterdam, AP newsfilm, 30 Mar 1977"
+],
+[
+"1.2",
+"N29",
+16.0,
+6.04,
+"cov",
+"Anchor on the investigation, NBC Nightly News, 29 Mar 1977"
+],
+[
+"1.3",
+"N28",
+329.0,
+4.72,
+"cov",
+"Pan Am ticket area and a Pan Am 747, Los Angeles, NBC Nightly News, 28 Mar 1977 (not the crash aircraft)"
+],
+[
+"1.3",
+"N28",
+333.87,
+4.64,
+"cov",
+"Pan Am ticket area and a Pan Am 747, Los Angeles, NBC Nightly News, 28 Mar 1977 (not the crash aircraft)"
+],
+[
+"KLM1",
+"AP_KLM",
+36.51,
+9.76,
+"cov",
+"OS"
+],
+[
+"1.5",
+"N28",
+17.0,
+5.36,
+"cov",
+"Anchor with a map of the Canary Islands, NBC Nightly News, 28 Mar 1977"
+],
+[
+"1.5",
+"AP_DEV",
+32.2,
+5.44,
+"site",
+"Los Rodeos after the collision, AP newsfilm, 28 Mar 1977"
+],
+[
+"1.6",
+"AP_DEV",
+45.0,
+5.8,
+"site",
+"Los Rodeos after the collision, AP newsfilm, 28 Mar 1977"
+],
+[
+"1.7",
+"N28",
+45.5,
+11.6,
+"cov",
+"TV model of the runway layout, NBC Nightly News, 28 Mar 1977"
+],
+[
+"1.8",
+"ABC",
+270.0,
+12.32,
+"cov",
+"TV model of the runway layout, ABC Evening News, 28 Mar 1977"
+],
+[
+"1.9",
+"ABC",
+282.47,
+10.8,
+"cov",
+"TV model of the runway layout, ABC Evening News, 28 Mar 1977"
+],
+[
+"2.1",
+"N28",
+57.5,
+7.4,
+"cov",
+"TV model of the runway layout, NBC Nightly News, 28 Mar 1977"
+],
+[
+"2.2",
+"N28",
+65.05,
+7.84,
+"cov",
+"TV model of the runway layout, NBC Nightly News, 28 Mar 1977"
+],
+[
+"2.3",
+"ABC",
+293.42,
+9.04,
+"cov",
+"TV model of the runway layout, ABC Evening News, 28 Mar 1977"
+],
+[
+"2.4",
+"ABC",
+125.0,
+9.68,
+"site",
+"Wreckage at Los Rodeos, ABC Evening News, 28 Mar 1977 (Spanish TV film)"
+],
+[
+"2.5",
+"ABC",
+101.0,
+4.48,
+"site",
+"Fire crews at the wreckage, ABC Evening News, 28 Mar 1977 (Spanish TV film)"
+],
+[
+"2.6",
+"ABC",
+302.61,
+11.92,
+"cov",
+"TV model of the runway layout, ABC Evening News, 28 Mar 1977"
+],
+[
+"2.7",
+"N29",
+22.19,
+12.24,
+"cov",
+"Anchor on the investigation, NBC Nightly News, 29 Mar 1977"
+],
+[
+"2.8",
+"N29",
+34.58,
+8.48,
+"cov",
+"Anchor on the investigation, NBC Nightly News, 29 Mar 1977"
+],
+[
+"2.9",
+"ABC",
+71.91,
+11.36,
+"cov",
+"Anchor with a map of the Canary Islands, ABC Evening News, 28 Mar 1977"
+],
+[
+"2.10",
+"OH",
+33.0,
+8.24,
+"era",
+"Air traffic control, Chicago O'Hare, 1970s film (not Tenerife)"
+],
+[
+"2.11",
+"OH",
+41.39,
+12.32,
+"era",
+"Air traffic control, Chicago O'Hare, 1970s film (not Tenerife)"
+],
+[
+"2.12",
+"N28",
+76.8,
+8.8,
+"cov",
+"TV model of the runway layout, NBC Nightly News, 28 Mar 1977"
+],
+[
+"KLM3",
+"AP_KLM",
+81.57,
+21.76,
+"cov",
+"OS"
+],
+[
+"3.1",
+"N28",
+22.51,
+7.76,
+"cov",
+"Anchor with a map of the Canary Islands, NBC Nightly News, 28 Mar 1977"
+],
+[
+"3.2",
+"ABC",
+314.68,
+9.08,
+"cov",
+"TV model of the runway layout, ABC Evening News, 28 Mar 1977"
+],
+[
+"3.3",
+"N28",
+99.0,
+4.68,
+"site",
+"Wreckage at Los Rodeos, NBC Nightly News, 28 Mar 1977"
+],
+[
+"3.3",
+"N28",
+103.83,
+4.72,
+"site",
+"Wreckage at Los Rodeos, NBC Nightly News, 28 Mar 1977"
+],
+[
+"3.4",
+"N28",
+227.0,
+5.88,
+"site",
+"Wreckage at Los Rodeos, NBC Nightly News, 28 Mar 1977"
+],
+[
+"3.5",
+"N29",
+60.0,
+6.2,
+"site",
+"Wreckage at Los Rodeos, NBC Nightly News, 29 Mar 1977"
+],
+[
+"3.5b",
+"ABC",
+134.83,
+4.28,
+"site",
+"Wreckage at Los Rodeos, ABC Evening News, 28 Mar 1977 (Spanish TV film)"
+],
+[
+"ABC578",
+"ABC",
+46.23,
+13.88,
+"cov",
+"OS"
+],
+[
+"3.6",
+"ABC",
+142.0,
+9.44,
+"site",
+"Wreckage at Los Rodeos, ABC Evening News, 28 Mar 1977 (Spanish TV film)"
+],
+[
+"HECK",
+"ABC",
+108.13,
+16.88,
+"site",
+"OS"
+],
+[
+"3.7",
+"ABC",
+151.59,
+4.96,
+"site",
+"Wreckage at Los Rodeos, ABC Evening News, 28 Mar 1977 (Spanish TV film)"
+],
+[
+"3.7",
+"ABC",
+156.7,
+4.92,
+"site",
+"Wreckage at Los Rodeos, ABC Evening News, 28 Mar 1977 (Spanish TV film)"
+],
+[
+"3.8",
+"AP_SURV",
+0.0,
+5.72,
+"cov",
+"Survivors arrive at Kelly Air Force Base, San Antonio, AP newsfilm, 1977"
+],
+[
+"3.8",
+"AP_SURV",
+5.87,
+5.72,
+"cov",
+"Survivors arrive at Kelly Air Force Base, San Antonio, AP newsfilm, 1977"
+],
+[
+"4.1",
+"N29",
+138.0,
+7.44,
+"site",
+"Wreckage at Los Rodeos, NBC Nightly News, 29 Mar 1977"
+],
+[
+"4.2",
+"STILL_p61",
+0,
+14.24,
+"still",
+"Spanish joint accident report, 1978, conclusions (FAA-hosted scan)"
+],
+[
+"4.3",
+"STILL_p62",
+0,
+11.08,
+"still",
+"Spanish joint accident report, 1978, analysis (FAA-hosted scan)"
+],
+[
+"4.4",
+"N29",
+364.5,
+5.2,
+"cov",
+"An airliner over Badhoevedorp, Netherlands, NBC Nightly News, 29 Mar 1977 (not the crash aircraft)"
+],
+[
+"4.4",
+"AP_KLMNL",
+8.0,
+5.16,
+"cov",
+"KLM spokesman, Amsterdam, AP newsfilm, 30 Mar 1977"
+],
+[
+"4.4b",
+"N28",
+108.7,
+5.4,
+"site",
+"Wreckage at Los Rodeos, NBC Nightly News, 28 Mar 1977"
+],
+[
+"BURR",
+"N28",
+115.41,
+9.12,
+"site",
+"OS"
+],
+[
+"4.5",
+"STILL_p63",
+0,
+9.76,
+"still",
+"Spanish joint accident report, 1978, recommendations (FAA-hosted scan)"
+],
+[
+"4.6",
+"OH",
+53.86,
+7.68,
+"era",
+"Air traffic control, Chicago O'Hare, 1970s film (not Tenerife)"
+],
+[
+"4.7",
+"K71",
+69.0,
+4.48,
+"era",
+"Inside a KLM 747 cockpit, Dutch newsreel, Feb 1971 (not Tenerife)"
+],
+[
+"4.7",
+"OH",
+9.0,
+4.48,
+"era",
+"Air traffic control, Chicago O'Hare, 1970s film (not Tenerife)"
+],
+[
+"4.8",
+"AP_KLMNL",
+13.31,
+4.64,
+"cov",
+"KLM spokesman, Amsterdam, AP newsfilm, 30 Mar 1977"
+],
+[
+"4.9",
+"AP_MEM",
+0.0,
+5.44,
+"cov",
+"Memorial service for the victims, AP newsfilm, March 1977"
+],
+[
+"4.9",
+"AP_DUT",
+15.0,
+5.36,
+"cov",
+"Memorial service for the KLM victims, AP newsfilm, March 1977"
+],
+[
+"4.10",
+"AP_MEM",
+5.59,
+4.24,
+"cov",
+"Memorial service for the victims, AP newsfilm, March 1977"
+],
+[
+"4.10",
+"AP_DUT",
+20.51,
+4.16,
+"cov",
+"Memorial service for the KLM victims, AP newsfilm, March 1977"
+],
+[
+"Z1",
+"ABC",
+161.77,
+5.92,
+"site",
+"Wreckage at Los Rodeos, ABC Evening News, 28 Mar 1977 (Spanish TV film)"
+],
+[
+"Z2",
+"ABC",
+181.0,
+4.0,
+"site",
+"Wreckage at Los Rodeos, ABC Evening News, 28 Mar 1977 (Spanish TV film)"
+]
+],
+"labs": [
+[
+"Los Rodeos after the collision, AP newsfilm, 28 Mar 1977",
+4.48,
+8.68,
+"site"
+],
+[
+"Los Rodeos after the collision, AP newsfilm, 28 Mar 1977",
+8.68,
+12.04,
+"site"
+],
+[
+"Los Rodeos after the collision, AP newsfilm, 28 Mar 1977",
+12.04,
+15.36,
+"site"
+],
+[
+"Los Rodeos after the collision, AP newsfilm, 28 Mar 1977",
+15.36,
+20.16,
+"site"
+],
+[
+"Los Rodeos after the collision, AP newsfilm, 28 Mar 1977",
+20.16,
+24.96,
+"site"
+],
+[
+"Los Rodeos after the collision, AP newsfilm, 28 Mar 1977",
+24.96,
+28.8,
+"site"
+],
+[
+"Los Rodeos after the collision, AP newsfilm, 28 Mar 1977",
+28.8,
+32.64,
+"site"
+],
+[
+"Anchor with a map of the Canary Islands, ABC Evening News, 28 Mar 1977",
+36.64,
+42.4,
+"cov"
+],
+[
+"Los Rodeos after the collision, AP newsfilm, 28 Mar 1977",
+42.4,
+47.519999999999996,
+"site"
+],
+[
+"KLM offices, Amsterdam, AP newsfilm, 30 Mar 1977",
+47.52,
+54.28,
+"cov"
+],
+[
+"Anchor on the investigation, NBC Nightly News, 29 Mar 1977",
+54.28,
+60.32,
+"cov"
+],
+[
+"Pan Am ticket area and a Pan Am 747, Los Angeles, NBC Nightly News, 28 Mar 1977 (not the crash aircraft)",
+60.32,
+65.04,
+"cov"
+],
+[
+"Pan Am ticket area and a Pan Am 747, Los Angeles, NBC Nightly News, 28 Mar 1977 (not the crash aircraft)",
+65.04,
+69.68,
+"cov"
+],
+[
+"KLM spokesman, Amsterdam, AP newsfilm, 28 Mar 1977 (original sound)",
+69.7,
+79.42,
+"cov"
+],
+[
+"Anchor with a map of the Canary Islands, NBC Nightly News, 28 Mar 1977",
+79.44,
+84.8,
+"cov"
+],
+[
+"Los Rodeos after the collision, AP newsfilm, 28 Mar 1977",
+84.8,
+90.24,
+"site"
+],
+[
+"Los Rodeos after the collision, AP newsfilm, 28 Mar 1977",
+90.24,
+96.03999999999999,
+"site"
+],
+[
+"TV model of the runway layout, NBC Nightly News, 28 Mar 1977",
+96.0,
+107.6,
+"cov"
+],
+[
+"TV model of the runway layout, ABC Evening News, 28 Mar 1977",
+107.6,
+119.91999999999999,
+"cov"
+],
+[
+"TV model of the runway layout, ABC Evening News, 28 Mar 1977",
+119.92,
+130.72,
+"cov"
+],
+[
+"TV model of the runway layout, NBC Nightly News, 28 Mar 1977",
+134.72,
+142.12,
+"cov"
+],
+[
+"TV model of the runway layout, NBC Nightly News, 28 Mar 1977",
+142.08,
+149.92000000000002,
+"cov"
+],
+[
+"TV model of the runway layout, ABC Evening News, 28 Mar 1977",
+149.92,
+158.95999999999998,
+"cov"
+],
+[
+"Wreckage at Los Rodeos, ABC Evening News, 28 Mar 1977 (Spanish TV film)",
+158.96,
+168.64000000000001,
+"site"
+],
+[
+"Fire crews at the wreckage, ABC Evening News, 28 Mar 1977 (Spanish TV film)",
+168.64,
+173.11999999999998,
+"site"
+],
+[
+"TV model of the runway layout, ABC Evening News, 28 Mar 1977",
+173.12,
+185.04,
+"cov"
+],
+[
+"Anchor on the investigation, NBC Nightly News, 29 Mar 1977",
+185.04,
+197.28,
+"cov"
+],
+[
+"Anchor on the investigation, NBC Nightly News, 29 Mar 1977",
+197.28,
+205.76,
+"cov"
+],
+[
+"Anchor with a map of the Canary Islands, ABC Evening News, 28 Mar 1977",
+205.76,
+217.12,
+"cov"
+],
+[
+"Air traffic control, Chicago O'Hare, 1970s film (not Tenerife)",
+217.12,
+225.36,
+"era"
+],
+[
+"Air traffic control, Chicago O'Hare, 1970s film (not Tenerife)",
+225.36,
+237.68,
+"era"
+],
+[
+"TV model of the runway layout, NBC Nightly News, 28 Mar 1977",
+237.68,
+246.48000000000002,
+"cov"
+],
+[
+"KLM spokesman, Amsterdam, AP newsfilm, 28 Mar 1977 (original sound)",
+246.5,
+268.24,
+"cov"
+],
+[
+"Anchor with a map of the Canary Islands, NBC Nightly News, 28 Mar 1977",
+272.24,
+280.0,
+"cov"
+],
+[
+"TV model of the runway layout, ABC Evening News, 28 Mar 1977",
+280.0,
+289.08,
+"cov"
+],
+[
+"Wreckage at Los Rodeos, NBC Nightly News, 28 Mar 1977",
+289.08,
+293.76,
+"site"
+],
+[
+"Wreckage at Los Rodeos, NBC Nightly News, 28 Mar 1977",
+293.76,
+298.48,
+"site"
+],
+[
+"Wreckage at Los Rodeos, NBC Nightly News, 28 Mar 1977",
+298.48,
+304.36,
+"site"
+],
+[
+"Wreckage at Los Rodeos, NBC Nightly News, 29 Mar 1977",
+304.36,
+310.56,
+"site"
+],
+[
+"Wreckage at Los Rodeos, ABC Evening News, 28 Mar 1977 (Spanish TV film)",
+310.56,
+314.84,
+"site"
+],
+[
+"Anchor, ABC Evening News, 28 Mar 1977 (early count) (original sound)",
+314.84,
+328.7,
+"cov"
+],
+[
+"Wreckage at Los Rodeos, ABC Evening News, 28 Mar 1977 (Spanish TV film)",
+328.72,
+338.16,
+"site"
+],
+[
+"Survivor's voice over Spanish TV film of the fire, ABC Evening News, 28 Mar 1977 (original sound)",
+338.18,
+355.04,
+"site"
+],
+[
+"Wreckage at Los Rodeos, ABC Evening News, 28 Mar 1977 (Spanish TV film)",
+355.04,
+360.0,
+"site"
+],
+[
+"Wreckage at Los Rodeos, ABC Evening News, 28 Mar 1977 (Spanish TV film)",
+360.0,
+364.92,
+"site"
+],
+[
+"Survivors arrive at Kelly Air Force Base, San Antonio, AP newsfilm, 1977",
+364.92,
+370.64000000000004,
+"cov"
+],
+[
+"Survivors arrive at Kelly Air Force Base, San Antonio, AP newsfilm, 1977",
+370.64,
+376.36,
+"cov"
+],
+[
+"Wreckage at Los Rodeos, NBC Nightly News, 29 Mar 1977",
+380.36,
+387.8,
+"site"
+],
+[
+"Spanish joint accident report, 1978, conclusions (FAA-hosted scan)",
+387.8,
+402.04,
+"still"
+],
+[
+"Spanish joint accident report, 1978, analysis (FAA-hosted scan)",
+402.04,
+413.12,
+"still"
+],
+[
+"An airliner over Badhoevedorp, Netherlands, NBC Nightly News, 29 Mar 1977 (not the crash aircraft)",
+413.12,
+418.32,
+"cov"
+],
+[
+"KLM spokesman, Amsterdam, AP newsfilm, 30 Mar 1977",
+418.32,
+423.48,
+"cov"
+],
+[
+"Wreckage at Los Rodeos, NBC Nightly News, 28 Mar 1977",
+423.48,
+428.88,
+"site"
+],
+[
+"Reporter at Los Rodeos, NBC Nightly News, 28 Mar 1977 (original sound)",
+428.88,
+437.98,
+"site"
+],
+[
+"Spanish joint accident report, 1978, recommendations (FAA-hosted scan)",
+438.0,
+447.76,
+"still"
+],
+[
+"Air traffic control, Chicago O'Hare, 1970s film (not Tenerife)",
+447.76,
+455.44,
+"era"
+],
+[
+"Inside a KLM 747 cockpit, Dutch newsreel, Feb 1971 (not Tenerife)",
+455.44,
+459.92,
+"era"
+],
+[
+"Air traffic control, Chicago O'Hare, 1970s film (not Tenerife)",
+459.92,
+464.40000000000003,
+"era"
+],
+[
+"KLM spokesman, Amsterdam, AP newsfilm, 30 Mar 1977",
+464.4,
+469.03999999999996,
+"cov"
+],
+[
+"Memorial service for the victims, AP newsfilm, March 1977",
+469.04,
+474.48,
+"cov"
+],
+[
+"Memorial service for the KLM victims, AP newsfilm, March 1977",
+474.48,
+479.84000000000003,
+"cov"
+],
+[
+"Memorial service for the victims, AP newsfilm, March 1977",
+479.84,
+484.08,
+"cov"
+],
+[
+"Memorial service for the KLM victims, AP newsfilm, March 1977",
+484.08,
+488.24,
+"cov"
+],
+[
+"Wreckage at Los Rodeos, ABC Evening News, 28 Mar 1977 (Spanish TV film)",
+488.24,
+494.16,
+"site"
+],
+[
+"Wreckage at Los Rodeos, ABC Evening News, 28 Mar 1977 (Spanish TV film)",
+494.16,
+498.16,
+"site"
+]
+]
+}
