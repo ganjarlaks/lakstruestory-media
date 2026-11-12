@@ -1,0 +1,187 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Cap,Poppins,76,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,200,200,70,1
+Style: Lab,Poppins,34,&H00E6E6E6,&H0000FFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,3,1,7,48,48,40,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:03.29,0:00:05.65,Cap,,0,0,0,,On 13 December 2003,
+Dialogue: 0,0:00:06.04,0:00:08.78,Cap,,0,0,0,,American soldiers found\NSaddam Hussein hiding
+Dialogue: 0,0:00:08.80,0:00:10.92,Cap,,0,0,0,,in a hole in the ground near Tikrit.
+Dialogue: 0,0:00:12.25,0:00:15.90,Cap,,0,0,0,,Less than three years later, an Iraqi\Ncourt sentenced him to death.
+Dialogue: 0,0:00:17.13,0:00:19.35,Cap,,0,0,0,,This is the road between\Nthose two moments,
+Dialogue: 0,0:00:19.60,0:00:20.96,Cap,,0,0,0,,and how the world watched it.
+Dialogue: 0,0:00:25.21,0:00:28.56,Cap,,0,0,0,,For eight months, the United\NStates military had hunted him.
+Dialogue: 0,0:00:29.91,0:00:31.91,Cap,,0,0,0,,On the night of 13 December,
+Dialogue: 0,0:00:32.28,0:00:35.75,Cap,,0,0,0,,about six hundred soldiers searched\Ntwo farm sites near the town
+Dialogue: 0,0:00:35.77,0:00:36.64,Cap,,0,0,0,,of ad-Dawr.
+Dialogue: 0,0:00:38.11,0:00:40.08,Cap,,0,0,0,,The operation was called Red Dawn.
+Dialogue: 0,0:00:41.25,0:00:44.37,Cap,,0,0,0,,They had been led there by\Ninformation from people close to him,
+Dialogue: 0,0:00:44.46,0:00:45.54,Cap,,0,0,0,,who had been questioned.
+Dialogue: 0,0:00:46.85,0:00:49.79,Cap,,0,0,0,,They found him in a hole\Nsix to eight feet deep,
+Dialogue: 0,0:00:50.02,0:00:51.52,Cap,,0,0,0,,covered with dirt and bricks.
+Dialogue: 0,0:00:52.77,0:00:53.88,Cap,,0,0,0,,He did not resist.
+Dialogue: 0,0:00:55.07,0:00:58.08,Cap,,0,0,0,,The next day, in Baghdad,\Nthe American administrator,
+Dialogue: 0,0:00:58.10,0:01:02.20,Cap,,0,0,0,,Paul Bremer, told reporters, "Ladies\Nand gentlemen, we got him."
+Dialogue: 0,0:01:03.55,0:01:05.58,Cap,,0,0,0,,In Washington, President George W.
+Dialogue: 0,0:01:05.60,0:01:07.99,Cap,,0,0,0,,Bush said that Saddam\NHussein would now face,
+Dialogue: 0,0:01:08.24,0:01:11.22,Cap,,0,0,0,,in his words, the justice\Nhe denied to millions.
+Dialogue: 0,0:01:12.61,0:01:15.32,Cap,,0,0,0,,He also warned that the\Ncapture did not mean the end
+Dialogue: 0,0:01:15.34,0:01:16.52,Cap,,0,0,0,,of the violence in Iraq.
+Dialogue: 0,0:01:17.77,0:01:20.65,Cap,,0,0,0,,In Baghdad, some people\Ncelebrated in the streets
+Dialogue: 0,0:01:20.82,0:01:22.40,Cap,,0,0,0,,and fired guns into the air.
+Dialogue: 0,0:01:23.85,0:01:26.65,Cap,,0,0,0,,In other places, including\NMosul and Fallujah,
+Dialogue: 0,0:01:26.94,0:01:28.64,Cap,,0,0,0,,crowds marched in support of him.
+Dialogue: 0,0:01:29.83,0:01:32.10,Cap,,0,0,0,,Across the Arab world,\Nthe reaction was mixed.
+Dialogue: 0,0:01:33.35,0:01:35.90,Cap,,0,0,0,,Jordan's government said\Na page had been turned.
+Dialogue: 0,0:01:37.05,0:01:41.20,Cap,,0,0,0,,A leader of Hamas,\NAbdel-Aziz al-Rantissi,
+Dialogue: 0,0:01:41.22,0:01:44.00,Cap,,0,0,0,,called the capture a moral\Nvictory for President Bush.
+Dialogue: 0,0:01:48.45,0:01:49.21,Cap,,0,0,0,,After the capture,
+Dialogue: 0,0:01:49.23,0:01:53.28,Cap,,0,0,0,,American forces held Saddam\NHussein in a cell at Baghdad airport.
+Dialogue: 0,0:01:54.47,0:01:58.09,Cap,,0,0,0,,Washington said he would be treated\Nunder the Geneva Conventions,
+Dialogue: 0,0:01:58.54,0:01:59.74,Cap,,0,0,0,,as a prisoner of war.
+Dialogue: 0,0:02:00.84,0:02:05.16,Cap,,0,0,0,,I think what we've said is that he is\Nbeing accorded all of the rights of a\Nprisoner of
+Dialogue: 0,0:02:05.16,0:02:09.12,Cap,,0,0,0,,war, he is being treated in accordance\Nwith the Geneva Convention, and we\Nwill continue
+Dialogue: 0,0:02:09.12,0:02:10.72,Cap,,0,0,0,,to do so.
+Dialogue: 0,0:02:11.79,0:02:15.66,Cap,,0,0,0,,Iraqi leaders said he would be\Ntried by Iraqis, in a special court.
+Dialogue: 0,0:02:16.83,0:02:21.23,Cap,,0,0,0,,From February to June 2004,\NFBI agents questioned him.
+Dialogue: 0,0:02:21.68,0:02:23.39,Cap,,0,0,0,,There were twenty formal interviews,
+Dialogue: 0,0:02:23.50,0:02:25.82,Cap,,0,0,0,,and at least five\Ncasual conversations.
+Dialogue: 0,0:02:27.05,0:02:30.32,Cap,,0,0,0,,The agents were led by George\NPiro, who spoke Arabic.
+Dialogue: 0,0:02:31.59,0:02:33.75,Cap,,0,0,0,,The notes stayed secret for five years.
+Dialogue: 0,0:02:34.24,0:02:36.55,Cap,,0,0,0,,They were released in July 2009,
+Dialogue: 0,0:02:36.60,0:02:39.12,Cap,,0,0,0,,after requests by the\NNational Security Archive.
+Dialogue: 0,0:02:40.45,0:02:44.38,Cap,,0,0,0,,In them, Saddam Hussein\Ndenied any link to al-Qaeda.
+Dialogue: 0,0:02:44.40,0:02:46.74,Cap,,0,0,0,,He called Osama bin Laden a zealot.
+Dialogue: 0,0:02:48.05,0:02:50.87,Cap,,0,0,0,,He told the agents that Iraq\Nhad destroyed its chemical
+Dialogue: 0,0:02:50.92,0:02:53.69,Cap,,0,0,0,,and biological weapons\Nlong before the invasion.
+Dialogue: 0,0:02:54.13,0:02:55.90,Cap,,0,0,0,,No such weapons were ever found.
+Dialogue: 0,0:02:57.11,0:03:00.76,Cap,,0,0,0,,He said he had let others doubt it\Nbecause he feared Iran would see Iraq
+Dialogue: 0,0:03:00.81,0:03:01.30,Cap,,0,0,0,,as weak.
+Dialogue: 0,0:03:02.61,0:03:05.03,Cap,,0,0,0,,He rejected the idea that\Nhe used body doubles.
+Dialogue: 0,0:03:05.30,0:03:08.30,Cap,,0,0,0,,He called it, quote,\Nmovie magic, not reality.
+Dialogue: 0,0:03:09.35,0:03:13.33,Cap,,0,0,0,,He said he could remember using\Na telephone only twice since 1990,
+Dialogue: 0,0:03:13.60,0:03:15.48,Cap,,0,0,0,,and that he sent his orders by courier.
+Dialogue: 0,0:03:16.65,0:03:18.81,Cap,,0,0,0,,On 30 June 2004,
+Dialogue: 0,0:03:19.30,0:03:20.92,Cap,,0,0,0,,Saddam Hussein and eleven
+Dialogue: 0,0:03:20.94,0:03:24.74,Cap,,0,0,0,,of his former officials were handed\Nover to Iraqi legal custody.
+Dialogue: 0,0:03:26.17,0:03:27.93,Cap,,0,0,0,,They were no longer prisoners of war,
+Dialogue: 0,0:03:28.18,0:03:30.04,Cap,,0,0,0,,but American troops\Nstill guarded them.
+Dialogue: 0,0:03:31.23,0:03:33.95,Cap,,0,0,0,,An interim Iraqi government\Nhad taken power that week,
+Dialogue: 0,0:03:34.12,0:03:36.92,Cap,,0,0,0,,and it wanted a trial to\Nhelp build its legitimacy.
+Dialogue: 0,0:03:37.82,0:03:43.54,Cap,,0,0,0,,Of course we want it to be fair, and\Nof course we want the world to say\Nwe've got a fair
+Dialogue: 0,0:03:43.54,0:03:50.82,Cap,,0,0,0,,trial because whatever justice has\Nbeen meted out needs to stand\Ninternational scrutiny.
+Dialogue: 0,0:03:54.89,0:03:59.87,Cap,,0,0,0,,On 1 July 2004, he stood before\Nan Iraqi judge for the first time,
+Dialogue: 0,0:04:00.16,0:04:03.02,Cap,,0,0,0,,in a courtroom in a former\Npalace near Baghdad airport.
+Dialogue: 0,0:04:04.29,0:04:06.98,Cap,,0,0,0,,It was his first public\Nappearance since his capture.
+Dialogue: 0,0:04:08.29,0:04:12.01,Cap,,0,0,0,,The charges read to him included\Nthe invasion of Kuwait in 1990,
+Dialogue: 0,0:04:12.32,0:04:14.52,Cap,,0,0,0,,and the killing of\NKurds and Shia in Iraq.
+Dialogue: 0,0:04:16.29,0:04:19.12,Cap,,0,0,0,,He told the judge that he\Nwas the president of Iraq.
+Dialogue: 0,0:04:20.43,0:04:22.28,Cap,,0,0,0,,He called the proceedings theatre,
+Dialogue: 0,0:04:22.30,0:04:24.60,Cap,,0,0,0,,and said the real criminal\Nwas President Bush.
+Dialogue: 0,0:04:25.79,0:04:29.34,Cap,,0,0,0,,He refused to sign the charge sheet\Nuntil his lawyers were present.
+Dialogue: 0,0:04:30.22,0:04:36.58,Cap,,0,0,0,,No, you're discussing past events. You\Nhave to repeat your questions in the\Npresence of my attorneys. Otherwise, I\Nam not signing
+Dialogue: 0,0:04:38.19,0:04:41.34,Cap,,0,0,0,,The first case against him\Nwas about the town of Dujail.
+Dialogue: 0,0:04:42.73,0:04:45.58,Cap,,0,0,0,,In July 1982, gunmen\Nfrom a Shia party,
+Dialogue: 0,0:04:45.60,0:04:46.73,Cap,,0,0,0,,Dawa, had tried to kill\NSaddam Hussein there.
+Dialogue: 0,0:04:49.73,0:04:53.23,Cap,,0,0,0,,Prosecutors said that, in\Nrevenge, officials detained,
+Dialogue: 0,0:04:53.32,0:04:55.40,Cap,,0,0,0,,tortured and killed\Npeople from the town.
+Dialogue: 0,0:04:56.79,0:04:59.09,Cap,,0,0,0,,The court counted one\Nhundred forty-eight dead.
+Dialogue: 0,0:04:59.70,0:05:02.02,Cap,,0,0,0,,Human Rights Watch counted\Nmore than one hundred.
+Dialogue: 0,0:05:03.21,0:05:07.51,Cap,,0,0,0,,The trial opened on 19\NOctober 2005, in Baghdad.
+Dialogue: 0,0:05:08.04,0:05:11.12,Cap,,0,0,0,,Saddam Hussein and seven\Nothers pleaded not guilty.
+Dialogue: 0,0:05:12.33,0:05:14.34,Cap,,0,0,0,,The next day, a defence lawyer for one
+Dialogue: 0,0:05:14.36,0:05:17.26,Cap,,0,0,0,,of the other defendants was\Ntaken from his office and killed.
+Dialogue: 0,0:05:18.65,0:05:22.05,Cap,,0,0,0,,On 8 November, a second\Ndefence lawyer was shot dead,
+Dialogue: 0,0:05:22.12,0:05:23.52,Cap,,0,0,0,,and a colleague was wounded.
+Dialogue: 0,0:05:24.97,0:05:28.20,Cap,,0,0,0,,A third defence lawyer\Nwas killed in June 2006.
+Dialogue: 0,0:05:29.53,0:05:31.63,Cap,,0,0,0,,The defence asked\Nfor better protection.
+Dialogue: 0,0:05:32.40,0:05:34.86,Cap,,0,0,0,,Human Rights Watch later\Nsaid the court had failed
+Dialogue: 0,0:05:34.88,0:05:36.98,Cap,,0,0,0,,to ensure the safety\Nof defence lawyers.
+Dialogue: 0,0:05:38.29,0:05:39.73,Cap,,0,0,0,,In January 2006,
+Dialogue: 0,0:05:39.84,0:05:43.42,Cap,,0,0,0,,the judge who had opened the\Ntrial, Rizgar Amin, resigned.
+Dialogue: 0,0:05:44.77,0:05:47.24,Cap,,0,0,0,,Human Rights Watch said\Nthat ministers and members
+Dialogue: 0,0:05:47.26,0:05:50.56,Cap,,0,0,0,,of parliament had regularly\Ndenounced the tribunal as weak.
+Dialogue: 0,0:05:51.85,0:05:53.40,Cap,,0,0,0,,Sessions became chaotic.
+Dialogue: 0,0:05:54.02,0:05:56.73,Cap,,0,0,0,,Saddam Hussein and his\Nlawyers sometimes walked out,
+Dialogue: 0,0:05:56.94,0:05:59.58,Cap,,0,0,0,,or stayed away, and he\Nshouted at the judge.
+Dialogue: 0,0:06:00.95,0:06:04.76,Cap,,0,0,0,,The first trial ended on 27 July 2006.
+Dialogue: 0,0:06:06.31,0:06:08.83,Cap,,0,0,0,,On 21 August, a second trial opened,
+Dialogue: 0,0:06:08.86,0:06:10.93,Cap,,0,0,0,,over the Anfal campaign\Nagainst the Kurds.
+Dialogue: 0,0:06:11.29,0:06:12.62,Cap,,0,0,0,,He was a defendant in both.
+Dialogue: 0,0:06:16.91,0:06:18.91,Cap,,0,0,0,,On 5 November 2006,
+Dialogue: 0,0:06:19.50,0:06:22.60,Cap,,0,0,0,,the Iraqi High Tribunal found\NSaddam Hussein guilty
+Dialogue: 0,0:06:22.63,0:06:24.18,Cap,,0,0,0,,of crimes against humanity.
+Dialogue: 0,0:06:25.35,0:06:27.28,Cap,,0,0,0,,He was sentenced to\Ndeath by hanging.
+Dialogue: 0,0:06:28.47,0:06:30.63,Cap,,0,0,0,,The court said he had\Nordered the killing
+Dialogue: 0,0:06:30.76,0:06:33.22,Cap,,0,0,0,,of one hundred forty-eight\Npeople in Dujail.
+Dialogue: 0,0:06:34.61,0:06:35.94,Cap,,0,0,0,,Two of the other defendants,
+Dialogue: 0,0:06:36.50,0:06:41.98,Cap,,0,0,0,,Barzan al-Tikriti and Awad al-Bandar,\Nreceived the same sentence.
+Dialogue: 0,0:06:43.37,0:06:48.67,Cap,,0,0,0,,His former vice president, Taha Yassin\NRamadan, was sentenced to life.
+Dialogue: 0,0:06:49.36,0:06:52.84,Cap,,0,0,0,,Three others received fifteen\Nyears, and one was acquitted.
+Dialogue: 0,0:06:54.29,0:06:57.05,Cap,,0,0,0,,As the sentence was read,\NSaddam Hussein shouted,
+Dialogue: 0,0:06:57.26,0:07:00.14,Cap,,0,0,0,,"God is greatest," and,\N"Long live the nation."
+Dialogue: 0,0:07:01.67,0:07:05.81,Cap,,0,0,0,,In Baghdad's Sadr City, and\Nin Najaf, crowds celebrated.
+Dialogue: 0,0:07:06.14,0:07:09.52,Cap,,0,0,0,,In Tikrit, his supporters marched\Nin defiance of a curfew.
+Dialogue: 0,0:07:10.62,0:07:17.86,Cap,,0,0,0,,The death sentence handed down to\NSaddam Hussein pleased some people and\Nsaddened others inside
+Dialogue: 0,0:07:17.86,0:07:20.22,Cap,,0,0,0,,and outside of Iraq.
+Dialogue: 0,0:07:21.27,0:07:25.78,Cap,,0,0,0,,Iraq's president, Jalal Talabani, said\Nthat he thought the trial was fair.
+Dialogue: 0,0:07:27.27,0:07:31.33,Cap,,0,0,0,,President Bush called the verdict a\Nmilestone in the Iraqi people's efforts
+Dialogue: 0,0:07:31.68,0:07:34.64,Cap,,0,0,0,,to replace the rule of a\Ntyrant with the rule of law.
+Dialogue: 0,0:07:36.01,0:07:39.09,Cap,,0,0,0,,Human Rights Watch said the\Ntrial was fundamentally unfair,
+Dialogue: 0,0:07:39.38,0:07:41.10,Cap,,0,0,0,,and that the verdict was unsound.
+Dialogue: 0,0:07:42.37,0:07:45.31,Cap,,0,0,0,,Amnesty International called\Nthe trial deeply flawed.
+Dialogue: 0,0:07:45.88,0:07:47.88,Cap,,0,0,0,,Both groups oppose\Nthe death penalty.
+Dialogue: 0,0:07:49.03,0:07:52.26,Cap,,0,0,0,,Under the court's rules, the sentence\Nwent to an appeals chamber.
+Dialogue: 0,0:07:53.61,0:07:56.85,Cap,,0,0,0,,On 26 December, the\Nappeals court upheld it,
+Dialogue: 0,0:07:56.88,0:07:59.22,Cap,,0,0,0,,and ordered that he be\Nhanged within thirty days.
+Dialogue: 0,0:08:00.61,0:08:05.14,Cap,,0,0,0,,On 30 December 2006, Saddam\NHussein was hanged in Baghdad.
+Dialogue: 0,0:08:06.23,0:08:09.35,Cap,,0,0,0,,He was found in a hole\Nin December 2003.
+Dialogue: 0,0:08:09.86,0:08:11.80,Cap,,0,0,0,,Three years later, he was hanged.
+Dialogue: 0,0:08:13.09,0:08:14.45,Cap,,0,0,0,,Did the trial deliver justice?
+Dialogue: 0,0:08:15.14,0:08:17.20,Cap,,0,0,0,,People who watched it still disagree.
+Dialogue: 1,0:00:03.30,0:00:07.30,Lab,,0,0,0,,Capture site near Tikrit, 13 Dec 2003 (Al-Manar via Link TV Mosaic)
+Dialogue: 1,0:00:12.34,0:00:16.34,Lab,,0,0,0,,Courtroom, Baghdad (Abu Dhabi TV report, 5 Nov 2006, via Link TV Mosaic)
+Dialogue: 1,0:00:17.18,0:00:21.18,Lab,,0,0,0,,Saddam Hussein archive footage (via Link TV Mosaic)
+Dialogue: 1,0:00:25.30,0:00:29.30,Lab,,0,0,0,,Saddam Hussein archive footage (via Link TV Mosaic)
+Dialogue: 1,0:00:29.94,0:00:33.94,Lab,,0,0,0,,Streets and buildings, Iraq, Dec 2003 (Al-Manar via Link TV Mosaic)
+Dialogue: 1,0:00:41.34,0:00:45.34,Lab,,0,0,0,,Defense Secretary Rumsfeld, ABC News, Dec 2003 (Al-Manar via Link TV Mosaic)
+Dialogue: 1,0:00:46.94,0:00:50.94,Lab,,0,0,0,,Capture site near Tikrit, 13 Dec 2003 (Al-Manar via Link TV Mosaic)
+Dialogue: 1,0:00:55.14,0:00:59.14,Lab,,0,0,0,,US military press conference, Baghdad, Dec 2003 (via Link TV Mosaic)
+Dialogue: 1,0:01:03.58,0:01:07.58,Lab,,0,0,0,,President Bush address, 14 Dec 2003 (Al-Manar via Link TV Mosaic)
+Dialogue: 1,0:01:17.82,0:01:21.82,Lab,,0,0,0,,Demonstrations in Iraq, Dec 2003 (via Link TV Mosaic)
+Dialogue: 1,0:01:23.90,0:01:27.90,Lab,,0,0,0,,Pro-Saddam march, Mosul, Dec 2003 (via Link TV Mosaic)
+Dialogue: 1,0:01:29.90,0:01:33.16,Lab,,0,0,0,,Reaction, Gulf states, Dec 2003 (Al-Manar via Link TV Mosaic)
+Dialogue: 1,0:01:33.46,0:01:37.46,Lab,,0,0,0,,Reaction, Arab world, Dec 2003 (Al-Manar via Link TV Mosaic)
+Dialogue: 1,0:01:48.46,0:01:52.46,Lab,,0,0,0,,Officials, Baghdad, Dec 2003 (Al-Manar via Link TV Mosaic)
+Dialogue: 1,0:01:54.54,0:01:58.54,Lab,,0,0,0,,Defense Secretary Rumsfeld, ABC News, Dec 2003 (Al-Manar via Link TV Mosaic)
+Dialogue: 1,0:02:01.14,0:02:05.14,Lab,,0,0,0,,Lt. Gen. Ricardo Sanchez, US commander in Iraq, Dec 2003 (via Link TV Mosaic)
+Dialogue: 1,0:02:11.82,0:02:15.82,Lab,,0,0,0,,Governing Council president Hakim, 16 Dec 2003 (Al-Manar via Link TV Mosaic)
+Dialogue: 1,0:02:16.94,0:02:20.94,Lab,,0,0,0,,Newspapers with Saddam Hussein on the front page, Dec 2003 (Al-Manar via Link TV Mosaic)
+Dialogue: 1,0:02:27.18,0:02:31.18,Lab,,0,0,0,,Newspaper, Dec 2003 (Al-Jazeera via Link TV Mosaic)
+Dialogue: 1,0:02:31.66,0:02:35.66,Lab,,0,0,0,,Saddam Hussein archive footage (via Link TV Mosaic)
+Dialogue: 1,0:03:09.42,0:03:13.42,Lab,,0,0,0,,Saddam Hussein at the 1 Jul 2004 hearing (Abu Dhabi TV via Link TV Mosaic) and archive
+Dialogue: 1,0:03:16.70,0:03:20.70,Lab,,0,0,0,,Al-Manar report, 1 Jul 2004: archive footage of Saddam Hussein (via Link TV Mosaic)
+Dialogue: 1,0:03:26.30,0:03:30.30,Lab,,0,0,0,,Salem Chalabi, Iraqi Special Tribunal, and other defendants, 1 Jul 2004 (Al-Manar via Link TV Mosaic)
+Dialogue: 1,0:03:31.26,0:03:35.26,Lab,,0,0,0,,Iraqi official interview, 1 Jul 2004 (Al-Manar via Link TV Mosaic)
+Dialogue: 1,0:03:38.12,0:03:42.12,Lab,,0,0,0,,President Bush with Canada's Paul Martin, Dec 2003 (Nile TV via Link TV Mosaic)
+Dialogue: 1,0:03:54.94,0:03:58.94,Lab,,0,0,0,,First hearing, 1 Jul 2004 (Abu Dhabi TV via Link TV Mosaic)
+Dialogue: 1,0:04:30.52,0:04:34.52,Lab,,0,0,0,,First hearing, 1 Jul 2004: English voice-over (Abu Dhabi TV via Link TV Mosaic)
+Dialogue: 1,0:04:38.30,0:04:42.30,Lab,,0,0,0,,Trial opening, 19 Oct 2005 (Abu Dhabi TV via Link TV Mosaic)
+Dialogue: 1,0:05:12.42,0:05:16.42,Lab,,0,0,0,,Trial opening, 19 Oct 2005 (IRIB via Link TV Mosaic)
+Dialogue: 1,0:05:29.58,0:05:33.58,Lab,,0,0,0,,Anfal trial session, Nov 2006 (Oman TV via Link TV Mosaic)
+Dialogue: 1,0:05:44.86,0:05:48.86,Lab,,0,0,0,,First hearing, 1 Jul 2004 (IRIB via Link TV Mosaic)
+Dialogue: 1,0:06:16.94,0:06:20.94,Lab,,0,0,0,,Courtroom, Baghdad (Abu Dhabi TV report, 5 Nov 2006, via Link TV Mosaic)
+Dialogue: 1,0:07:01.74,0:07:05.74,Lab,,0,0,0,,Street scenes, Sadr City, Baghdad, Oct 2005 (Al-Iraqiya via Link TV Mosaic)
+Dialogue: 1,0:07:10.92,0:07:14.92,Lab,,0,0,0,,Abu Dhabi TV news, 5 Nov 2006, English presenter (via Link TV Mosaic)
+Dialogue: 1,0:07:21.34,0:07:25.34,Lab,,0,0,0,,Officials, Baghdad, Nov 2006 (Abu Dhabi TV via Link TV Mosaic)
+Dialogue: 1,0:07:27.34,0:07:31.34,Lab,,0,0,0,,President Bush: archive footage (Abu Dhabi TV report, 2006) and White House address, 14 Dec 2003
+Dialogue: 1,0:07:36.06,0:07:40.06,Lab,,0,0,0,,Courtroom and witness footage, 2004 and 2006 (Oman TV and Abu Dhabi TV via Link TV Mosaic)
+Dialogue: 1,0:07:49.02,0:07:53.02,Lab,,0,0,0,,Courtroom and archive footage, Nov 2006 (Abu Dhabi TV via Link TV Mosaic)
+Dialogue: 1,0:08:00.62,0:08:04.62,Lab,,0,0,0,,First hearing, 1 Jul 2004 (Abu Dhabi TV via Link TV Mosaic)

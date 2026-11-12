@@ -1,0 +1,141 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Cap,Poppins,38,&H00FFFFFF,&H000000FF,&H00000000,&H90000000,-1,0,0,0,100,100,0,0,1,0,2.2,2,100,100,56,1
+Style: Cred,Poppins,19,&H00C0C0C0,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,1.2,2,60,60,18,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:06.06,0:00:11.93,Cap,,0,0,0,,On 20 July 1969, the Apollo 11 lunar\Nmodule Eagle landed on the Moon, and
+Dialogue: 0,0:00:11.99,0:00:14.51,Cap,,0,0,0,,Mission Control in Houston could finally\Nbreathe.
+Dialogue: 0,0:00:15.07,0:00:18.63,Cap,,0,0,0,,Tranquility Base here.\NThe Eagle has landed.
+Dialogue: 0,0:00:19.39,0:00:21.09,Cap,,0,0,0,,The final minutes had been tense.
+Dialogue: 0,0:00:21.67,0:00:25.55,Cap,,0,0,0,,The lander's computer raised an overload\Nalarm, and controllers in Houston had
+Dialogue: 0,0:00:25.61,0:00:27.78,Cap,,0,0,0,,only seconds to decide whether to go on.
+Dialogue: 0,0:00:28.13,0:00:32.80,Cap,,0,0,0,,They said go, and Neil Armstrong took\Nover by hand to fly past a crater and
+Dialogue: 0,0:00:32.86,0:00:35.26,Cap,,0,0,0,,boulders, with the fuel running low.
+Dialogue: 0,0:00:35.61,0:00:39.65,Cap,,0,0,0,,A few hours later, a small television\Ncamera on the side of the Eagle began
+Dialogue: 0,0:00:39.71,0:00:42.98,Cap,,0,0,0,,sending pictures of Neil Armstrong\Nclimbing down to the surface.
+Dialogue: 0,0:00:43.42,0:00:46.08,Cap,,0,0,0,,It was a black and white camera built by\NWestinghouse.
+Dialogue: 0,0:00:46.64,0:00:50.55,Cap,,0,0,0,,Armstrong swung open its compartment as\Nhe climbed down, and Buzz Aldrin
+Dialogue: 0,0:00:50.61,0:00:52.71,Cap,,0,0,0,,switched it on from inside the lander.
+Dialogue: 0,0:00:53.07,0:00:57.22,Cap,,0,0,0,,The picture was grainy, ghostly, and\Nblack and white, and hundreds of
+Dialogue: 0,0:00:57.28,0:01:00.32,Cap,,0,0,0,,millions of people around the world\Nwatched it as it happened.
+Dialogue: 0,0:01:01.57,0:01:04.03,Cap,,0,0,0,,That's one small step for man,
+Dialogue: 0,0:01:06.77,0:01:09.23,Cap,,0,0,0,,one giant leap for mankind.
+Dialogue: 0,0:01:09.57,0:01:13.63,Cap,,0,0,0,,The walk lasted about two and a half\Nhours, and the camera followed Armstrong
+Dialogue: 0,0:01:13.69,0:01:17.87,Cap,,0,0,0,,and Buzz Aldrin as they planted a flag,\Nread a plaque, and collected rock
+Dialogue: 0,0:01:17.93,0:01:18.63,Cap,,0,0,0,,samples.
+Dialogue: 0,0:01:19.13,0:01:22.57,Cap,,0,0,0,,Later in the walk, President Richard\NNixon telephoned the astronauts from the
+Dialogue: 0,0:01:22.63,0:01:25.83,Cap,,0,0,0,,White House, and the call went out on\Nthe same broadcast.
+Dialogue: 0,0:01:26.23,0:01:30.79,Cap,,0,0,0,,And this certainly has to be the most historic\Ntelephone call ever made.
+Dialogue: 0,0:01:31.15,0:01:35.23,Cap,,0,0,0,,Those pictures still exist, and they are\Nsome of the most famous television ever
+Dialogue: 0,0:01:35.29,0:01:35.81,Cap,,0,0,0,,made.
+Dialogue: 0,0:01:36.15,0:01:40.64,Cap,,0,0,0,,What no one can find is the original\Nrecording of that signal, made at the
+Dialogue: 0,0:01:40.70,0:01:43.00,Cap,,0,0,0,,tracking stations on magnetic tape.
+Dialogue: 0,0:01:43.27,0:01:49.10,Cap,,0,0,0,,This is the story of a strange signal,\Nthree radio dishes, a tape shortage, and
+Dialogue: 0,0:01:49.16,0:01:51.66,Cap,,0,0,0,,a search that ended in 2009.
+Dialogue: 0,0:01:55.03,0:01:57.70,Cap,,0,0,0,,The camera did not send ordinary\Ntelevision.
+Dialogue: 0,0:01:58.16,0:02:02.18,Cap,,0,0,0,,It sent slow scan video, ten frames a\Nsecond with three hundred and twenty
+Dialogue: 0,0:02:02.24,0:02:04.99,Cap,,0,0,0,,lines, which no home television could\Nshow.
+Dialogue: 0,0:02:05.30,0:02:09.31,Cap,,0,0,0,,When it first switched on, the picture\Nwas upside down, because the camera had
+Dialogue: 0,0:02:09.37,0:02:11.35,Cap,,0,0,0,,been mounted that way in its\Ncompartment.
+Dialogue: 0,0:02:11.65,0:02:15.58,Cap,,0,0,0,,Three tracking stations caught that\Nsignal: Goldstone in California,
+Dialogue: 0,0:02:15.78,0:02:19.74,Cap,,0,0,0,,Honeysuckle Creek near Canberra, and the\NParkes radio telescope in New South
+Dialogue: 0,0:02:19.80,0:02:20.36,Cap,,0,0,0,,Wales.
+Dialogue: 0,0:02:20.85,0:02:24.97,Cap,,0,0,0,,At Goldstone nobody had flipped the\Nswitch that turns the picture over, and
+Dialogue: 0,0:02:25.03,0:02:28.06,Cap,,0,0,0,,for a while the pictures there also came\Nout as a negative.
+Dialogue: 0,0:02:28.38,0:02:32.69,Cap,,0,0,0,,At Honeysuckle Creek, a video engineer\Nsaw the problem and turned the picture
+Dialogue: 0,0:02:32.75,0:02:34.99,Cap,,0,0,0,,the right way up in about twenty\Nseconds.
+Dialogue: 0,0:02:35.49,0:02:39.72,Cap,,0,0,0,,At the stations, the slow scan picture\Nwas converted to a standard television
+Dialogue: 0,0:02:39.78,0:02:43.57,Cap,,0,0,0,,picture, in effect by pointing a\Ntelevision camera at a monitor.
+Dialogue: 0,0:02:43.87,0:02:47.88,Cap,,0,0,0,,When the first picture of Armstrong on\Nthe ladder reached Houston, the capsule
+Dialogue: 0,0:02:47.94,0:02:50.90,Cap,,0,0,0,,communicator told him that controllers\Ncould see him.
+Dialogue: 0,0:02:52.13,0:02:54.59,Cap,,0,0,0,,Okay, Neil, we can see you\Ncoming down the ladder now.
+Dialogue: 0,0:02:55.15,0:02:59.24,Cap,,0,0,0,,Just under nine minutes in, the Moon\Nmoved into the main beam and the Parkes
+Dialogue: 0,0:02:59.30,0:03:00.36,Cap,,0,0,0,,picture arrived.
+Dialogue: 0,0:03:00.66,0:03:04.64,Cap,,0,0,0,,Houston briefly cut back to Goldstone to\Ncompare, then returned to Parkes for
+Dialogue: 0,0:03:04.70,0:03:05.66,Cap,,0,0,0,,most of the walk.
+Dialogue: 0,0:03:06.07,0:03:09.59,Cap,,0,0,0,,Houston's network controller told the\NParkes team that they had given everyone
+Dialogue: 0,0:03:09.65,0:03:11.02,Cap,,0,0,0,,the best television yet.
+Dialogue: 0,0:03:11.42,0:03:15.47,Cap,,0,0,0,,Australian viewers, around ten million\Nof them, watched the same pictures on
+Dialogue: 0,0:03:15.53,0:03:16.27,Cap,,0,0,0,,the ABC.
+Dialogue: 0,0:03:16.89,0:03:20.86,Cap,,0,0,0,,Alongside the broadcast, each station\Nalso recorded the raw signal on
+Dialogue: 0,0:03:20.92,0:03:23.59,Cap,,0,0,0,,one-inch, fourteen-track magnetic tape.
+Dialogue: 0,0:03:23.87,0:03:27.43,Cap,,0,0,0,,Those reels were sent to the Goddard\NSpace Flight Center in Maryland, and
+Dialogue: 0,0:03:27.49,0:03:30.59,Cap,,0,0,0,,they held a better record of the\Nmoonwalk than the picture the networks
+Dialogue: 0,0:03:30.65,0:03:31.36,Cap,,0,0,0,,received.
+Dialogue: 0,0:03:31.60,0:03:35.26,Cap,,0,0,0,,That original signal had never been\Nthrough the conversion, which is why
+Dialogue: 0,0:03:35.32,0:03:38.75,Cap,,0,0,0,,engineers valued it, and why its loss\Nwas felt later.
+Dialogue: 0,0:03:42.11,0:03:46.21,Cap,,0,0,0,,NASA's later report estimated that about\Nforty-five reels held the moonwalk,
+Dialogue: 0,0:03:46.45,0:03:49.09,Cap,,0,0,0,,roughly fifteen from each of the three\Nstations.
+Dialogue: 0,0:03:49.59,0:03:53.79,Cap,,0,0,0,,After the mission the tapes went into\Nstorage, and by 1970 their records were
+Dialogue: 0,0:03:53.85,0:03:56.99,Cap,,0,0,0,,filed at the Washington National Records\NCenter in Maryland.
+Dialogue: 0,0:03:57.45,0:03:59.05,Cap,,0,0,0,,Nothing marked them as special.
+Dialogue: 0,0:03:59.35,0:04:03.71,Cap,,0,0,0,,NASA's report found no sign that anyone\Nrecognised the unique content on those
+Dialogue: 0,0:04:03.77,0:04:04.31,Cap,,0,0,0,,reels.
+Dialogue: 0,0:04:04.76,0:04:10.19,Cap,,0,0,0,,Then, in the early 1980s, NASA ran short\Nof one-inch magnetic tape, and Goddard
+Dialogue: 0,0:04:10.25,0:04:13.94,Cap,,0,0,0,,recalled tens of thousands of boxes from\Nstorage to be reused.
+Dialogue: 0,0:04:14.31,0:04:18.68,Cap,,0,0,0,,Old tape could be wiped with a strong\Nmagnet, a process called degaussing,
+Dialogue: 0,0:04:18.90,0:04:20.95,Cap,,0,0,0,,then checked and put back into service.
+Dialogue: 0,0:04:21.40,0:04:25.66,Cap,,0,0,0,,The report concludes that the moonwalk\Nreels were most likely degaussed and
+Dialogue: 0,0:04:25.72,0:04:29.89,Cap,,0,0,0,,reused that way, although it also allows\Nthat they may have been thrown away.
+Dialogue: 0,0:04:30.31,0:04:34.54,Cap,,0,0,0,,No one seems to have noticed what had\Nbeen lost until years later, when people
+Dialogue: 0,0:04:34.60,0:04:38.16,Cap,,0,0,0,,who remembered the mission began asking\Nwhere the originals had gone.
+Dialogue: 0,0:04:38.54,0:04:43.57,Cap,,0,0,0,,In 1997, John Sarkissian, who worked at\Nthe Parkes radio telescope in Australia,
+Dialogue: 0,0:04:43.63,0:04:45.80,Cap,,0,0,0,,began looking for the Australian\Nrecordings.
+Dialogue: 0,0:04:46.29,0:04:50.13,Cap,,0,0,0,,It began when a British author asked him\Nwhat had become of the originals.
+Dialogue: 0,0:04:50.56,0:04:55.19,Cap,,0,0,0,,Inside NASA, the search was led by\NRichard Nafzger, a Goddard engineer who
+Dialogue: 0,0:04:55.25,0:04:58.59,Cap,,0,0,0,,had worked on the Apollo television data\Nin 1969.
+Dialogue: 0,0:04:58.99,0:05:02.70,Cap,,0,0,0,,Stan Lebar, who had managed the building\Nof the lunar television camera for
+Dialogue: 0,0:05:02.76,0:05:05.63,Cap,,0,0,0,,Westinghouse, also took part in the\Neffort.
+Dialogue: 0,0:05:06.07,0:05:09.79,Cap,,0,0,0,,They went through shipping records,\Nstorage sites, and tracking station
+Dialogue: 0,0:05:09.85,0:05:12.70,Cap,,0,0,0,,files in the United States and in\NAustralia.
+Dialogue: 0,0:05:13.04,0:05:17.74,Cap,,0,0,0,,In 2002 the searchers heard about a tape\Nbelieved to hold Armstrong's first step.
+Dialogue: 0,0:05:18.13,0:05:21.93,Cap,,0,0,0,,A former Honeysuckle Creek employee had\Nkept it in his garage in Canberra for
+Dialogue: 0,0:05:21.99,0:05:23.25,Cap,,0,0,0,,more than thirty years.
+Dialogue: 0,0:05:23.75,0:05:26.90,Cap,,0,0,0,,In June 2004 it was played at Goddard.
+Dialogue: 0,0:05:27.36,0:05:31.67,Cap,,0,0,0,,It held a simulation from October 1967,\Nnot the moonwalk.
+Dialogue: 0,0:05:32.03,0:05:35.90,Cap,,0,0,0,,The trail led to the records center in\NMaryland, but of the twenty-six hundred
+Dialogue: 0,0:05:35.96,0:05:39.15,Cap,,0,0,0,,containers in that shipment, only two\Nwere still there.
+Dialogue: 0,0:05:39.49,0:05:44.41,Cap,,0,0,0,,In 2006 the search became public, and\NSarkissian published a detailed account
+Dialogue: 0,0:05:44.47,0:05:46.53,Cap,,0,0,0,,of what he had found and what he had\Nnot.
+Dialogue: 0,0:05:46.98,0:05:52.69,Cap,,0,0,0,,On 16 July 2009, at a news conference in\NWashington, NASA said the search was
+Dialogue: 0,0:05:52.75,0:05:56.08,Cap,,0,0,0,,over and that the tapes most likely no\Nlonger existed.
+Dialogue: 0,0:05:56.46,0:06:00.73,Cap,,0,0,0,,Nafzger held up a reel of the same kind\Nof fourteen-track tape that had recorded
+Dialogue: 0,0:06:00.79,0:06:03.53,Cap,,0,0,0,,the signal, a reminder of what had been\Nlost.
+Dialogue: 0,0:06:06.91,0:06:09.22,Cap,,0,0,0,,But the moonwalk itself was not lost.
+Dialogue: 0,0:06:09.70,0:06:13.66,Cap,,0,0,0,,What disappeared was the best recording\Nof its signal, not the broadcast the
+Dialogue: 0,0:06:13.72,0:06:14.76,Cap,,0,0,0,,world had watched.
+Dialogue: 0,0:06:15.17,0:06:19.77,Cap,,0,0,0,,NASA looked for the best surviving\Ncopies and used three: a recording made
+Dialogue: 0,0:06:19.83,0:06:24.80,Cap,,0,0,0,,in Sydney, broadcast tapes from the CBS\NNews archive, and film recordings stored
+Dialogue: 0,0:06:24.86,0:06:26.24,Cap,,0,0,0,,at the Johnson Space Center.
+Dialogue: 0,0:06:26.71,0:06:31.30,Cap,,0,0,0,,A company in Burbank, California, called\NLowry Digital, which usually restores
+Dialogue: 0,0:06:31.36,0:06:35.97,Cap,,0,0,0,,old Hollywood films, cleaned those\Ncopies with digital processing, and NASA
+Dialogue: 0,0:06:36.03,0:06:40.27,Cap,,0,0,0,,released fifteen restored scenes on 16\NJuly 2009.
+Dialogue: 0,0:06:40.57,0:06:45.01,Cap,,0,0,0,,The restored pictures are clearer than\Nwhat viewers saw in 1969, but they
+Dialogue: 0,0:06:45.07,0:06:48.50,Cap,,0,0,0,,cannot add detail that the surviving\Ncopies never held.
+Dialogue: 0,0:06:49.29,0:06:53.94,Cap,,0,0,0,,Here is one of those scenes, first as it\Nwas broadcast, and then restored.
+Dialogue: 0,0:06:54.63,0:07:00.19,Cap,,0,0,0,,Okay. I'm going to leave that one foot up there\Nand both hands down to about the fourth rung up.
+Dialogue: 0,0:07:00.69,0:07:04.08,Cap,,0,0,0,,Some people say the missing tapes prove\Nthe landing was staged, but the
+Dialogue: 0,0:07:04.14,0:07:08.42,Cap,,0,0,0,,broadcast survives, and tracking\Nstations in California and Australia
+Dialogue: 0,0:07:08.48,0:07:10.98,Cap,,0,0,0,,received the same signal at the same\Ntime.
+Dialogue: 0,0:07:11.39,0:07:14.11,Cap,,0,0,0,,NASA says no moonwalk footage is\Nmissing.
+Dialogue: 0,0:07:14.60,0:07:18.84,Cap,,0,0,0,,Every slow scan picture was converted\Nlive and sent to Houston and on to the
+Dialogue: 0,0:07:18.90,0:07:21.52,Cap,,0,0,0,,world, so only the station tapes are\Ngone.
+Dialogue: 0,0:07:21.89,0:07:27.22,Cap,,0,0,0,,The real explanation is more ordinary: a\Ntape shortage, a routine recall of old
+Dialogue: 0,0:07:27.28,0:07:30.95,Cap,,0,0,0,,boxes, and a recording that nobody\Nrealised was unique.
+Dialogue: 0,0:07:31.28,0:07:33.06,Cap,,0,0,0,,There was a footnote in 2019.
+Dialogue: 0,0:07:33.42,0:07:38.09,Cap,,0,0,0,,Sotheby's sold three videotapes labeled\NApollo 11 EVA for one point eight two
+Dialogue: 0,0:07:38.15,0:07:39.05,Cap,,0,0,0,,million dollars.
+Dialogue: 0,0:07:39.56,0:07:43.89,Cap,,0,0,0,,NASA says they were most likely recorded\Nin Houston from the already converted
+Dialogue: 0,0:07:43.95,0:07:48.40,Cap,,0,0,0,,picture, and hold no footage it lacks,\Nso they are not the missing station
+Dialogue: 0,0:07:48.46,0:07:48.96,Cap,,0,0,0,,tapes.
+Dialogue: 0,0:07:49.41,0:07:55.06,Cap,,0,0,0,,In 1969 the world saw the moonwalk once,\Nlive, and that live broadcast is still
+Dialogue: 0,0:07:55.12,0:07:56.66,Cap,,0,0,0,,the version most people know.

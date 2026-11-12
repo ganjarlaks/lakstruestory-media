@@ -1,0 +1,1 @@
+matched 666 of 706 words; start-time difference forced-alignment vs Whisper: mean 0.173 s, median 0.138 s, 90th pct 0.308 s, max 1.010 s (worst: 'Five')

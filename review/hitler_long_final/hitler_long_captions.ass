@@ -1,0 +1,208 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Cap,Poppins,76,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,200,200,70,1
+Style: Lab,Poppins,34,&H00E6E6E6,&H0000FFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,3,1,7,48,48,40,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.31,0:00:05.62,Cap,,0,0,0,,On 30 April 1945, Adolf Hitler\Ndied in a bunker under Berlin.
+Dialogue: 0,0:00:07.15,0:00:10.64,Cap,,0,0,0,,Within six weeks, Moscow was\Nsaying he might still be alive.
+Dialogue: 0,0:00:12.23,0:00:14.98,Cap,,0,0,0,,This is what the records show,\Nand what they leave open.
+Dialogue: 0,0:00:22.43,0:00:25.98,Cap,,0,0,0,,By April 1945, Germany\Nhad lost the war.
+Dialogue: 0,0:00:27.41,0:00:31.29,Cap,,0,0,0,,On 16 April, the Red Army\Nattacked across the Oder river,
+Dialogue: 0,0:00:31.48,0:00:35.58,Cap,,0,0,0,,and within three days the last defence\Nline east of Berlin had collapsed.
+Dialogue: 0,0:00:37.19,0:00:42.96,Cap,,0,0,0,,On 20 April, Hitler's fifty sixth birthday,\NSoviet guns began shelling Berlin.
+Dialogue: 0,0:00:44.51,0:00:46.38,Cap,,0,0,0,,Boys of the Hitler Youth and old men
+Dialogue: 0,0:00:46.40,0:00:49.36,Cap,,0,0,0,,of the Volkssturm were\Nsent to hold the streets.
+Dialogue: 0,0:00:50.69,0:00:54.46,Cap,,0,0,0,,By 25 April, Soviet armies\Nhad encircled the city.
+Dialogue: 0,0:00:55.73,0:00:59.42,Cap,,0,0,0,,Hitler had lived since 16\NJanuary in the Fuehrerbunker,
+Dialogue: 0,0:00:59.44,0:01:03.32,Cap,,0,0,0,,a concrete shelter beneath the\Ngarden of the Reich Chancellery.
+Dialogue: 0,0:01:04.87,0:01:08.94,Cap,,0,0,0,,With him were secretaries, doctors,\Nguards and his closest aides.
+Dialogue: 0,0:01:10.45,0:01:12.52,Cap,,0,0,0,,Martin Bormann managed his affairs.
+Dialogue: 0,0:01:12.96,0:01:15.39,Cap,,0,0,0,,Joseph Goebbels, the\Npropaganda minister,
+Dialogue: 0,0:01:15.62,0:01:19.32,Cap,,0,0,0,,moved into the bunker with his\Nwife Magda and their six children.
+Dialogue: 0,0:01:20.67,0:01:23.09,Cap,,0,0,0,,Eva Braun, his companion\Nfor many years,
+Dialogue: 0,0:01:23.20,0:01:25.32,Cap,,0,0,0,,had come to Berlin, and chose to stay.
+Dialogue: 0,0:01:26.81,0:01:28.31,Cap,,0,0,0,,On 22 April,
+Dialogue: 0,0:01:28.44,0:01:32.06,Cap,,0,0,0,,Hitler learned that an attack he had\Nordered had not been carried out.
+Dialogue: 0,0:01:33.57,0:01:36.89,Cap,,0,0,0,,He broke down, told his\Ngenerals that the war was lost,
+Dialogue: 0,0:01:37.08,0:01:39.42,Cap,,0,0,0,,and said that he would stay\Nin Berlin and shoot himself.
+Dialogue: 0,0:01:40.81,0:01:43.43,Cap,,0,0,0,,He asked an SS doctor\Nfor the surest method,
+Dialogue: 0,0:01:43.98,0:01:46.84,Cap,,0,0,0,,and was advised to combine\Npoison with a pistol shot.
+Dialogue: 0,0:01:51.43,0:01:54.52,Cap,,0,0,0,,On 28 April, Hitler heard a radio report
+Dialogue: 0,0:01:54.54,0:01:58.48,Cap,,0,0,0,,that Heinrich Himmler had offered\Nto surrender to the western Allies.
+Dialogue: 0,0:01:59.89,0:02:00.86,Cap,,0,0,0,,He called it treason,
+Dialogue: 0,0:02:00.97,0:02:03.88,Cap,,0,0,0,,and ordered that Himmler's\Nrepresentative at his headquarters,
+Dialogue: 0,0:02:03.90,0:02:06.20,Cap,,0,0,0,,Hermann Fegelein, be shot.
+Dialogue: 0,0:02:07.73,0:02:10.40,Cap,,0,0,0,,Fegelein was married\Nto Eva Braun's sister.
+Dialogue: 0,0:02:12.17,0:02:14.34,Cap,,0,0,0,,In the early hours of 29 April,
+Dialogue: 0,0:02:14.36,0:02:18.06,Cap,,0,0,0,,in a small room in the bunker,\NHitler married Eva Braun.
+Dialogue: 0,0:02:19.69,0:02:22.80,Cap,,0,0,0,,A city official named Walter\NWagner conducted the ceremony,
+Dialogue: 0,0:02:22.82,0:02:25.90,Cap,,0,0,0,,and Goebbels and Bormann\Nsigned as witnesses.
+Dialogue: 0,0:02:27.89,0:02:30.27,Cap,,0,0,0,,Afterwards, Hitler\Ndictated his private will
+Dialogue: 0,0:02:30.30,0:02:33.88,Cap,,0,0,0,,and political testament to\Nhis secretary, Traudl Junge.
+Dialogue: 0,0:02:35.23,0:02:37.46,Cap,,0,0,0,,He signed them at about\Nfour in the morning.
+Dialogue: 0,0:02:38.75,0:02:42.21,Cap,,0,0,0,,The testament named Admiral\NKarl Doenitz as head of state,
+Dialogue: 0,0:02:42.58,0:02:44.40,Cap,,0,0,0,,and Goebbels as chancellor.
+Dialogue: 0,0:02:45.71,0:02:47.72,Cap,,0,0,0,,In it he wrote that he did not wish
+Dialogue: 0,0:02:47.74,0:02:50.36,Cap,,0,0,0,,to fall into enemy hands\Nand be put on show.
+Dialogue: 0,0:02:51.85,0:02:54.17,Cap,,0,0,0,,Three couriers carried\Ncopies out of Berlin,
+Dialogue: 0,0:02:54.44,0:02:56.44,Cap,,0,0,0,,to reach Doenitz and\Nother commanders.
+Dialogue: 0,0:02:57.89,0:03:00.18,Cap,,0,0,0,,That afternoon, news\Nreached the bunker
+Dialogue: 0,0:03:00.20,0:03:03.75,Cap,,0,0,0,,that Benito Mussolini had\Nbeen shot by Italian partisans,
+Dialogue: 0,0:03:03.96,0:03:06.48,Cap,,0,0,0,,and that his body had\Nbeen put on public display.
+Dialogue: 0,0:03:08.07,0:03:10.21,Cap,,0,0,0,,Hitler had been given\Ncyanide capsules,
+Dialogue: 0,0:03:10.52,0:03:11.94,Cap,,0,0,0,,and he doubted that they would work.
+Dialogue: 0,0:03:13.65,0:03:17.31,Cap,,0,0,0,,He ordered a doctor to test\None on his dog, Blondi.
+Dialogue: 0,0:03:17.33,0:03:18.30,Cap,,0,0,0,,The dog died.
+Dialogue: 0,0:03:23.99,0:03:23.97,Cap,,0,0,0,,At one in the morning,
+Dialogue: 0,0:03:23.99,0:03:26.20,Cap,,0,0,0,,Field Marshal Keitel\Nreported that none
+Dialogue: 0,0:03:26.22,0:03:28.96,Cap,,0,0,0,,of the armies Hitler was\Ncounting on could reach Berlin.
+Dialogue: 0,0:03:30.49,0:03:31.90,Cap,,0,0,0,,At about half past two,
+Dialogue: 0,0:03:32.02,0:03:34.36,Cap,,0,0,0,,Hitler came into a\Ncorridor and shook hands
+Dialogue: 0,0:03:34.38,0:03:37.00,Cap,,0,0,0,,with some twenty people who\Nhad gathered to say goodbye.
+Dialogue: 0,0:03:38.45,0:03:40.25,Cap,,0,0,0,,On the morning of 30 April,
+Dialogue: 0,0:03:40.36,0:03:43.15,Cap,,0,0,0,,Soviet troops were fighting\Nwithin about five hundred metres
+Dialogue: 0,0:03:43.17,0:03:43.82,Cap,,0,0,0,,of the bunker.
+Dialogue: 0,0:03:45.21,0:03:48.72,Cap,,0,0,0,,General Helmuth Weidling, who\Ncommanded the defence of Berlin,
+Dialogue: 0,0:03:48.74,0:03:51.32,Cap,,0,0,0,,told Hitler that his ammunition\Nwould run out that night.
+Dialogue: 0,0:03:52.87,0:03:53.85,Cap,,0,0,0,,By one o'clock,
+Dialogue: 0,0:03:53.87,0:03:56.76,Cap,,0,0,0,,Weidling had permission to\Nattempt a breakout that night.
+Dialogue: 0,0:03:58.09,0:04:01.27,Cap,,0,0,0,,Hitler ate lunch with two\Nsecretaries and his cook,
+Dialogue: 0,0:04:01.64,0:04:04.12,Cap,,0,0,0,,and then said goodbye to\Nsome of those who remained.
+Dialogue: 0,0:04:05.57,0:04:07.69,Cap,,0,0,0,,At about half past\Nthree in the afternoon,
+Dialogue: 0,0:04:08.10,0:04:09.77,Cap,,0,0,0,,according to people\Nwho were in the bunker,
+Dialogue: 0,0:04:10.00,0:04:13.28,Cap,,0,0,0,,he shot himself, and Eva\NBraun died by poison.
+Dialogue: 0,0:04:14.79,0:04:15.66,Cap,,0,0,0,,No one saw it.
+Dialogue: 0,0:04:16.14,0:04:18.03,Cap,,0,0,0,,Witnesses went into\Nthe room afterwards,
+Dialogue: 0,0:04:18.22,0:04:20.08,Cap,,0,0,0,,and their accounts differ on details.
+Dialogue: 0,0:04:21.71,0:04:22.60,Cap,,0,0,0,,As he had ordered,
+Dialogue: 0,0:04:22.68,0:04:25.54,Cap,,0,0,0,,the bodies were carried to the\Ngarden and burned with petrol.
+Dialogue: 0,0:04:27.05,0:04:29.04,Cap,,0,0,0,,Soviet shells were still falling.
+Dialogue: 0,0:04:30.57,0:04:33.54,Cap,,0,0,0,,In the evening, what remained\Nwas buried in a shell crater.
+Dialogue: 0,0:04:37.99,0:04:41.86,Cap,,0,0,0,,Late on 1 May, Hamburg Radio\Nannounced that Hitler was dead.
+Dialogue: 0,0:04:42.96,0:04:45.91,Cap,,0,0,0,,We have just heard the news here over\Nour monitoring service
+Dialogue: 0,0:04:45.94,0:04:47.56,Cap,,0,0,0,,that Adolf Hitler is dead.
+Dialogue: 0,0:04:47.86,0:04:49.86,Cap,,0,0,0,,The announcement came in an official\Ncommunique
+Dialogue: 0,0:04:49.88,0:04:51.26,Cap,,0,0,0,,read over Radio Hamburg,
+Dialogue: 0,0:04:52.69,0:04:56.24,Cap,,0,0,0,,Another reporter, with the Americans\Non the Elbe, described the scene.
+Dialogue: 0,0:04:57.46,0:05:00.26,Cap,,0,0,0,,As reports and rumors flew that Hitler\Nwas dead
+Dialogue: 0,0:05:00.28,0:05:02.66,Cap,,0,0,0,,and that the war was over,
+Dialogue: 0,0:05:02.86,0:05:04.41,Cap,,0,0,0,,as history was swiftly written
+Dialogue: 0,0:05:04.46,0:05:05.46,Cap,,0,0,0,,across the face of Europe,
+Dialogue: 0,0:05:06.65,0:05:09.95,Cap,,0,0,0,,The announcement said he\Nhad fallen fighting at his post.
+Dialogue: 0,0:05:10.56,0:05:12.16,Cap,,0,0,0,,It did not say suicide.
+Dialogue: 0,0:05:13.61,0:05:16.45,Cap,,0,0,0,,That same day, Goebbels\Nand his wife died,
+Dialogue: 0,0:05:16.60,0:05:18.74,Cap,,0,0,0,,after their six children\Nhad been poisoned.
+Dialogue: 0,0:05:20.25,0:05:23.91,Cap,,0,0,0,,On 2 May, President Truman told\Nreporters that Hitler was dead,
+Dialogue: 0,0:05:24.28,0:05:25.92,Cap,,0,0,0,,on the best authority available.
+Dialogue: 0,0:05:27.47,0:05:31.14,Cap,,0,0,0,,That same day, Soviet troops\Ntook the Reich Chancellery.
+Dialogue: 0,0:05:32.37,0:05:34.00,Cap,,0,0,0,,Stalin had ordered SMERSH,
+Dialogue: 0,0:05:34.02,0:05:36.56,Cap,,0,0,0,,the Red Army's counterintelligence,\Nto find the body.
+Dialogue: 0,0:05:37.99,0:05:41.04,Cap,,0,0,0,,Germany signed its\Nsurrender at Reims on 7 May,
+Dialogue: 0,0:05:41.06,0:05:43.60,Cap,,0,0,0,,and again in Berlin on 8 May.
+Dialogue: 0,0:05:44.95,0:05:47.62,Cap,,0,0,0,,President Truman announced\Nit to the American people.
+Dialogue: 0,0:05:48.78,0:05:50.73,Cap,,0,0,0,,General Eisenhower informs me
+Dialogue: 0,0:05:50.83,0:05:54.18,Cap,,0,0,0,,that the forces of Germany have\Nsurrendered
+Dialogue: 0,0:05:54.23,0:05:56.08,Cap,,0,0,0,,to the United Nations.
+Dialogue: 0,0:05:57.35,0:05:59.65,Cap,,0,0,0,,Soviet troops dug up dental remains,
+Dialogue: 0,0:06:00.08,0:06:04.20,Cap,,0,0,0,,and by 11 May two dental workers\Nhad identified them as Hitler's.
+Dialogue: 0,0:06:05.79,0:06:09.50,Cap,,0,0,0,,Doenitz's government lasted until\NBritish troops arrested its members
+Dialogue: 0,0:06:09.52,0:06:11.72,Cap,,0,0,0,,at Flensburg on 23 May.
+Dialogue: 0,0:06:13.27,0:06:15.55,Cap,,0,0,0,,But Moscow told the\Nworld different things.
+Dialogue: 0,0:06:16.10,0:06:19.50,Cap,,0,0,0,,In June, Soviet officials gave\Ntwo conflicting accounts.
+Dialogue: 0,0:06:21.15,0:06:24.90,Cap,,0,0,0,,In 1949, a secret dossier\Nbased on interrogations
+Dialogue: 0,0:06:24.92,0:06:27.21,Cap,,0,0,0,,of bunker survivors\Nwas given to Stalin.
+Dialogue: 0,0:06:27.64,0:06:29.98,Cap,,0,0,0,,It was not published until 2005.
+Dialogue: 0,0:06:31.45,0:06:33.36,Cap,,0,0,0,,In November 1945,
+Dialogue: 0,0:06:33.85,0:06:38.23,Cap,,0,0,0,,British intelligence sent the historian\NHugh Trevor-Roper to investigate.
+Dialogue: 0,0:06:38.72,0:06:40.68,Cap,,0,0,0,,His book, The Last Days of Hitler,
+Dialogue: 0,0:06:41.13,0:06:43.22,Cap,,0,0,0,,concluded that Hitler\Nhad killed himself.
+Dialogue: 0,0:06:44.97,0:06:49.77,Cap,,0,0,0,,In 1946, Soviet investigators\Nfound part of a skull in the crater.
+Dialogue: 0,0:06:50.44,0:06:53.88,Cap,,0,0,0,,Tests in 2009 suggested that\Nit belonged to a woman.
+Dialogue: 0,0:06:55.27,0:06:59.97,Cap,,0,0,0,,In 2017, French experts examined\Njaw fragments held in Moscow,
+Dialogue: 0,0:07:00.50,0:07:05.26,Cap,,0,0,0,,and found that the teeth matched\Ndental X-rays of Hitler taken in 1944.
+Dialogue: 0,0:07:06.67,0:07:10.61,Cap,,0,0,0,,In 1956, a West German court\Nheard forty two witnesses,
+Dialogue: 0,0:07:10.90,0:07:12.92,Cap,,0,0,0,,and declared Hitler legally dead.
+Dialogue: 0,0:07:14.55,0:07:18.38,Cap,,0,0,0,,Rumours put him in Spain, in\NArgentina, even on a submarine.
+Dialogue: 0,0:07:19.89,0:07:21.27,Cap,,0,0,0,,On the night of the announcement,
+Dialogue: 0,0:07:21.50,0:07:23.70,Cap,,0,0,0,,one reporter had already\Nwarned about a myth.
+Dialogue: 0,0:07:24.86,0:07:29.26,Cap,,0,0,0,,It might all be part of that myth and\Nmysticism
+Dialogue: 0,0:07:29.46,0:07:31.76,Cap,,0,0,0,,he and his [...] tried so hard
+Dialogue: 0,0:07:31.78,0:07:33.46,Cap,,0,0,0,,to build up around themselves.
+Dialogue: 0,0:07:34.77,0:07:39.19,Cap,,0,0,0,,The FBI and the CIA investigated\Nreports that he had survived,
+Dialogue: 0,0:07:39.43,0:07:40.62,Cap,,0,0,0,,and found none credible.
+Dialogue: 0,0:07:42.17,0:07:46.92,Cap,,0,0,0,,Historians accept that Hitler\Nkilled himself on 30 April 1945.
+Dialogue: 0,0:07:48.27,0:07:50.74,Cap,,0,0,0,,That night, an American\Nreporter put it this way.
+Dialogue: 0,0:07:52.32,0:07:54.22,Cap,,0,0,0,,Whether by natural causes,
+Dialogue: 0,0:07:54.62,0:07:57.02,Cap,,0,0,0,,his own hand, or a bullet from the\NNazis themselves,
+Dialogue: 0,0:07:57.42,0:07:59.22,Cap,,0,0,0,,It will probably be some time before
+Dialogue: 0,0:07:59.24,0:08:00.62,Cap,,0,0,0,,we ever find out the truth.
+Dialogue: 0,0:08:02.97,0:08:05.61,Cap,,0,0,0,,Historians agree that he\Ndied by his own hand,
+Dialogue: 0,0:08:06.06,0:08:09.02,Cap,,0,0,0,,but the only physical proof\Nthat survives is dental.
+Dialogue: 0,0:08:10.45,0:08:14.18,Cap,,0,0,0,,If the evidence was this thin, why\Ndid Moscow let the world doubt it?
+Dialogue: 1,0:00:00.30,0:00:04.30,Lab,,0,0,0,,Berlin, 1947
+Dialogue: 1,0:00:07.22,0:00:11.22,Lab,,0,0,0,,Berlin, July 1945
+Dialogue: 1,0:00:12.30,0:00:16.24,Lab,,0,0,0,,Berlin, 1947
+Dialogue: 1,0:00:22.54,0:00:26.54,Lab,,0,0,0,,Berlin, July 1945
+Dialogue: 1,0:00:27.46,0:00:31.46,Lab,,0,0,0,,Soviet offensive, East Prussia, March 1945
+Dialogue: 1,0:00:44.62,0:00:48.62,Lab,,0,0,0,,Berlin, July 1945
+Dialogue: 1,0:00:55.86,0:00:58.60,Lab,,0,0,0,,US National Archives
+Dialogue: 1,0:00:58.90,0:01:01.60,Lab,,0,0,0,,Reich Chancellery, Sept 1945
+Dialogue: 1,0:01:01.90,0:01:04.64,Lab,,0,0,0,,Berlin, 1947
+Dialogue: 1,0:01:04.94,0:01:08.94,Lab,,0,0,0,,US National Archives
+Dialogue: 1,0:01:10.50,0:01:14.50,Lab,,0,0,0,,Eva Braun home film, 1930s
+Dialogue: 1,0:01:26.86,0:01:30.86,Lab,,0,0,0,,Soviet offensive, East Prussia, March 1945
+Dialogue: 1,0:01:40.90,0:01:44.40,Lab,,0,0,0,,US National Archives
+Dialogue: 1,0:01:44.70,0:01:48.16,Lab,,0,0,0,,Berlin, July 1945
+Dialogue: 1,0:01:51.46,0:01:55.46,Lab,,0,0,0,,Berlin, July 1945
+Dialogue: 1,0:02:11.98,0:02:15.56,Lab,,0,0,0,,US National Archives
+Dialogue: 1,0:02:15.86,0:02:19.44,Lab,,0,0,0,,Eva Braun home film, 1930s
+Dialogue: 1,0:02:19.74,0:02:23.74,Lab,,0,0,0,,US National Archives
+Dialogue: 1,0:02:31.50,0:02:35.04,Lab,,0,0,0,,Berlin, 1947
+Dialogue: 1,0:02:35.34,0:02:39.34,Lab,,0,0,0,,US National Archives
+Dialogue: 1,0:02:42.30,0:02:46.30,Lab,,0,0,0,,Berlin, July 1945
+Dialogue: 1,0:03:08.14,0:03:12.14,Lab,,0,0,0,,Eva Braun home film, 1930s
+Dialogue: 1,0:03:13.74,0:03:17.74,Lab,,0,0,0,,Berlin, 1947
+Dialogue: 1,0:03:22.90,0:03:26.90,Lab,,0,0,0,,Berlin, May 1945
+Dialogue: 1,0:03:30.58,0:03:34.58,Lab,,0,0,0,,Berlin, July 1945
+Dialogue: 1,0:03:38.50,0:03:42.50,Lab,,0,0,0,,Reichstag, Sept 1945
+Dialogue: 1,0:03:45.26,0:03:49.26,Lab,,0,0,0,,Berlin, July 1945
+Dialogue: 1,0:03:52.94,0:03:56.94,Lab,,0,0,0,,Reichstag, Sept 1945
+Dialogue: 1,0:03:58.14,0:04:01.60,Lab,,0,0,0,,Berlin, July 1945
+Dialogue: 1,0:04:01.90,0:04:05.32,Lab,,0,0,0,,US National Archives
+Dialogue: 1,0:04:05.62,0:04:09.62,Lab,,0,0,0,,Berlin, July 1945
+Dialogue: 1,0:04:14.82,0:04:18.00,Lab,,0,0,0,,Berlin, 1947
+Dialogue: 1,0:04:18.30,0:04:22.30,Lab,,0,0,0,,Berlin, July 1945
+Dialogue: 1,0:04:27.10,0:04:30.32,Lab,,0,0,0,,Soviet offensive, East Prussia, March 1945
+Dialogue: 1,0:04:30.62,0:04:34.62,Lab,,0,0,0,,Berlin, July 1945
+Dialogue: 1,0:04:38.02,0:04:42.02,Lab,,0,0,0,,Berlin, 1947
+Dialogue: 1,0:04:43.26,0:04:47.26,Lab,,0,0,0,,Audio: Mutual, 1 May 1945. Picture: Elbe, 1945
+Dialogue: 1,0:04:52.54,0:04:56.54,Lab,,0,0,0,,US and Soviet troops, Elbe, 1945
+Dialogue: 1,0:04:57.76,0:05:01.76,Lab,,0,0,0,,Audio: CBC / Mutual, 1945. Picture: Elbe, 1945
+Dialogue: 1,0:05:06.74,0:05:10.74,Lab,,0,0,0,,Berlin, July 1945
+Dialogue: 1,0:05:20.30,0:05:23.60,Lab,,0,0,0,,Truman, 8 May 1945
+Dialogue: 1,0:05:23.90,0:05:27.28,Lab,,0,0,0,,Reichstag, Sept 1945
+Dialogue: 1,0:05:27.58,0:05:31.58,Lab,,0,0,0,,Reich Chancellery, Sept 1945
+Dialogue: 1,0:05:32.46,0:05:36.46,Lab,,0,0,0,,Berlin, July 1945
+Dialogue: 1,0:05:38.06,0:05:42.06,Lab,,0,0,0,,Karlshorst, 8 May 1945
+Dialogue: 1,0:05:45.02,0:05:48.80,Lab,,0,0,0,,Truman, 8 May 1945
+Dialogue: 1,0:05:49.08,0:05:53.08,Lab,,0,0,0,,Universal Newsreel, 8 May 1945
+Dialogue: 1,0:05:57.50,0:06:01.50,Lab,,0,0,0,,Allied newsreel, Germany, 1945
+Dialogue: 1,0:06:13.34,0:06:17.34,Lab,,0,0,0,,Berlin, 5 June 1945
+Dialogue: 1,0:06:21.18,0:06:25.18,Lab,,0,0,0,,Berlin, June 1945
+Dialogue: 1,0:06:45.02,0:06:49.02,Lab,,0,0,0,,Berlin, 5 June 1945
+Dialogue: 1,0:06:55.34,0:06:59.34,Lab,,0,0,0,,Berlin, July 1945
+Dialogue: 1,0:07:06.78,0:07:10.78,Lab,,0,0,0,,Karlshorst, 8 May 1945
+Dialogue: 1,0:07:19.90,0:07:23.90,Lab,,0,0,0,,Berlin, June 1945
+Dialogue: 1,0:07:25.16,0:07:29.16,Lab,,0,0,0,,Audio: Mutual, 1 May 1945. Picture: Elbe, 1945
+Dialogue: 1,0:07:34.86,0:07:38.86,Lab,,0,0,0,,Karlshorst, 8 May 1945
+Dialogue: 1,0:07:42.22,0:07:46.22,Lab,,0,0,0,,Berlin, 1947
+Dialogue: 1,0:07:48.30,0:07:52.12,Lab,,0,0,0,,Karlshorst, 8 May 1945
+Dialogue: 1,0:07:52.42,0:07:56.42,Lab,,0,0,0,,Audio: Mutual, 1 May 1945. Picture: Elbe, 1945

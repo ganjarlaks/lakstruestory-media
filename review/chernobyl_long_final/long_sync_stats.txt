@@ -1,0 +1,3 @@
+per-line forced alignment (CTC) vs Whisper small.en word starts: matched 941 of 1054 spoken words; mean 0.124 s, median 0.096 s, 90th pct 0.262 s, max 1.237 s
+caption units 130 (SRT/ASS); display tokens not matched to the transcript (interpolated): 30 of 995
+whole-track check (Whisper base.en on the final narration track, sequential match; weak by design, one lost sync run inflates the mean): matched 580 of 995 words; start-time difference forced-alignment vs Whisper: mean 1.944 s, median 0.152 s, 90th pct 0.416 s, max 174.992 s (worst: 'the')

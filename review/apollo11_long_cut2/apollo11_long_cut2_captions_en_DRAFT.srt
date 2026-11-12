@@ -1,0 +1,605 @@
+1
+00:00:06,060 --> 00:00:11,930
+On 20 July 1969, the Apollo 11 lunar
+module Eagle landed on the Moon, and
+
+2
+00:00:11,990 --> 00:00:14,510
+Mission Control in Houston could finally
+breathe.
+
+3
+00:00:15,070 --> 00:00:18,630
+Tranquility Base here.
+The Eagle has landed.
+
+4
+00:00:19,390 --> 00:00:21,090
+The final minutes had been tense.
+
+5
+00:00:21,670 --> 00:00:25,550
+The lander's computer raised an overload
+alarm, and controllers in Houston had
+
+6
+00:00:25,610 --> 00:00:27,780
+only seconds to decide whether to go on.
+
+7
+00:00:28,130 --> 00:00:32,800
+They said go, and Neil Armstrong took
+over by hand to fly past a crater and
+
+8
+00:00:32,860 --> 00:00:35,260
+boulders, with the fuel running low.
+
+9
+00:00:35,610 --> 00:00:39,650
+A few hours later, a small television
+camera on the side of the Eagle began
+
+10
+00:00:39,710 --> 00:00:42,980
+sending pictures of Neil Armstrong
+climbing down to the surface.
+
+11
+00:00:43,420 --> 00:00:46,080
+It was a black and white camera built by
+Westinghouse.
+
+12
+00:00:46,640 --> 00:00:50,550
+Armstrong swung open its compartment as
+he climbed down, and Buzz Aldrin
+
+13
+00:00:50,610 --> 00:00:52,710
+switched it on from inside the lander.
+
+14
+00:00:53,070 --> 00:00:57,220
+The picture was grainy, ghostly, and
+black and white, and hundreds of
+
+15
+00:00:57,280 --> 00:01:00,320
+millions of people around the world
+watched it as it happened.
+
+16
+00:01:01,570 --> 00:01:04,030
+That's one small step for man,
+
+17
+00:01:06,770 --> 00:01:09,230
+one giant leap for mankind.
+
+18
+00:01:09,570 --> 00:01:13,630
+The walk lasted about two and a half
+hours, and the camera followed Armstrong
+
+19
+00:01:13,690 --> 00:01:17,870
+and Buzz Aldrin as they planted a flag,
+read a plaque, and collected rock
+
+20
+00:01:17,930 --> 00:01:18,630
+samples.
+
+21
+00:01:19,130 --> 00:01:22,570
+Later in the walk, President Richard
+Nixon telephoned the astronauts from the
+
+22
+00:01:22,630 --> 00:01:25,830
+White House, and the call went out on
+the same broadcast.
+
+23
+00:01:26,230 --> 00:01:30,790
+And this certainly has to be the most historic
+telephone call ever made.
+
+24
+00:01:31,150 --> 00:01:35,230
+Those pictures still exist, and they are
+some of the most famous television ever
+
+25
+00:01:35,290 --> 00:01:35,810
+made.
+
+26
+00:01:36,150 --> 00:01:40,640
+What no one can find is the original
+recording of that signal, made at the
+
+27
+00:01:40,700 --> 00:01:43,000
+tracking stations on magnetic tape.
+
+28
+00:01:43,270 --> 00:01:49,100
+This is the story of a strange signal,
+three radio dishes, a tape shortage, and
+
+29
+00:01:49,160 --> 00:01:51,660
+a search that ended in 2009.
+
+30
+00:01:55,030 --> 00:01:57,700
+The camera did not send ordinary
+television.
+
+31
+00:01:58,160 --> 00:02:02,180
+It sent slow scan video, ten frames a
+second with three hundred and twenty
+
+32
+00:02:02,240 --> 00:02:04,990
+lines, which no home television could
+show.
+
+33
+00:02:05,300 --> 00:02:09,310
+When it first switched on, the picture
+was upside down, because the camera had
+
+34
+00:02:09,370 --> 00:02:11,350
+been mounted that way in its
+compartment.
+
+35
+00:02:11,650 --> 00:02:15,580
+Three tracking stations caught that
+signal: Goldstone in California,
+
+36
+00:02:15,780 --> 00:02:19,740
+Honeysuckle Creek near Canberra, and the
+Parkes radio telescope in New South
+
+37
+00:02:19,800 --> 00:02:20,360
+Wales.
+
+38
+00:02:20,850 --> 00:02:24,970
+At Goldstone nobody had flipped the
+switch that turns the picture over, and
+
+39
+00:02:25,030 --> 00:02:28,060
+for a while the pictures there also came
+out as a negative.
+
+40
+00:02:28,380 --> 00:02:32,690
+At Honeysuckle Creek, a video engineer
+saw the problem and turned the picture
+
+41
+00:02:32,750 --> 00:02:34,990
+the right way up in about twenty
+seconds.
+
+42
+00:02:35,490 --> 00:02:39,720
+At the stations, the slow scan picture
+was converted to a standard television
+
+43
+00:02:39,780 --> 00:02:43,570
+picture, in effect by pointing a
+television camera at a monitor.
+
+44
+00:02:43,870 --> 00:02:47,880
+When the first picture of Armstrong on
+the ladder reached Houston, the capsule
+
+45
+00:02:47,940 --> 00:02:50,900
+communicator told him that controllers
+could see him.
+
+46
+00:02:52,130 --> 00:02:54,590
+Okay, Neil, we can see you
+coming down the ladder now.
+
+47
+00:02:55,150 --> 00:02:59,240
+Just under nine minutes in, the Moon
+moved into the main beam and the Parkes
+
+48
+00:02:59,300 --> 00:03:00,360
+picture arrived.
+
+49
+00:03:00,660 --> 00:03:04,640
+Houston briefly cut back to Goldstone to
+compare, then returned to Parkes for
+
+50
+00:03:04,700 --> 00:03:05,660
+most of the walk.
+
+51
+00:03:06,070 --> 00:03:09,590
+Houston's network controller told the
+Parkes team that they had given everyone
+
+52
+00:03:09,650 --> 00:03:11,020
+the best television yet.
+
+53
+00:03:11,420 --> 00:03:15,470
+Australian viewers, around ten million
+of them, watched the same pictures on
+
+54
+00:03:15,530 --> 00:03:16,270
+the ABC.
+
+55
+00:03:16,890 --> 00:03:20,860
+Alongside the broadcast, each station
+also recorded the raw signal on
+
+56
+00:03:20,920 --> 00:03:23,590
+one-inch, fourteen-track magnetic tape.
+
+57
+00:03:23,870 --> 00:03:27,430
+Those reels were sent to the Goddard
+Space Flight Center in Maryland, and
+
+58
+00:03:27,490 --> 00:03:30,590
+they held a better record of the
+moonwalk than the picture the networks
+
+59
+00:03:30,650 --> 00:03:31,360
+received.
+
+60
+00:03:31,600 --> 00:03:35,260
+That original signal had never been
+through the conversion, which is why
+
+61
+00:03:35,320 --> 00:03:38,750
+engineers valued it, and why its loss
+was felt later.
+
+62
+00:03:42,110 --> 00:03:46,210
+NASA's later report estimated that about
+forty-five reels held the moonwalk,
+
+63
+00:03:46,450 --> 00:03:49,090
+roughly fifteen from each of the three
+stations.
+
+64
+00:03:49,590 --> 00:03:53,790
+After the mission the tapes went into
+storage, and by 1970 their records were
+
+65
+00:03:53,850 --> 00:03:56,990
+filed at the Washington National Records
+Center in Maryland.
+
+66
+00:03:57,450 --> 00:03:59,050
+Nothing marked them as special.
+
+67
+00:03:59,350 --> 00:04:03,710
+NASA's report found no sign that anyone
+recognised the unique content on those
+
+68
+00:04:03,770 --> 00:04:04,310
+reels.
+
+69
+00:04:04,760 --> 00:04:10,190
+Then, in the early 1980s, NASA ran short
+of one-inch magnetic tape, and Goddard
+
+70
+00:04:10,250 --> 00:04:13,940
+recalled tens of thousands of boxes from
+storage to be reused.
+
+71
+00:04:14,310 --> 00:04:18,680
+Old tape could be wiped with a strong
+magnet, a process called degaussing,
+
+72
+00:04:18,900 --> 00:04:20,950
+then checked and put back into service.
+
+73
+00:04:21,400 --> 00:04:25,660
+The report concludes that the moonwalk
+reels were most likely degaussed and
+
+74
+00:04:25,720 --> 00:04:29,890
+reused that way, although it also allows
+that they may have been thrown away.
+
+75
+00:04:30,310 --> 00:04:34,540
+No one seems to have noticed what had
+been lost until years later, when people
+
+76
+00:04:34,600 --> 00:04:38,160
+who remembered the mission began asking
+where the originals had gone.
+
+77
+00:04:38,540 --> 00:04:43,570
+In 1997, John Sarkissian, who worked at
+the Parkes radio telescope in Australia,
+
+78
+00:04:43,630 --> 00:04:45,800
+began looking for the Australian
+recordings.
+
+79
+00:04:46,290 --> 00:04:50,130
+It began when a British author asked him
+what had become of the originals.
+
+80
+00:04:50,560 --> 00:04:55,190
+Inside NASA, the search was led by
+Richard Nafzger, a Goddard engineer who
+
+81
+00:04:55,250 --> 00:04:58,590
+had worked on the Apollo television data
+in 1969.
+
+82
+00:04:58,990 --> 00:05:02,700
+Stan Lebar, who had managed the building
+of the lunar television camera for
+
+83
+00:05:02,760 --> 00:05:05,630
+Westinghouse, also took part in the
+effort.
+
+84
+00:05:06,070 --> 00:05:09,790
+They went through shipping records,
+storage sites, and tracking station
+
+85
+00:05:09,850 --> 00:05:12,700
+files in the United States and in
+Australia.
+
+86
+00:05:13,040 --> 00:05:17,740
+In 2002 the searchers heard about a tape
+believed to hold Armstrong's first step.
+
+87
+00:05:18,130 --> 00:05:21,930
+A former Honeysuckle Creek employee had
+kept it in his garage in Canberra for
+
+88
+00:05:21,990 --> 00:05:23,250
+more than thirty years.
+
+89
+00:05:23,750 --> 00:05:26,900
+In June 2004 it was played at Goddard.
+
+90
+00:05:27,360 --> 00:05:31,670
+It held a simulation from October 1967,
+not the moonwalk.
+
+91
+00:05:32,030 --> 00:05:35,900
+The trail led to the records center in
+Maryland, but of the twenty-six hundred
+
+92
+00:05:35,960 --> 00:05:39,150
+containers in that shipment, only two
+were still there.
+
+93
+00:05:39,490 --> 00:05:44,410
+In 2006 the search became public, and
+Sarkissian published a detailed account
+
+94
+00:05:44,470 --> 00:05:46,530
+of what he had found and what he had
+not.
+
+95
+00:05:46,980 --> 00:05:52,690
+On 16 July 2009, at a news conference in
+Washington, NASA said the search was
+
+96
+00:05:52,750 --> 00:05:56,080
+over and that the tapes most likely no
+longer existed.
+
+97
+00:05:56,460 --> 00:06:00,730
+Nafzger held up a reel of the same kind
+of fourteen-track tape that had recorded
+
+98
+00:06:00,790 --> 00:06:03,530
+the signal, a reminder of what had been
+lost.
+
+99
+00:06:06,910 --> 00:06:09,220
+But the moonwalk itself was not lost.
+
+100
+00:06:09,700 --> 00:06:13,660
+What disappeared was the best recording
+of its signal, not the broadcast the
+
+101
+00:06:13,720 --> 00:06:14,760
+world had watched.
+
+102
+00:06:15,170 --> 00:06:19,770
+NASA looked for the best surviving
+copies and used three: a recording made
+
+103
+00:06:19,830 --> 00:06:24,800
+in Sydney, broadcast tapes from the CBS
+News archive, and film recordings stored
+
+104
+00:06:24,860 --> 00:06:26,240
+at the Johnson Space Center.
+
+105
+00:06:26,710 --> 00:06:31,300
+A company in Burbank, California, called
+Lowry Digital, which usually restores
+
+106
+00:06:31,360 --> 00:06:35,970
+old Hollywood films, cleaned those
+copies with digital processing, and NASA
+
+107
+00:06:36,030 --> 00:06:40,270
+released fifteen restored scenes on 16
+July 2009.
+
+108
+00:06:40,570 --> 00:06:45,010
+The restored pictures are clearer than
+what viewers saw in 1969, but they
+
+109
+00:06:45,070 --> 00:06:48,500
+cannot add detail that the surviving
+copies never held.
+
+110
+00:06:49,290 --> 00:06:53,940
+Here is one of those scenes, first as it
+was broadcast, and then restored.
+
+111
+00:06:54,630 --> 00:07:00,190
+Okay. I'm going to leave that one foot up there
+and both hands down to about the fourth rung up.
+
+112
+00:07:00,690 --> 00:07:04,080
+Some people say the missing tapes prove
+the landing was staged, but the
+
+113
+00:07:04,140 --> 00:07:08,420
+broadcast survives, and tracking
+stations in California and Australia
+
+114
+00:07:08,480 --> 00:07:10,980
+received the same signal at the same
+time.
+
+115
+00:07:11,390 --> 00:07:14,110
+NASA says no moonwalk footage is
+missing.
+
+116
+00:07:14,600 --> 00:07:18,840
+Every slow scan picture was converted
+live and sent to Houston and on to the
+
+117
+00:07:18,900 --> 00:07:21,520
+world, so only the station tapes are
+gone.
+
+118
+00:07:21,890 --> 00:07:27,220
+The real explanation is more ordinary: a
+tape shortage, a routine recall of old
+
+119
+00:07:27,280 --> 00:07:30,950
+boxes, and a recording that nobody
+realised was unique.
+
+120
+00:07:31,280 --> 00:07:33,060
+There was a footnote in 2019.
+
+121
+00:07:33,420 --> 00:07:38,090
+Sotheby's sold three videotapes labeled
+Apollo 11 EVA for one point eight two
+
+122
+00:07:38,150 --> 00:07:39,050
+million dollars.
+
+123
+00:07:39,560 --> 00:07:43,890
+NASA says they were most likely recorded
+in Houston from the already converted
+
+124
+00:07:43,950 --> 00:07:48,400
+picture, and hold no footage it lacks,
+so they are not the missing station
+
+125
+00:07:48,460 --> 00:07:48,960
+tapes.
+
+126
+00:07:49,410 --> 00:07:55,060
+In 1969 the world saw the moonwalk once,
+live, and that live broadcast is still
+
+127
+00:07:55,120 --> 00:07:56,660
+the version most people know.

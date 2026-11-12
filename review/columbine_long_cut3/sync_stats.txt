@@ -1,0 +1,1 @@
+faster-whisper base.en word timestamps mapped to script tokens: matched 711 of 724 tokens; lines below 80% match (interpolated timing): [('1.3', 7, 9), ('2.2', 5, 7)]
