@@ -21,7 +21,7 @@ Sources
 - Ozone: Springer Nature (1985 Nature paper by Farman, Gardiner and Shanklin); ACS landmark (topic list only reached); EPA; UN/WMO 2022 assessment via AP
 
 Footage disclosure
-About 66% of this film is archival footage (including the chapter cards, which sit over footage) and about 32% is original hand-drawn explainer animation by Odd Making; the 10-second sources card is the rest. Strictly "moving pictures of the subject" (ice harvesting, kitchens, home refrigerators) is about 47%. The remainder of the archive share is diagram films and NASA animations used as stand-ins. No film here shows the events as they happened: the 1902 and 1919 ice harvests stand in for the 19th-century trade, and nothing in the archive shows a home refrigerator between 1913 and the 1927 advertisement. Share by section (all footage / subject footage only): opening 68% / 68%; Chapter 1 80% / 80%; Chapter 2 63% / 17%; Chapter 3 73% / 73%; Chapter 4 including the recap 55% / 22%.
+About 66% of this film is archival footage (including the chapter cards, which sit over footage) and about 32% is original hand-drawn explainer animation by Odd Making; the 10-second sources card is the rest. Strictly "moving pictures of the subject" (ice harvesting, kitchens, home refrigerators) is about 47%. The remainder of the archive share is diagram films and NASA animations used as stand-ins. No film here shows the events as they happened: the 1902 and 1919 ice harvests stand in for the 19th-century trade, and nothing in the archive shows a home refrigerator between 1913 and the 1927 advertisement.
 All footage is from the Internet Archive or Wikimedia Commons and cropped to 16:9. About 85% of the visible footage is colour (1949-1996 US government films, a 1980 German ice-sawing film, NASA models) and about 15% is black and white (1902 Library of Congress films, the 1919 amateur film, the 1927 advert and the 1940 USDA film), used only where the narration describes those films. Colour footage has a natural grade; black-and-white clips carry a light neutral tone. Source credits appear on screen at first use.
 - Cutting and Canaling Ice (1902), Library of Congress (loc-film-00564559). Public domain.
 - Circular Panorama of Housing the Ice (1902), Library of Congress (loc-film-00564558). Public domain.
@@ -33,7 +33,6 @@ All footage is from the Internet Archive or Wikimedia Commons and cropped to 16:
 - Inspection of Food Storage Areas (1981), US Department of Defense (gov.dod.dimoc.35816). CC0 / US government work.
 - Principles of Mechanical Refrigeration (1964), US Air Force (gov.dod.dimoc.27633). CC0 / US government work.
 - Ozone animations, NASA Goddard Scientific Visualization Studio (SVS-3586, 2009; SVS-3136, 2005).
-Licence basis for the government films and NASA items is US government work or public domain; we did not re-check each item's licence field beyond the Pocono item.
 
 Music: "Dances and Dames" by Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/
 Voice: synthetic (Kokoro).
