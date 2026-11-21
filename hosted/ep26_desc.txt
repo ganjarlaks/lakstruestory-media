@@ -1,0 +1,44 @@
+In 1806 a Boston businessman loaded a ship with ice cut from a frozen pond and sailed it to the Caribbean. Much of it melted. A century later the cold finally came out of a wall socket, thanks to a gas that turned out to hurt the sky. This is the story of the refrigerator: a merchant, a doctor, a brewer's engineer and the chemists who made the gas.
+
+Chapters
+0:00 Ice on a ship
+0:34 The Ice King
+2:32 The Doctor And The Engines
+4:23 Ice From A Wall Socket
+5:51 The Safe Gas And The Sky
+7:33 So, who invented the refrigerator?
+8:08 Sources
+
+A note on the evidence: dates and names in this film were checked against second sources where we could find them, and hedged wording means the sources differ. Household refrigerator figures for 1930 and 1940 vary between sources, so we say "about one in ten" and "around half". Perkins is placed "in the mid-eighteen-thirties" (ASME gives an 1834 patent and an 1835 demonstration). The Domelre is dated "around 1913 or 1914" because sources disagree. The debtors' prison detail for Tudor rests on one account and is narrated as "by one account". We could not independently confirm the Wikipedia-only dates for Mellowes, Kelvinator and Frigidaire, so the film does not state them. Linde's 1873 and 1876 dates rest on a Wikipedia article and a brewing dictionary.
+
+Sources
+- Ice trade: American Heritage, "Cold Mine"; Smithsonian National Museum of American History, "Keeping Your Food Cool"; Wikipedia: Frederic Tudor, Ice trade
+- Perkins: ASME Landmark 274; Encyclopedia.com, Refrigerators and Freezers
+- Gorrie: Architect of the Capitol; Wikipedia: John Gorrie
+- Linde: Wikipedia, Carl von Linde; Beer and Brewing dictionary
+- Home units: Smithsonian NMAH; ASHRAE; The Henry Ford (household figures)
+- Freon and Midgley: EBSCO Research Starters; Invention and Technology
+- Ozone: Springer Nature (1985 Nature paper by Farman, Gardiner and Shanklin); ACS landmark (topic list only reached); EPA; UN/WMO 2022 assessment via AP
+
+Footage disclosure
+About 66% of this film is archival footage (including the chapter cards, which sit over footage) and about 32% is original hand-drawn explainer animation by Odd Making; the 10-second sources card is the rest. Strictly "moving pictures of the subject" (ice harvesting, kitchens, home refrigerators) is about 47%. The remainder of the archive share is diagram films and NASA animations used as stand-ins. No film here shows the events as they happened: the 1902 and 1919 ice harvests stand in for the 19th-century trade, and nothing in the archive shows a home refrigerator between 1913 and the 1927 advertisement. Share by section (all footage / subject footage only): opening 68% / 68%; Chapter 1 80% / 80%; Chapter 2 63% / 17%; Chapter 3 73% / 73%; Chapter 4 including the recap 55% / 22%.
+All footage is from the Internet Archive or Wikimedia Commons and cropped to 16:9. About 85% of the visible footage is colour (1949-1996 US government films, a 1980 German ice-sawing film, NASA models) and about 15% is black and white (1902 Library of Congress films, the 1919 amateur film, the 1927 advert and the 1940 USDA film), used only where the narration describes those films. Colour footage has a natural grade; black-and-white clips carry a light neutral tone. Source credits appear on screen at first use.
+- Cutting and Canaling Ice (1902), Library of Congress (loc-film-00564559). Public domain.
+- Circular Panorama of Housing the Ice (1902), Library of Congress (loc-film-00564558). Public domain.
+- Ice Harvest, Pocono Manor (1919), amateur film, Prelinger Archives (amateur_film_ice_harvest_pocono_manor_1919). The item carries no licence field; the basis is its age.
+- Buy an Electric Refrigerator (1927), Electric League of Pittsburgh (buy_an_electric_refrigerator_1926).
+- Power and the Land (1940), US Department of Agriculture (16-p-854-r-1). Public Domain Mark.
+- A Step Saving Kitchen (1949), US Department of Agriculture (16-p-1045). Public Domain Mark.
+- Ice sawing on the De-Witt-See, Sassenfeld/Nettetal (1980), from "Bauernwerk im Rheinland" (Eissägen auf dem De-Witt-See), recording Gabriel Simons, edit Berthold Heizmann, LVR-Institut für Landeskunde und Regionalgeschichte (YouTube channel Alltagskulturen im Rheinland), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Eissägen_auf_dem_De-Witt-See.webm . Licence: Creative Commons Attribution (CC BY, YouTube CC-BY licence as recorded on Commons). Cropped to 16:9, graded; no endorsement implied.
+- Inspection of Food Storage Areas (1981), US Department of Defense (gov.dod.dimoc.35816). CC0 / US government work.
+- Principles of Mechanical Refrigeration (1964), US Air Force (gov.dod.dimoc.27633). CC0 / US government work.
+- Ozone animations, NASA Goddard Scientific Visualization Studio (SVS-3586, 2009; SVS-3136, 2005).
+Licence basis for the government films and NASA items is US government work or public domain; we did not re-check each item's licence field beyond the Pocono item.
+
+Music: "Dances and Dames" by Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/
+Voice: synthetic (Kokoro).
+
+Odd Making: https://www.youtube.com/@oddmaking
+Ordinary objects. Extraordinary stories.
+
+#refrigerator #history #oddmaking #icetrade #inventions
