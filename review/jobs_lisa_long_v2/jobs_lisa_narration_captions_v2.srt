@@ -1,0 +1,456 @@
+1
+00:00:10,000 --> 00:00:15,270
+On 19 January 1983, Apple announced a new personal computer in California,
+
+2
+00:00:15,660 --> 00:00:17,430
+and gave it a woman's name: Lisa.
+
+3
+00:00:27,653 --> 00:00:30,523
+Sixteen days earlier, on 3 January,
+
+4
+00:00:31,093 --> 00:00:33,323
+Time magazine had put a computer on its cover,
+
+5
+00:00:33,493 --> 00:00:35,323
+instead of naming a person of the year.
+
+6
+00:00:35,795 --> 00:00:39,310
+Inside that issue was a paragraph about the man who ran Apple,
+
+7
+00:00:39,540 --> 00:00:42,290
+and about a baby girl who shared the machine's name.
+
+8
+00:00:42,868 --> 00:00:47,518
+The girl was Lisa Brennan, and in January 1983 she was four years old.
+
+9
+00:00:47,938 --> 00:00:49,843
+Steve Jobs was twenty-seven,
+
+10
+00:00:49,853 --> 00:00:52,463
+and Apple had just finished a year with five hundred
+
+11
+00:00:52,473 --> 00:00:54,523
+and eighty-three million dollars in sales.
+
+12
+00:00:55,195 --> 00:00:58,990
+This film follows two Lisas, a computer and a person,
+
+13
+00:00:59,240 --> 00:01:02,230
+and asks what the public record says about each.
+
+14
+00:01:02,776 --> 00:01:04,931
+It does not guess at anyone's feelings.
+
+15
+00:01:05,721 --> 00:01:09,011
+It uses a magazine, court reports as others reported them,
+
+16
+00:01:09,161 --> 00:01:12,631
+a biography, and words Lisa Brennan-Jobs published herself.
+
+17
+00:01:13,111 --> 00:01:17,141
+She is a living author, and her memoir, Small Fry, came out in 2018.
+
+18
+00:01:17,881 --> 00:01:20,711
+So we take the record as it stands, with its dates,
+
+19
+00:01:21,181 --> 00:01:24,931
+and we start in 1978, five years before the computer.
+
+20
+00:01:25,545 --> 00:01:27,735
+Apple had been founded in 1976,
+
+21
+00:01:28,245 --> 00:01:31,735
+and in 1978 it was a young company selling the Apple Two,
+
+22
+00:01:32,105 --> 00:01:35,475
+while the machine that would become Lisa was still only a plan.
+
+23
+00:01:36,097 --> 00:01:39,962
+The story of the girl begins in the same year as the story of the computer,
+
+24
+00:01:40,332 --> 00:01:42,162
+and the two meet in a magazine.
+
+25
+00:01:47,728 --> 00:01:50,823
+Lisa was born on 17 May 1978,
+
+26
+00:01:51,293 --> 00:01:54,463
+on a commune called All One Farm, outside Portland, Oregon.
+
+27
+00:01:55,054 --> 00:01:58,344
+Her mother was Chrisann Brennan, who had been Jobs's girlfriend,
+
+28
+00:01:58,814 --> 00:02:01,204
+and Jobs was twenty-three years old.
+
+29
+00:02:01,666 --> 00:02:04,261
+Time reported that he denied he was the father,
+
+30
+00:02:04,771 --> 00:02:06,541
+and refused to pay child support.
+
+31
+00:02:07,104 --> 00:02:07,794
+In her memoir,
+
+32
+00:02:08,244 --> 00:02:10,934
+Lisa Brennan-Jobs writes that he kept telling people at the farm
+
+33
+00:02:10,944 --> 00:02:12,354
+that it was not his kid,
+
+34
+00:02:12,704 --> 00:02:14,134
+though he had come to meet her anyway.
+
+35
+00:02:14,745 --> 00:02:17,875
+She also writes that her mother supplemented welfare by cleaning houses
+
+36
+00:02:17,885 --> 00:02:18,835
+and waitressing,
+
+37
+00:02:19,285 --> 00:02:23,455
+and Isaacson says her mother relied on welfare and food stamps for a time.
+
+38
+00:02:23,971 --> 00:02:26,086
+This film found no court file online,
+
+39
+00:02:26,436 --> 00:02:29,706
+so the case is told as Time and the memoir report it.
+
+40
+00:02:30,128 --> 00:02:35,003
+In 1980 the district attorney of San Mateo County sued Jobs for child support.
+
+41
+00:02:46,667 --> 00:02:49,237
+A blood test, which Time called voluntary,
+
+42
+00:02:49,767 --> 00:02:53,537
+put the probability that he was the father at ninety-four point one percent.
+
+43
+00:02:54,060 --> 00:02:57,450
+Jobs answered, in the words Time printed in 1983,
+
+44
+00:02:58,100 --> 00:03:02,130
+that twenty-eight percent of the male population of the United States could be the father.
+
+45
+00:03:02,700 --> 00:03:05,970
+The court ordered him to pay three hundred and eighty-five dollars a month,
+
+46
+00:03:06,300 --> 00:03:08,810
+and to repay the welfare money her mother had received.
+
+47
+00:03:09,467 --> 00:03:14,317
+On 12 December 1980, Apple went public, and Jobs's shares made him wealthy.
+
+48
+00:03:14,912 --> 00:03:16,282
+According to Chrisann Brennan,
+
+49
+00:03:16,712 --> 00:03:19,822
+he raised the payment to five hundred dollars a month after that.
+
+50
+00:03:20,250 --> 00:03:23,345
+Yet two years later, in the pages of a national magazine,
+
+51
+00:03:23,575 --> 00:03:24,905
+he was still disputing it.
+
+52
+00:03:25,293 --> 00:03:29,143
+So the record of 1980 is clear on the test and the order,
+
+53
+00:03:29,573 --> 00:03:32,303
+and clear that Jobs did not accept it in public.
+
+54
+00:03:37,928 --> 00:03:40,103
+The Time article was written by Jay Cocks,
+
+55
+00:03:40,593 --> 00:03:43,663
+from reporting by Michael Moritz in Cupertino.
+
+56
+00:03:44,220 --> 00:03:47,175
+Time did not say the computer was named for the girl.
+
+57
+00:03:47,745 --> 00:03:51,395
+It noted only that the baby and the machine share the same name.
+
+58
+00:03:51,905 --> 00:03:56,210
+Jobs said afterwards that the article was so awful that he actually cried,
+
+59
+00:03:56,640 --> 00:03:58,290
+as Fortune reported in 2011.
+
+60
+00:03:58,935 --> 00:04:03,925
+Apple's explanation, when the machine came out, was an acronym. Lisa,
+
+61
+00:04:03,995 --> 00:04:07,785
+the company said, stood for Local Integrated Software Architecture.
+
+62
+00:04:19,562 --> 00:04:24,037
+Computer writers joked that it really stood for, let's invent some acronyms.
+
+63
+00:04:24,527 --> 00:04:26,597
+Andy Hertzfeld, who worked at Apple,
+
+64
+00:04:26,927 --> 00:04:31,017
+wrote that the marketing team built the acronym from the name in late 1982,
+
+65
+00:04:31,587 --> 00:04:33,777
+after the replacement names were all rejected.
+
+66
+00:04:34,402 --> 00:04:38,577
+Chrisann Brennan says Jobs's first choice for the computer had been Claire,
+
+67
+00:04:38,587 --> 00:04:42,517
+and that she never gave permission for her daughter's name to be used.
+
+68
+00:04:42,981 --> 00:04:45,716
+Inside the company, some developers had their own version:
+
+69
+00:04:46,086 --> 00:04:48,056
+Lisa, invented stupid acronym.
+
+70
+00:04:48,613 --> 00:04:50,603
+The Lisa did not do what Apple had hoped.
+
+71
+00:04:51,573 --> 00:04:55,263
+Estimates of how many were sold range from about ten thousand to sixty thousand.
+
+72
+00:04:55,872 --> 00:04:58,627
+Jobs was taken off the Lisa project before it shipped,
+
+73
+00:04:58,997 --> 00:05:00,887
+and his attention moved to the Macintosh.
+
+74
+00:05:01,633 --> 00:05:04,648
+Apple launched it in January and began shipping it in June,
+
+75
+00:05:04,658 --> 00:05:07,088
+in a campaign that said it works the way you do.
+
+76
+00:05:21,300 --> 00:05:25,690
+In her memoir, Lisa Brennan-Jobs says that as a teenager she asked her father,
+
+77
+00:05:26,040 --> 00:05:29,410
+casually but hopefully, whether the computer was named after her.
+
+78
+00:05:29,894 --> 00:05:31,889
+She writes that he answered no.
+
+79
+00:05:32,444 --> 00:05:35,014
+She also writes that she held on to the belief anyway,
+
+80
+00:05:35,464 --> 00:05:37,034
+and that it helped her sense of herself.
+
+81
+00:05:37,533 --> 00:05:41,383
+Near the end of his life, Jobs told the biographer Walter Isaacson that,
+
+82
+00:05:41,453 --> 00:05:43,683
+obviously, it was named for his daughter.
+
+83
+00:05:44,205 --> 00:05:47,560
+So the record holds two answers to one question: a no,
+
+84
+00:05:47,990 --> 00:05:51,920
+as she remembers it, and a yes, as Isaacson reported it.
+
+85
+00:05:52,290 --> 00:05:54,210
+The film does not decide between them.
+
+86
+00:05:54,580 --> 00:05:56,910
+It sets them side by side, with their dates.
+
+87
+00:06:02,528 --> 00:06:06,163
+Walter Isaacson's biography says that Jobs later acknowledged her,
+
+88
+00:06:06,433 --> 00:06:09,523
+and that around the age of fourteen she moved in with him and his family.
+
+89
+00:06:10,163 --> 00:06:11,553
+According to Chrisann Brennan,
+
+90
+00:06:11,903 --> 00:06:14,253
+when Lisa was nine she asked to change her surname,
+
+91
+00:06:14,543 --> 00:06:17,859
+and Jobs had her birth certificate changed to Brennan-Jobs.
+
+92
+00:06:18,254 --> 00:06:21,729
+In interviews, she has described coldness, and moments of joy.
+
+93
+00:06:22,316 --> 00:06:25,866
+Jobs told Isaacson that he had done things he was not proud of,
+
+94
+00:06:26,016 --> 00:06:28,506
+such as getting his girlfriend pregnant at twenty-three,
+
+95
+00:06:28,516 --> 00:06:29,646
+and the way he handled that.
+
+96
+00:06:30,067 --> 00:06:33,477
+He also told Isaacson that he wished he had handled it differently,
+
+97
+00:06:34,007 --> 00:06:37,917
+that he could not see himself as a father then, and so he did not face up to it.
+
+98
+00:06:38,338 --> 00:06:42,869
+Steve Jobs died on 5 October 2011, at the age of fifty-six.
+
+99
+00:06:43,269 --> 00:06:44,499
+In October 2011,
+
+100
+00:06:44,749 --> 00:06:47,779
+CBS's 60 Minutes reported that he had denied paternity
+
+101
+00:06:47,789 --> 00:06:50,619
+and refused to pay support until the courts intervened.
+
+102
+00:06:51,247 --> 00:06:53,402
+The same report used the word neglected,
+
+103
+00:06:53,872 --> 00:06:56,202
+and said she moved in with the family as a teenager.
+
+104
+00:06:56,897 --> 00:07:00,172
+In 2018, Lisa Brennan-Jobs published Small Fry,
+
+105
+00:07:00,422 --> 00:07:03,812
+a memoir of growing up between her mother's home and her father's.
+
+106
+00:07:04,216 --> 00:07:06,666
+She has said she wrote it without self-pity,
+
+107
+00:07:06,676 --> 00:07:09,226
+and chose to start with the parts she was ashamed of.
+
+108
+00:07:42,928 --> 00:07:47,643
+Set side by side, the record shows a no in 1980, and, decades later,
+
+109
+00:07:47,953 --> 00:07:50,903
+a father who told a biographer he wished he had done it differently.
+
+110
+00:07:57,695 --> 00:08:00,690
+Neither the court reports nor the memoir offer a verdict,
+
+111
+00:08:01,080 --> 00:08:03,130
+and this film does not offer one either.
+
+112
+00:08:10,900 --> 00:08:12,490
+The name is still on the computer,
+
+113
+00:08:13,000 --> 00:08:16,990
+and the child in that magazine paragraph is a writer with a book of her own.
+
+114
+00:08:17,617 --> 00:08:22,227
+A no in 1980, a yes at the end. Which should the name remember?
+
