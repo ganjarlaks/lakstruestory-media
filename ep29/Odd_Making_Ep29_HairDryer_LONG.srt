@@ -50,372 +50,612 @@ and how it moved from
 the salon to the home.
 
 12
-00:00:38,333 --> 00:00:41,763
+00:00:38,333 --> 00:00:40,823
+Long before anyone dried
+hair with a machine,
+
+13
+00:00:41,153 --> 00:00:42,523
+people shaped it with heat.
+
+14
+00:00:43,033 --> 00:00:46,613
+The ancient Egyptians are said
+to have worn elaborate wigs and
+
+15
+00:00:46,653 --> 00:00:49,683
+used a bronze tool that
+could be warmed to curl hair.
+
+16
+00:00:50,153 --> 00:00:53,493
+The pictures here come from a
+film of about nineteen fifty that
+
+17
+00:00:53,533 --> 00:00:56,283
+staged hairstyles through
+the ages with actors,
+
+18
+00:00:56,483 --> 00:00:58,943
+so they are stand-ins, not records.
+
+19
+00:00:59,660 --> 00:01:02,880
+The Romans are thought to have used
+a form of curling tongs called
+
+20
+00:01:02,920 --> 00:01:04,010
+a calamistrum.
+
+21
+00:01:04,500 --> 00:01:06,790
+Examples have been found at Pompeii.
+
+22
+00:01:07,060 --> 00:01:09,340
+Heat was the secret to
+making hair hold a curl,
+
+23
+00:01:09,380 --> 00:01:10,750
+and it still is.
+
+24
+00:01:10,980 --> 00:01:14,500
+But heat took skill, a fire,
+and a great deal of patience,
+
+25
+00:01:14,540 --> 00:01:17,210
+from the hairdresser
+and from the customer.
+
+26
+00:01:17,678 --> 00:01:21,198
+By the sixteen hundreds,
+hairdressers used pipe-clay curlers
+
+27
+00:01:21,238 --> 00:01:23,448
+that were heated in
+an oven before use.
+
+28
+00:01:23,938 --> 00:01:26,838
+Another method wrapped hair around
+wooden sticks that had been
+
+29
+00:01:26,878 --> 00:01:28,668
+boiled or warmed first.
+
+30
+00:01:29,118 --> 00:01:32,498
+Each section had to be curled
+and then left to dry before the
+
+31
+00:01:32,538 --> 00:01:33,728
+next one could begin.
+
+32
+00:01:34,265 --> 00:01:36,245
+Rollers were often left in overnight,
+
+33
+00:01:36,285 --> 00:01:39,035
+so the curls could
+set as the hair dried.
+
+34
+00:01:39,405 --> 00:01:41,795
+Drying was simply
+something that took hours.
+
+35
+00:01:42,396 --> 00:01:44,306
+Then, in eighteen seventy-two,
+
+36
+00:01:44,536 --> 00:01:48,286
+a French hairdresser named Marcel
+Grateau caused a sensation.
+
+37
+00:01:48,676 --> 00:01:51,636
+He used heated tongs to
+press soft waves into hair,
+
+38
+00:01:51,676 --> 00:01:53,286
+instead of tight curls.
+
+39
+00:01:53,716 --> 00:01:55,946
+It became known as the Marcel wave.
+
+40
+00:01:56,396 --> 00:01:58,176
+Accounts differ on the exact year,
+
+41
+00:01:58,216 --> 00:02:00,666
+and some say eighteen seventy-five.
+
+42
+00:02:01,483 --> 00:02:04,563
+The tongs were heated over a gas
+burner or placed in the fire,
+
+43
+00:02:04,603 --> 00:02:06,273
+and that was risky.
+
+44
+00:02:06,763 --> 00:02:09,893
+Tongs that overheated could
+singe the customer's head.
+
+45
+00:02:10,418 --> 00:02:12,868
+Grateau later moved
+to the United States,
+
+46
+00:02:13,138 --> 00:02:16,598
+changed his name, and took out
+a patent for a curling iron in
+
+47
+00:02:16,638 --> 00:02:17,608
+nineteen oh five.
+
+48
+00:02:18,218 --> 00:02:21,528
+In nineteen eighteen, he
+patented an electric version.
+
+49
+00:02:22,163 --> 00:02:23,213
+In nineteen fourteen,
+
+50
+00:02:23,623 --> 00:02:27,143
+a patent for a heated comb for
+drying hair was granted to Emilia
+
+51
+00:02:27,183 --> 00:02:29,193
+Baum in the United States.
+
+52
+00:02:29,503 --> 00:02:31,293
+It could dry a little at a time,
+
+53
+00:02:31,483 --> 00:02:33,433
+but nothing could dry a whole head.
+
+54
+00:02:33,845 --> 00:02:35,875
+So by the end of the
+nineteenth century,
+
+55
+00:02:36,145 --> 00:02:38,145
+hairdressers had a
+fashionable heat tool,
+
+56
+00:02:38,185 --> 00:02:41,215
+and a growing number of
+customers with wet hair.
+
+57
+00:02:41,565 --> 00:02:44,515
+What they did not have was
+any way to dry it faster.
+
+58
+00:02:45,045 --> 00:02:48,775
+Sources describe an odd workaround
+around the turn of the century:
+
+59
+00:02:49,145 --> 00:02:51,975
+people used vacuum cleaners
+to dry their hair.
+
+60
+00:02:52,105 --> 00:02:54,435
+We could not confirm
+how common that was.
+
+61
+00:02:55,047 --> 00:02:57,187
+That was the problem
+waiting to be solved,
+
+62
+00:02:57,227 --> 00:03:00,507
+and one French hairdresser,
+with a gas stove in his shop,
+
+63
+00:03:00,547 --> 00:03:02,077
+was about to try.
+
+64
+00:03:08,733 --> 00:03:12,163
 For most of history, wet hair
 simply dried in the air.
 
-13
-00:00:42,113 --> 00:00:44,613
+65
+00:03:12,513 --> 00:03:15,013
 That began to change in
 the late eighteen hundreds,
 
-14
-00:00:44,653 --> 00:00:45,463
+66
+00:03:15,053 --> 00:03:15,863
 in France.
 
-15
-00:00:46,102 --> 00:00:47,272
+67
+00:03:16,502 --> 00:03:17,672
 In eighteen eighty-eight,
 
-16
-00:00:47,682 --> 00:00:51,462
+68
+00:03:18,082 --> 00:03:21,862
 a French hairdresser named
 Alexandre Godefroy proposed covering
 
-17
-00:00:51,502 --> 00:00:55,762
+69
+00:03:21,902 --> 00:03:26,162
 a damp head with a bonnet linked
 by a tube to the hot air outlet
 
-18
-00:00:55,802 --> 00:00:56,952
+70
+00:03:26,202 --> 00:03:27,352
 of a gas stove.
 
-19
-00:00:57,462 --> 00:01:00,052
+71
+00:03:27,862 --> 00:03:30,452
 Some sources give the
 year as eighteen ninety.
 
-20
-00:01:00,749 --> 00:01:04,139
+72
+00:03:31,149 --> 00:03:34,539
 It was a large, seated machine
 made for his own salon.
 
-21
-00:01:04,449 --> 00:01:08,179
+73
+00:03:34,849 --> 00:03:38,579
 It was not portable, and the
 customer had to sit under it.
 
-22
-00:01:08,389 --> 00:01:11,879
+74
+00:03:38,789 --> 00:03:42,279
 His idea set off a number of
 variations around the world.
 
-23
-00:01:12,258 --> 00:01:16,218
+75
+00:03:42,658 --> 00:03:46,618
 In nineteen eleven, an Armenian
 American inventor named Gabriel
 
-24
-00:01:16,258 --> 00:01:20,038
+76
+00:03:46,658 --> 00:03:50,438
 Kazanjian became the first person
 to patent a hair dryer in the
 
-25
-00:01:20,078 --> 00:01:21,148
+77
+00:03:50,478 --> 00:03:51,548
 United States.
 
-26
-00:01:21,338 --> 00:01:25,948
+78
+00:03:51,738 --> 00:03:56,348
 We found no film of Godefroy's
 bonnet or of Kazanjian's dryer.
 
-27
-00:01:26,338 --> 00:01:29,068
+79
+00:03:56,738 --> 00:03:59,468
 The pictures in this
 chapter are stand-ins:
 
-28
-00:01:29,378 --> 00:01:31,678
+80
+00:03:59,778 --> 00:04:02,078
 salon scenes filmed in
 nineteen forty-one,
 
-29
-00:01:31,718 --> 00:01:34,508
+81
+00:04:02,118 --> 00:04:04,908
 when the technology
 was already far along.
 
-30
-00:01:34,928 --> 00:01:38,028
+82
+00:04:05,328 --> 00:04:08,428
 For a while, the hair dryer was
 something you went to a salon
 
-31
-00:01:38,068 --> 00:01:38,918
+83
+00:04:08,468 --> 00:04:09,318
 to use.
 
-32
-00:01:45,500 --> 00:01:46,770
-Around nineteen twenty,
+84
+00:04:15,900 --> 00:04:19,560
+Around nineteen twenty, hair
+dryers began to go on sale in a
 
-33
-00:01:47,120 --> 00:01:50,390
-hair dryers began to go on
-sale in a handheld form.
+85
+00:04:19,600 --> 00:04:20,790
+handheld form.
 
-34
-00:01:50,880 --> 00:01:53,940
+86
+00:04:21,280 --> 00:04:24,340
 Sources credit the National
 Stamping and Electric Works,
 
-35
-00:01:53,980 --> 00:01:58,180
+87
+00:04:24,380 --> 00:04:28,580
 under the White Cross brand, and
 later the Racine Universal Motor
 
-36
-00:01:58,220 --> 00:02:00,710
+88
+00:04:28,620 --> 00:04:31,110
 Company and the
 Hamilton Beach company,
 
-37
-00:02:00,840 --> 00:02:03,950
+89
+00:04:31,240 --> 00:04:34,350
 for making the motor and the
 fan small enough to hold.
 
-38
-00:02:04,409 --> 00:02:06,919
+90
+00:04:34,809 --> 00:04:37,319
 These dryers were not
 easy to live with.
 
-39
-00:02:07,029 --> 00:02:08,649
+91
+00:04:37,429 --> 00:04:39,049
 They often weighed about two pounds,
 
-40
-00:02:08,689 --> 00:02:11,299
+92
+00:04:39,089 --> 00:04:41,699
 and they ran at around
 a hundred watts,
 
-41
-00:02:11,609 --> 00:02:13,599
+93
+00:04:42,009 --> 00:04:43,999
 so hair took a long time to dry.
 
-42
-00:02:13,989 --> 00:02:16,959
+94
+00:04:44,389 --> 00:04:47,359
 A modern dryer can use up
 to two thousand watts.
 
-43
-00:02:17,518 --> 00:02:19,148
+95
+00:04:47,918 --> 00:04:49,548
 They could also be dangerous.
 
-44
-00:02:19,638 --> 00:02:23,398
+96
+00:04:50,038 --> 00:04:53,798
 One source describes hundreds of
 electrocution accidents involving
 
-45
-00:02:23,438 --> 00:02:26,268
+97
+00:04:53,838 --> 00:04:56,668
 dryers in the middle of
 the twentieth century.
 
-46
-00:02:26,598 --> 00:02:28,308
+98
+00:04:56,998 --> 00:04:58,708
 We could not confirm the number.
 
-47
-00:02:28,848 --> 00:02:30,838
+99
+00:04:59,248 --> 00:05:01,238
 Even so, the idea spread.
 
-48
-00:02:31,408 --> 00:02:33,578
+100
+00:05:01,808 --> 00:05:03,978
 Salons kept their helmet dryers,
 
-49
-00:02:33,668 --> 00:02:36,598
+101
+00:05:04,068 --> 00:05:06,998
 set in a row so that customers
 could read magazines,
 
-50
-00:02:36,948 --> 00:02:39,838
+102
+00:05:07,348 --> 00:05:10,238
 or shout to each other over
 the sound of the fans.
 
-51
-00:02:40,008 --> 00:02:42,788
+103
+00:05:10,408 --> 00:05:13,188
 We have no film of the
 early handheld dryers,
 
-52
-00:02:42,828 --> 00:02:46,008
+104
+00:05:13,228 --> 00:05:16,408
 so the pictures in this chapter
 come from a nineteen fifty-nine
 
-53
-00:02:46,048 --> 00:02:48,558
+105
+00:05:16,448 --> 00:05:18,958
 film about barbers and beauticians.
 
-54
-00:03:02,233 --> 00:03:05,983
+106
+00:05:32,633 --> 00:05:36,383
 By the nineteen forties, a trip to
 the beauty salon meant rollers,
 
-55
-00:03:06,333 --> 00:03:08,803
+107
+00:05:36,733 --> 00:05:39,203
 a row of metal hoods and a long wait.
 
-56
-00:03:09,413 --> 00:03:12,883
+108
+00:05:39,813 --> 00:05:43,283
 Hot air blew from small openings
 around the inside of the hood,
 
-57
-00:03:12,993 --> 00:03:14,563
+109
+00:05:43,393 --> 00:05:44,963
 so the hair dried evenly.
 
-58
-00:03:15,067 --> 00:03:18,777
+110
+00:05:45,467 --> 00:05:49,177
 The dryer also changed how
 often people washed their hair.
 
-59
-00:03:19,207 --> 00:03:22,737
+111
+00:05:49,607 --> 00:05:53,137
 One writer notes that it sparked
 a new focus on hair hygiene,
 
-60
-00:03:22,867 --> 00:03:25,057
+112
+00:05:53,267 --> 00:05:55,457
 with people washing more regularly,
 
-61
-00:03:25,207 --> 00:03:27,397
+113
+00:05:55,607 --> 00:05:57,797
 which was good news
 for shampoo makers.
 
-62
-00:03:28,147 --> 00:03:31,917
+114
+00:05:58,547 --> 00:06:02,317
 In nineteen fifty-one, a different
 kind of dryer reached shoppers:
 
-63
-00:03:32,207 --> 00:03:33,277
+115
+00:06:02,607 --> 00:06:03,677
 the bonnet dryer.
 
-64
-00:03:33,607 --> 00:03:37,447
+116
+00:06:04,007 --> 00:06:07,847
 A small box blew warm air through
 a tube into a bonnet with holes
 
-65
-00:03:37,487 --> 00:03:40,317
+117
+00:06:07,887 --> 00:06:10,717
 in it, and the whole thing
 could sit on a head at home.
 
-66
-00:03:40,772 --> 00:03:44,642
+118
+00:06:11,172 --> 00:06:15,042
 The nineteen fifties were also
 the decade of the electric home.
 
-67
-00:03:45,132 --> 00:03:48,572
+119
+00:06:15,532 --> 00:06:18,972
 Electric companies sponsored
 films that showed families with
 
-68
-00:03:48,612 --> 00:03:50,352
+120
+00:06:19,012 --> 00:06:20,752
 new appliances in every room,
 
-69
-00:03:50,392 --> 00:03:52,882
+121
+00:06:20,792 --> 00:06:23,282
 and a dryer for hair fit right in.
 
-70
-00:03:59,400 --> 00:04:00,690
+122
+00:06:29,800 --> 00:06:31,090
 In nineteen fifty-four,
 
-71
-00:04:01,080 --> 00:04:05,060
+123
+00:06:31,480 --> 00:06:35,460
 the British company GEC changed
 the design of the handheld dryer
 
-72
-00:04:05,100 --> 00:04:07,730
+124
+00:06:35,500 --> 00:06:38,130
 by moving the motor inside the casing.
 
-73
-00:04:14,433 --> 00:04:17,753
+125
+00:06:44,833 --> 00:06:48,153
 In the nineteen sixties, better
 electric motors and the move
 
-74
-00:04:17,793 --> 00:04:19,803
+126
+00:06:48,193 --> 00:06:50,203
 to plastic made dryers lighter,
 
-75
-00:04:20,033 --> 00:04:21,843
+127
+00:06:50,433 --> 00:06:52,243
 and that change caught on quickly.
 
-76
-00:04:22,344 --> 00:04:25,154
+128
+00:06:52,744 --> 00:06:55,554
 Since the nineteen
 twenties, one source notes,
 
-77
-00:04:25,524 --> 00:04:27,924
+129
+00:06:55,924 --> 00:06:58,324
 most of the development
 has gone into more watts,
 
-78
-00:04:27,964 --> 00:04:31,034
+130
+00:06:58,364 --> 00:07:01,434
 and into the materials
 and the look of the dryer.
 
-79
-00:04:31,576 --> 00:04:33,546
+131
+00:07:01,976 --> 00:07:03,946
 Hood dryers did not disappear.
 
-80
-00:04:34,076 --> 00:04:37,866
+132
+00:07:04,476 --> 00:07:08,266
 Salons still use them, now
 with a hard plastic dome.
 
-81
-00:04:38,136 --> 00:04:41,816
+133
+00:07:08,536 --> 00:07:12,216
 And a handheld dryer in a home
 today can use up to two thousand
 
-82
-00:04:41,856 --> 00:04:42,386
+134
+00:07:12,256 --> 00:07:12,786
 watts,
 
-83
-00:04:42,756 --> 00:04:45,566
+135
+00:07:13,156 --> 00:07:15,966
 twenty times the power of
 a nineteen twenties model.
 
-84
-00:04:54,100 --> 00:04:57,130
+136
+00:07:24,500 --> 00:07:27,530
 A French hairdresser tied
 a bonnet to a gas stove.
 
-85
-00:04:57,540 --> 00:04:59,910
+137
+00:07:27,940 --> 00:07:30,310
 An American inventor patented a dryer.
 
-86
-00:05:00,240 --> 00:05:03,900
+138
+00:07:30,640 --> 00:07:34,300
 Around nineteen twenty,
 manufacturers shrank the motor until
 
-87
-00:05:03,940 --> 00:05:05,150
+139
+00:07:34,340 --> 00:07:35,550
 it fit in a hand.
 
-88
-00:05:05,420 --> 00:05:09,060
+140
+00:07:35,820 --> 00:07:39,460
 And a machine that once needed a
 whole salon now sits in a drawer
 
-89
-00:05:09,100 --> 00:05:12,290
+141
+00:07:39,500 --> 00:07:42,690
 in the bathroom, and most
 of us never think about it.
 
-90
-00:05:12,746 --> 00:05:13,936
+142
+00:07:43,146 --> 00:07:44,336
 Ordinary objects.
 
-91
-00:05:14,186 --> 00:05:15,556
+143
+00:07:44,586 --> 00:07:45,956
 Extraordinary stories.

@@ -7,11 +7,12 @@ The First Hair Dryer Was A Bonnet Connected To A Gas Stove
 Before the handheld dryer in your bathroom, there was a bonnet connected by a tube to a gas stove. This is the story of the hair dryer: a French hairdresser's idea, an American patent, a motor small enough to hold, and a row of metal helmets in the salon.
 
 0:00 The bonnet and the stove
-0:32 Chapter 1: The Bonnet Years
-1:39 Chapter 2: The Handheld Dryer
-2:56 Chapter 3: The Salon Years
-3:53 Chapter 4: The Modern Dryer
-5:19 Sources
+0:32 Chapter 1: Before The Dryer
+3:02 Chapter 2: The Bonnet Years
+4:09 Chapter 3: The Handheld Dryer
+5:26 Chapter 4: The Salon Years
+6:23 Chapter 5: The Modern Dryer
+7:51 Sources
 
 A note on the footage: we found no film of Godefroy's bonnet, of Kazanjian's dryer or of the early handheld dryers. The pictures are stand-ins from the Internet Archive (public domain): "Caroll's Beauty Salon" (about 1941), "Barbers" (about 1959), "Much Ado About Hair-Dos" (a Universal-International newsreel), "Hair Dress Through the Ages" (about 1950), and "Mother Takes a Holiday" (1952, a sponsored company film). The old films are silent or carry their own narration, so we did not use their sound. The short blow dryer sounds are real recordings by D. D. Teoli Jr. (Internet Archive, Public Domain Mark), placed over salon pictures. Footage is enhanced from low-resolution film scans. Dates and figures are checked against the sources on the final card; the hedged ones are hedged (sources disagree on 1888 vs 1890, and the electrocution figure is unconfirmed).
 
