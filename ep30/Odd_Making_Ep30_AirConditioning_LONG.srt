@@ -1,0 +1,809 @@
+1
+00:00:00,000 --> 00:00:02,530
+On Memorial Day, nineteen twenty-five,
+
+2
+00:00:02,860 --> 00:00:05,110
+at the Rivoli Theater in Times Square,
+
+3
+00:00:05,420 --> 00:00:08,300
+a group of engineers stood
+watching the audience's cardboard
+
+4
+00:00:08,340 --> 00:00:09,250
+fans.
+
+5
+00:00:09,660 --> 00:00:11,750
+As long as the fans kept fluttering,
+
+6
+00:00:12,080 --> 00:00:13,870
+the experiment had not worked.
+
+7
+00:00:14,220 --> 00:00:18,150
+The cooling system had started late
+because of last-minute adjustments,
+
+8
+00:00:18,320 --> 00:00:19,610
+and the room was hot.
+
+9
+00:00:20,186 --> 00:00:23,926
+Then, as the air cooled, one
+patron after another put the fan
+
+10
+00:00:23,966 --> 00:00:24,516
+away.
+
+11
+00:00:24,986 --> 00:00:27,906
+The man who had been watching
+the fans instead of the film was
+
+12
+00:00:27,946 --> 00:00:30,716
+Adolph Zukor, the head
+of Paramount Pictures.
+
+13
+00:00:31,126 --> 00:00:33,056
+After the film, in the lobby,
+
+14
+00:00:33,246 --> 00:00:35,456
+he said that people
+were going to like it.
+
+15
+00:00:35,991 --> 00:00:39,051
+But the machine that cooled that
+room had been designed for an
+
+16
+00:00:39,091 --> 00:00:40,441
+odd first customer.
+
+17
+00:00:40,751 --> 00:00:42,661
+It was not made for people at all.
+
+18
+00:00:42,951 --> 00:00:44,201
+It was made for paper.
+
+19
+00:00:44,764 --> 00:00:47,054
+This is the story of air conditioning,
+
+20
+00:00:47,284 --> 00:00:50,604
+and how a printing problem in
+Brooklyn ended up in nearly every
+
+21
+00:00:50,644 --> 00:00:51,174
+home.
+
+22
+00:00:57,733 --> 00:01:01,613
+In nineteen oh one, a young engineer
+named Willis Carrier graduated
+
+23
+00:01:01,653 --> 00:01:02,623
+from Cornell.
+
+24
+00:01:03,253 --> 00:01:06,803
+In nineteen oh two, he was working
+at the Buffalo Forge company,
+
+25
+00:01:07,033 --> 00:01:09,083
+and he was sent to a
+problem in Brooklyn.
+
+26
+00:01:09,701 --> 00:01:13,021
+A printing plant called Sackett
+and Wilhelms was struggling with
+
+27
+00:01:13,061 --> 00:01:14,271
+humid summer air.
+
+28
+00:01:14,781 --> 00:01:17,371
+Paper soaked up moisture and swelled.
+
+29
+00:01:17,701 --> 00:01:19,941
+The colored inks no longer lined up,
+
+30
+00:01:19,981 --> 00:01:22,671
+and the ink on the pages
+would not dry properly.
+
+31
+00:01:23,101 --> 00:01:26,601
+That caused deadline trouble
+for the humor magazine the plant
+
+32
+00:01:26,641 --> 00:01:27,391
+printed.
+
+33
+00:01:27,961 --> 00:01:30,651
+Carrier's answer was not
+only to cool the air,
+
+34
+00:01:30,921 --> 00:01:32,791
+but to control how wet it was.
+
+35
+00:01:33,221 --> 00:01:35,811
+His design is dated the
+seventeenth of July,
+
+36
+00:01:36,101 --> 00:01:36,971
+nineteen oh two.
+
+37
+00:01:37,501 --> 00:01:40,921
+It aimed to hold the plant at a
+steady fifty-five percent humidity
+
+38
+00:01:40,961 --> 00:01:44,881
+all year round, at about seventy
+degrees in winter and eighty
+
+39
+00:01:44,921 --> 00:01:45,651
+in summer.
+
+40
+00:01:46,156 --> 00:01:48,566
+The job was big for a young engineer.
+
+41
+00:01:49,056 --> 00:01:51,616
+The plan called for about
+sixty tons of cooling,
+
+42
+00:01:51,656 --> 00:01:55,456
+which is roughly the effect of
+melting a hundred and eight thousand
+
+43
+00:01:55,496 --> 00:01:56,766
+pounds of ice a day.
+
+44
+00:01:57,036 --> 00:02:00,806
+The second floor was meant to hold
+sixty color printing presses,
+
+45
+00:02:00,996 --> 00:02:04,266
+and every one of them depended
+on paper that did not move.
+
+46
+00:02:04,742 --> 00:02:08,122
+The machine was built in Buffalo
+and installed in the plant that
+
+47
+00:02:08,162 --> 00:02:08,792
+summer.
+
+48
+00:02:09,262 --> 00:02:12,432
+Many histories call it the birth
+of modern air conditioning.
+
+49
+00:02:12,822 --> 00:02:16,782
+It cooled the air, but the real
+goal was dry paper and straight
+
+50
+00:02:16,822 --> 00:02:17,452
+colors.
+
+51
+00:02:18,216 --> 00:02:20,286
+We found no film of
+the Brooklyn plant.
+
+52
+00:02:20,476 --> 00:02:22,726
+One local article adds an irony:
+
+53
+00:02:23,116 --> 00:02:25,626
+the old building now
+houses an art program,
+
+54
+00:02:25,776 --> 00:02:28,326
+and it says the summer
+cooling there is inadequate.
+
+55
+00:02:28,916 --> 00:02:31,466
+The pictures in this
+chapter are stand-ins:
+
+56
+00:02:31,716 --> 00:02:34,876
+factory scenes from a nineteen
+forty-five training film about
+
+57
+00:02:34,916 --> 00:02:36,626
+heating and air conditioning,
+
+58
+00:02:36,956 --> 00:02:39,646
+so they show a later
+era of the technology,
+
+59
+00:02:39,836 --> 00:02:41,266
+not the original machine.
+
+60
+00:02:47,867 --> 00:02:50,987
+For a few years, the idea was
+a business secret waiting for a
+
+61
+00:02:51,027 --> 00:02:51,457
+name.
+
+62
+00:02:51,907 --> 00:02:54,297
+In nineteen oh six, on
+the second of January,
+
+63
+00:02:54,527 --> 00:02:57,716
+Carrier was granted United States
+patent number eight hundred
+
+64
+00:02:57,756 --> 00:03:00,077
+eight thousand, eight
+hundred ninety-seven.
+
+65
+00:03:00,247 --> 00:03:02,717
+It was called "Apparatus
+for Treating Air."
+
+66
+00:03:03,207 --> 00:03:04,717
+Notice that it says treating,
+
+67
+00:03:04,907 --> 00:03:05,677
+not cooling.
+
+68
+00:03:06,127 --> 00:03:07,687
+The goal was to control the air,
+
+69
+00:03:07,727 --> 00:03:09,937
+and cold was only one tool.
+
+70
+00:03:10,471 --> 00:03:13,001
+The name we use today
+arrived the same year.
+
+71
+00:03:13,411 --> 00:03:17,051
+In May of nineteen oh six, a
+North Carolina textile engineer
+
+72
+00:03:17,091 --> 00:03:21,311
+named Stuart Cramer used the phrase
+"air conditioning" in a speech
+
+73
+00:03:21,351 --> 00:03:22,921
+to cotton mill owners.
+
+74
+00:03:23,171 --> 00:03:25,591
+He was talking about
+humidity in mills,
+
+75
+00:03:25,631 --> 00:03:27,421
+not comfort in living rooms.
+
+76
+00:03:28,076 --> 00:03:29,746
+Factories were the first buyers.
+
+77
+00:03:30,216 --> 00:03:33,936
+Textile mills, printers and food
+makers all needed air that stayed
+
+78
+00:03:33,976 --> 00:03:36,346
+the same all day, in every season.
+
+79
+00:03:36,736 --> 00:03:39,866
+Nobody was yet selling cool
+air to ordinary people.
+
+80
+00:03:40,216 --> 00:03:43,696
+In nineteen oh seven, one early
+order was a silk weaving plant
+
+81
+00:03:43,736 --> 00:03:46,646
+system, delivered for about
+thirty-one hundred dollars.
+
+82
+00:03:47,216 --> 00:03:51,146
+Textile makers cared about
+humidity just as printers did.
+
+83
+00:03:51,618 --> 00:03:54,748
+In nineteen fifteen, on
+the twenty-sixth of June,
+
+84
+00:03:54,978 --> 00:03:58,308
+Carrier and six other engineers
+set up their own firm,
+
+85
+00:03:58,638 --> 00:04:00,338
+the Carrier Engineering Corporation,
+
+86
+00:04:00,378 --> 00:04:03,788
+with thirty-two thousand six
+hundred dollars in capital.
+
+87
+00:04:04,274 --> 00:04:06,244
+Then, in nineteen twenty-two,
+
+88
+00:04:06,534 --> 00:04:09,764
+the company introduced its
+first centrifugal chiller.
+
+89
+00:04:10,114 --> 00:04:13,594
+It is widely described as the
+machine that made cooling very
+
+90
+00:04:13,634 --> 00:04:17,474
+large spaces practical, though
+the full engineering story is
+
+91
+00:04:17,514 --> 00:04:19,704
+more complicated than one invention.
+
+92
+00:04:20,194 --> 00:04:22,444
+It was unveiled in May of that year.
+
+93
+00:04:22,850 --> 00:04:25,560
+We found no film of the
+early Carrier machines.
+
+94
+00:04:26,150 --> 00:04:28,660
+The pictures in this
+chapter are stand-ins:
+
+95
+00:04:28,990 --> 00:04:31,570
+Washington photographs from
+the Library of Congress,
+
+96
+00:04:31,610 --> 00:04:35,430
+showing air conditioning machinery
+and the rooftop work at a
+
+97
+00:04:35,470 --> 00:04:39,070
+hotel, from roughly the nineteen
+twenties to the nineteen forties.
+
+98
+00:04:39,110 --> 00:04:42,720
+The exact dates of those
+photographs are not certain.
+
+99
+00:04:49,267 --> 00:04:51,517
+So who would pay for
+cool air for people?
+
+100
+00:04:51,847 --> 00:04:53,677
+The answer was the movie theatre.
+
+101
+00:04:54,087 --> 00:04:57,387
+Summer had always been the season
+when theatres lost their crowds,
+
+102
+00:04:57,427 --> 00:05:01,657
+because a hall full of people
+in July is a very hot place.
+
+103
+00:05:02,067 --> 00:05:05,617
+One account says movie houses
+simply closed in the summer.
+
+104
+00:05:06,180 --> 00:05:08,910
+The Rivoli in nineteen
+twenty-five was the test.
+
+105
+00:05:09,300 --> 00:05:11,550
+The system started late, as we heard,
+
+106
+00:05:11,680 --> 00:05:14,200
+but once the room cooled,
+the fans went away,
+
+107
+00:05:14,240 --> 00:05:16,130
+and the idea was proven.
+
+108
+00:05:16,700 --> 00:05:18,590
+Cooling also helped the studios.
+
+109
+00:05:18,820 --> 00:05:22,180
+The new talking pictures needed
+doors and windows kept shut,
+
+110
+00:05:22,220 --> 00:05:26,090
+and cool air kept actors
+comfortable under the bright lights.
+
+111
+00:05:26,640 --> 00:05:29,680
+By nineteen thirty, more than
+three hundred theatres had hung
+
+112
+00:05:29,720 --> 00:05:33,890
+banners from their marquees that
+read "Cooled by Refrigeration."
+
+113
+00:05:34,040 --> 00:05:37,070
+A cool seat became a
+reason to buy a ticket.
+
+114
+00:05:37,420 --> 00:05:40,910
+For the first time, people were
+paying not for a film alone,
+
+115
+00:05:41,000 --> 00:05:43,090
+but for the weather inside the room.
+
+116
+00:05:43,797 --> 00:05:45,597
+This was air conditioning for a crowd,
+
+117
+00:05:45,637 --> 00:05:47,487
+and it was a public treat.
+
+118
+00:05:47,857 --> 00:05:49,887
+Almost no one had it at home yet.
+
+119
+00:05:50,217 --> 00:05:53,377
+To get there, the machine had to
+shrink from a plant in a basement
+
+120
+00:05:53,417 --> 00:05:55,527
+to a box that fit in a window.
+
+121
+00:05:55,985 --> 00:05:58,695
+We found no film of the
+Rivoli on that night.
+
+122
+00:05:59,185 --> 00:06:00,865
+The pictures here are stand-ins:
+
+123
+00:06:00,905 --> 00:06:04,805
+nineteen twenties to nineteen forties
+photographs of air conditioning
+
+124
+00:06:04,845 --> 00:06:07,395
+and lighting at a Washington theatre,
+
+125
+00:06:07,505 --> 00:06:11,255
+and an air conditioning display
+from a Washington electric company.
+
+126
+00:06:17,800 --> 00:06:21,070
+Home units took longer, because
+they were too big and too costly.
+
+127
+00:06:21,500 --> 00:06:23,890
+In nineteen thirty-two, two inventors,
+
+128
+00:06:24,040 --> 00:06:26,530
+Schultz and Sherman, put
+a window unit on sale.
+
+129
+00:06:26,840 --> 00:06:30,430
+It was very expensive, but
+sources disagree on how much.
+
+130
+00:06:30,860 --> 00:06:33,590
+One gives a price in the tens
+of thousands of dollars.
+
+131
+00:06:34,020 --> 00:06:37,053
+Another says single-room units
+cost as little as four hundred
+
+132
+00:06:37,093 --> 00:06:39,170
+dollars in the nineteen thirties.
+
+133
+00:06:39,340 --> 00:06:42,620
+We could not settle it, and
+either figure was far beyond most
+
+134
+00:06:42,660 --> 00:06:43,390
+families.
+
+135
+00:06:43,930 --> 00:06:47,740
+Later, a man named Henry Galson
+is credited with a smaller,
+
+136
+00:06:47,950 --> 00:06:49,180
+cheaper window unit.
+
+137
+00:06:49,590 --> 00:06:52,810
+One source says he sold more than
+forty-three thousand of them
+
+138
+00:06:52,850 --> 00:06:54,640
+by nineteen forty-seven.
+
+139
+00:06:55,359 --> 00:06:58,599
+By the nineteen sixties, companies
+such as Westinghouse were
+
+140
+00:06:58,639 --> 00:07:00,279
+selling window units to families,
+
+141
+00:07:00,319 --> 00:07:02,969
+in colors and wood-grain finishes.
+
+142
+00:07:03,499 --> 00:07:07,019
+The color film in this chapter
+is a Westinghouse sales film,
+
+143
+00:07:07,059 --> 00:07:08,659
+from about nineteen sixty-six,
+
+144
+00:07:08,699 --> 00:07:13,289
+so it is an advertisement, not
+a neutral record of the time.
+
+145
+00:07:13,712 --> 00:07:17,712
+In nineteen fifty-four, an experiment
+called the Austin Air-Conditioned
+
+146
+00:07:17,752 --> 00:07:21,112
+Village built twenty-two homes
+with cooling designed in from
+
+147
+00:07:21,152 --> 00:07:21,902
+the start.
+
+148
+00:07:22,292 --> 00:07:25,722
+Central air was becoming something
+a house could simply have.
+
+149
+00:07:26,052 --> 00:07:27,302
+In nineteen seventy-five,
+
+150
+00:07:27,712 --> 00:07:31,222
+about forty-six out of every
+hundred new homes had it.
+
+151
+00:07:31,472 --> 00:07:34,262
+By two thousand five, that
+number was eighty-nine.
+
+152
+00:07:35,148 --> 00:07:37,198
+The numbers climbed
+through the century.
+
+153
+00:07:37,568 --> 00:07:38,798
+In nineteen ninety-three,
+
+154
+00:07:39,208 --> 00:07:43,228
+the same agency counted about
+sixty-six million American households
+
+155
+00:07:43,268 --> 00:07:44,678
+with air conditioning.
+
+156
+00:07:45,188 --> 00:07:47,908
+Among homes built in
+the nineteen seventies,
+
+157
+00:07:47,948 --> 00:07:50,838
+about half had central
+air in the early surveys,
+
+158
+00:07:51,048 --> 00:07:53,938
+and about two thirds had it
+by two thousand fifteen.
+
+159
+00:07:54,717 --> 00:07:57,957
+By two thousand fifteen, the
+United States government's energy
+
+160
+00:07:57,997 --> 00:08:02,277
+agency reported that eighty-seven
+percent of American homes used
+
+161
+00:08:02,317 --> 00:08:03,327
+air conditioning.
+
+162
+00:08:03,647 --> 00:08:07,107
+About sixty percent used
+only central systems,
+
+163
+00:08:07,337 --> 00:08:10,767
+and about twenty-three percent
+used only individual units,
+
+164
+00:08:10,957 --> 00:08:12,267
+such as window units.
+
+165
+00:08:12,737 --> 00:08:14,987
+A little under five percent used both.
+
+166
+00:08:15,600 --> 00:08:18,170
+A young engineer set out
+to fix a printing plant,
+
+167
+00:08:18,340 --> 00:08:20,990
+and what he built was a way of
+controlling the weather indoors.
+
+168
+00:08:21,700 --> 00:08:24,550
+A theatre in Times Square
+cooled a summer crowd.
+
+169
+00:08:24,920 --> 00:08:27,670
+A window unit shrank until
+a family could buy one.
+
+170
+00:08:27,880 --> 00:08:31,340
+And a machine that began by
+keeping paper straight now hums in
+
+171
+00:08:31,380 --> 00:08:34,560
+nearly every home, and most of
+us never think about it until
+
+172
+00:08:34,600 --> 00:08:35,630
+the day it stops,
+
+173
+00:08:35,980 --> 00:08:38,470
+and the room goes
+still and warm again,
+
+174
+00:08:38,620 --> 00:08:40,930
+like that theatre before
+the fans were put away.
+
+175
+00:08:41,867 --> 00:08:42,757
+Ordinary objects.
+
+176
+00:08:42,947 --> 00:08:44,277
+Extraordinary stories.
