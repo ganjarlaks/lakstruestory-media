@@ -1,0 +1,45 @@
+{
+ "under_narration_voice": -16.0,
+ "under_narration_bed": -35.1,
+ "voice_stem": -16.0,
+ "full_mix": -16.2,
+ "BED_UNDER_LU": 19.148,
+ "BED_GAIN_DB": -23.25,
+ "ra": {
+  "R4": {
+   "at": 271.47,
+   "dur": 11.8,
+   "lufs_raw": -21.7,
+   "gain_db": 2.7,
+   "lufs_final": -19.0,
+   "peak_dbfs": -1.1
+  },
+  "R5": {
+   "at": 356.9,
+   "dur": 16.5,
+   "lufs_raw": -24.5,
+   "gain_db": 5.5,
+   "lufs_final": -19.4,
+   "peak_dbfs": -0.9
+  },
+  "R6": {
+   "at": 373.4,
+   "dur": 11.5,
+   "lufs_raw": -25.9,
+   "gain_db": 6.9,
+   "lufs_final": -19.0,
+   "peak_dbfs": -3.1
+  },
+  "R7": {
+   "at": 395.73,
+   "dur": 9.4,
+   "lufs_raw": -23.6,
+   "gain_db": 4.6,
+   "lufs_final": -19.1,
+   "peak_dbfs": -2.5
+  }
+ },
+ "voice_stem_before_scaling": -17.5,
+ "bed_file": "HoliznaCC0 20 Minute Meditation 1, file s 8.0 to 511.9 (same as v2)",
+ "voice_minus_bed_LU": 19.1
+}
