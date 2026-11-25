@@ -1,5 +1,5 @@
 {
- "total_s": 491.3,
+ "total_s": 491.87,
  "classes": {
   "cards": [
    35.0,
@@ -7,15 +7,15 @@
   ],
   "HD video, silent": [
    183.6,
-   37.4
+   37.3
   ],
   "SD video, silent": [
    40.1,
    8.2
   ],
   "typeset": [
-   207.9,
-   42.3
+   208.4,
+   42.4
   ],
   "SD video with real sound": [
    13.2,
@@ -28,11 +28,11 @@
  },
  "real_video_total": [
   248.4,
-  50.6
+  50.5
  ],
  "sd_total": [
   53.3,
-  10.9
+  10.8
  ],
  "by_source": {
   "Al Jazeera English, Libyan Rebels Move Towards Sirte (2), 2011 (720p)": {
@@ -40,7 +40,7 @@
    "sound_s": 0.0
   },
   "Al Jazeera English, Gaddafi and Berlusconi Sign Migrant Agreement (hall banner reads 2009) (720p)": {
-   "silent_s": 23.3,
+   "silent_s": 23.2,
    "sound_s": 0.0
   },
   "Al Jazeera English, Rebel fighters in Libya, 2011 (720p)": {
@@ -56,7 +56,7 @@
    "sound_s": 0.0
   },
   "Al Jazeera English, Tunisia: Riot Police Put Down Weapons, Join Protesters, 2011 (720p)": {
-   "silent_s": 5.3,
+   "silent_s": 5.4,
    "sound_s": 0.0
   },
   "Al Jazeera, Libyan Uprising Day 5 [26.02.11] (640x480 SD, windowboxed, cropped)": {

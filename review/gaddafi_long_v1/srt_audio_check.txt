@@ -1,2 +1,2 @@
-cues matched 106 of 108; first-word start (Whisper on final audio minus SRT): mean -0.085 s, median -0.012, p90 abs 0.506, max abs 0.768
-unmatched [('16', 77.01, 'Abdelbaset al-Megrahi, of the murders.'), ('52', 248.78, 'fifty vehicles.')]
+cues matched 107 of 109; first-word start (Whisper on final audio minus SRT): mean -0.091 s, median -0.015, p90 abs 0.513, max abs 0.768
+unmatched [('16', 77.01, 'Abdelbaset al-Megrahi, of the murders.'), ('53', 249.35, 'fifty vehicles.')]
