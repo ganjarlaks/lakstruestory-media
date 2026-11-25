@@ -1,0 +1,2 @@
+cues matched 97 of 103; first-word start (Whisper on final audio minus SRT): mean -0.103 s, median -0.017, p90 abs 0.530, max abs 0.900
+unmatched [('2', 16.12, 'Nicolás Maduro, in Caracas and took him '), ('8', 34.12, 'Nicolás Maduro was born in Caracas on 23'), ('13', 52.1, 'Chávez was elected president in 1998, an'), ('77', 385.2, "Delcy Rodríguez, Maduro's vice president"), ('80', 409.41, 'Cilia Flores, with narco-terrorism consp'), ('99', 481.0, 'González, who lives in Madrid, has said ')]

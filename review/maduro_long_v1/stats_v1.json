@@ -1,0 +1,80 @@
+{
+ "total_s": 503.9,
+ "classes": {
+  "cards": [
+   35.0,
+   6.9
+  ],
+  "HD video, silent": [
+   259.5,
+   51.5
+  ],
+  "SD video, silent": [
+   39.6,
+   7.9
+  ],
+  "typeset": [
+   120.6,
+   23.9
+  ],
+  "HD video with real sound": [
+   49.2,
+   9.8
+  ]
+ },
+ "real_video_total": [
+  348.3,
+  69.1
+ ],
+ "sd_total": [
+  39.6,
+  7.9
+ ],
+ "by_source": {
+  "NBC Nightly News 4 Jan 2026 (720p)": {
+   "name": "NBC Nightly News 4 Jan 2026 (720p)",
+   "silent_s": 54.6,
+   "sound_s": 11.5
+  },
+  "France 24 3 Jan 2026 (1080p)": {
+   "name": "France 24 3 Jan 2026 (1080p)",
+   "silent_s": 40.4,
+   "sound_s": 9.4
+  },
+  "Al Jazeera English 3 Jan 2026 (1080p)": {
+   "name": "Al Jazeera English 3 Jan 2026 (1080p)",
+   "silent_s": 17.4,
+   "sound_s": 0.0
+  },
+  "ARTE Reportage 2021 (720p)": {
+   "name": "ARTE Reportage 2021 (720p)",
+   "silent_s": 46.4,
+   "sound_s": 0.0
+  },
+  "VOA News, Life and Death of Hugo Chavez 2013 (640x480 SD)": {
+   "name": "VOA News, Life and Death of Hugo Chavez 2013 (640x480 SD)",
+   "silent_s": 22.7,
+   "sound_s": 0.0
+  },
+  "VOA News, Condolences over the death of Hugo Chavez 2013 (640x480 SD)": {
+   "name": "VOA News, Condolences over the death of Hugo Chavez 2013 (640x480 SD)",
+   "silent_s": 16.9,
+   "sound_s": 0.0
+  },
+  "Confidencial 30 Jul 2024 (1080p)": {
+   "name": "Confidencial 30 Jul 2024 (1080p)",
+   "silent_s": 75.6,
+   "sound_s": 0.0
+  },
+  "VICE News Tonight (HBO) 2019 (1080p)": {
+   "name": "VICE News Tonight (HBO) 2019 (1080p)",
+   "silent_s": 15.5,
+   "sound_s": 11.8
+  },
+  "ABC7 New York, Trump address 3 Jan 2026 (720p)": {
+   "name": "ABC7 New York, Trump address 3 Jan 2026 (720p)",
+   "silent_s": 9.5,
+   "sound_s": 16.5
+  }
+ }
+}
