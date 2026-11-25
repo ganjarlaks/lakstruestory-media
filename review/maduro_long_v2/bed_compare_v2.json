@@ -1,0 +1,31 @@
+{
+ "old_Its_Always_Too_Late_to_Start_Over_2x_loop_first_503.9s": {
+  "I": -13.4,
+  "LRA": 2.0,
+  "TP": -0.1,
+  "centroid_hz_energy_weighted": 152.8,
+  "centroid_hz_median": 117.3,
+  "rolloff85_hz_median": 129.2,
+  "hpss_percussive_fraction": 0.13,
+  "onsets_per_min": 54.5,
+  "pulse_autocorr_max_0.3_2s": 0.87,
+  "env50ms_std_dB": 4.22,
+  "env50ms_p95_minus_p5_dB": 13.27,
+  "env_modulation_0.1_1Hz_rms_dB": 3.5
+ },
+ "new_HoliznaCC0_20_Minute_Meditation_1_file_8.0_to_511.9s": {
+  "I": -11.2,
+  "LRA": 0.8,
+  "TP": -0.1,
+  "centroid_hz_energy_weighted": 559.6,
+  "centroid_hz_median": 554.1,
+  "rolloff85_hz_median": 969.0,
+  "hpss_percussive_fraction": 0.16,
+  "onsets_per_min": 29.2,
+  "pulse_autocorr_max_0.3_2s": 0.49,
+  "env50ms_std_dB": 1.05,
+  "env50ms_p95_minus_p5_dB": 3.42,
+  "env_modulation_0.1_1Hz_rms_dB": 0.47
+ },
+ "method": "tools/screen.py (ffmpeg ebur128 + scipy STFT 2048/512, own HPSS median filter and spectral-flux onset picker) and env.py (50 ms RMS envelope), same code as the Hendrix v2 screening; measured on 128k mp3 re-encodes of the used 503.9 s segments"
+}
