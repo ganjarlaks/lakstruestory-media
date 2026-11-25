@@ -1,0 +1,29 @@
+{
+ "under_narration_voice": -16.0,
+ "under_narration_bed": -24.0,
+ "voice_stem": -16.0,
+ "full_mix": -16.0,
+ "BED_UNDER_LU": 8.0,
+ "BED_GAIN_DB": -8.8,
+ "ra": {
+  "R2": {
+   "at": 166.63,
+   "dur": 13.2,
+   "lufs_raw": -38.7,
+   "gain_db": 19.7,
+   "lufs_final": -19.0,
+   "peak_dbfs": -0.9
+  },
+  "R3": {
+   "at": 356.0,
+   "dur": 11.5,
+   "lufs_raw": -19.6,
+   "gain_db": 0.6,
+   "lufs_final": -19.0,
+   "peak_dbfs": -2.5
+  }
+ },
+ "voice_stem_before_scaling": -17.4,
+ "bed_file": "/home/claude/work_gad2/b1/music/bed.flac",
+ "voice_minus_bed_LU": 8.0
+}

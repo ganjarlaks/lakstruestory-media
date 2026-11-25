@@ -1,0 +1,91 @@
+{
+ "total_s": 491.3,
+ "classes": {
+  "cards": [
+   35.0,
+   7.1
+  ],
+  "HD video, silent": [
+   183.6,
+   37.4
+  ],
+  "SD video, silent": [
+   40.1,
+   8.2
+  ],
+  "typeset": [
+   207.9,
+   42.3
+  ],
+  "SD video with real sound": [
+   13.2,
+   2.7
+  ],
+  "HD video with real sound": [
+   11.5,
+   2.3
+  ]
+ },
+ "real_video_total": [
+  248.4,
+  50.6
+ ],
+ "sd_total": [
+  53.3,
+  10.9
+ ],
+ "by_source": {
+  "Al Jazeera English, Libyan Rebels Move Towards Sirte (2), 2011 (720p)": {
+   "silent_s": 29.6,
+   "sound_s": 0.0
+  },
+  "Al Jazeera English, Gaddafi and Berlusconi Sign Migrant Agreement (hall banner reads 2009) (720p)": {
+   "silent_s": 23.3,
+   "sound_s": 0.0
+  },
+  "Al Jazeera English, Rebel fighters in Libya, 2011 (720p)": {
+   "silent_s": 30.9,
+   "sound_s": 0.0
+  },
+  "Libya's Qaddafi, 1980 US TV programme, FuzzyMemories transfer (854x478 SD, cropped)": {
+   "silent_s": 13.8,
+   "sound_s": 0.0
+  },
+  "BBC News Bulletin, Lockerbie Air Disaster, 21 Dec 1988 (654x480 SD, cropped)": {
+   "silent_s": 8.9,
+   "sound_s": 0.0
+  },
+  "Al Jazeera English, Tunisia: Riot Police Put Down Weapons, Join Protesters, 2011 (720p)": {
+   "silent_s": 5.3,
+   "sound_s": 0.0
+  },
+  "Al Jazeera, Libyan Uprising Day 5 [26.02.11] (640x480 SD, windowboxed, cropped)": {
+   "silent_s": 17.4,
+   "sound_s": 0.0
+  },
+  "Al Jazeera English, The National Transitional Council in Benghazi, 2011 (720p)": {
+   "silent_s": 12.3,
+   "sound_s": 0.0
+  },
+  "US State Department, Ambassador Rice explains the vote on Resolution 1973, 17 Mar 2011 (640x480 SD, cropped)": {
+   "silent_s": 0.0,
+   "sound_s": 13.2
+  },
+  "Al Jazeera English, James Bays reporting from the frontlines of Libya, 2011 (720p)": {
+   "silent_s": 46.1,
+   "sound_s": 0.0
+  },
+  "Al Jazeera English, Rebel fighters in Benghazi, 2011 (720p)": {
+   "silent_s": 23.3,
+   "sound_s": 0.0
+  },
+  "Al Jazeera English, Libyan Rebels Move Towards Sirte (1), 2011 (720p)": {
+   "silent_s": 12.7,
+   "sound_s": 0.0
+  },
+  "CBS News, Clinton on Qaddafi: We came, we saw, he died, 20 Oct 2011 (720p)": {
+   "silent_s": 0.0,
+   "sound_s": 11.5
+  }
+ }
+}
