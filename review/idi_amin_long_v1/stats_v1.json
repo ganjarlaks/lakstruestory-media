@@ -1,0 +1,51 @@
+{
+ "total_s": 503.93,
+ "classes": {
+  "cards": [
+   35.0,
+   6.9
+  ],
+  "SD video, silent": [
+   239.4,
+   47.5
+  ],
+  "typeset": [
+   172.0,
+   34.1
+  ],
+  "SD video with real sound": [
+   57.5,
+   11.4
+  ]
+ },
+ "real_video_total": [
+  297.0,
+  58.9
+ ],
+ "sd_total": [
+  297.0,
+  58.9
+ ],
+ "by_source": {
+  "D": {
+   "name": "Channel 5 documentary on Amin, 2001 (YouTube mirror on Internet Archive, 638x360 SD)",
+   "silent_s": 170.6,
+   "sound_s": 40.2
+  },
+  "P": {
+   "name": "British Pathe, General Idi Amin (480x360 SD)",
+   "silent_s": 4.2,
+   "sound_s": 9.4
+  },
+  "R": {
+   "name": "Retro Report on PBS, Send In the Special Ops Forces (1080p container, archival SD inside)",
+   "silent_s": 52.5,
+   "sound_s": 7.9
+  },
+  "T": {
+   "name": "Tanzanian and UNLF troops 1979 film (480x360 SD)",
+   "silent_s": 12.1,
+   "sound_s": 0.0
+  }
+ }
+}
